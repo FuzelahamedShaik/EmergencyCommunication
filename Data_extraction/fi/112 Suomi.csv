@@ -1,0 +1,395 @@
+Review Id,User Name,Review,Rating,Date of Review,reviewCreatedVersion
+d9b83f81-4bec-446c-aec3-9c6e01a8885b,Patrik Rådman,"""Physical activity"" permission? Why?!",2,2023-02-13 11:55:53,4.4.23
+14fad9b7-d7f5-4686-9a5a-7dff41dda083,Leonardo Navarro Ortega,"Sadly, this application crashes often. One would expect better from a security related thing. It seems to be unable to get the GPS position.",2,2023-02-11 14:14:12,4.4.23
+fafc0abd-c072-4f0a-969b-fbcc2f9ed8ed,Jouko Tenhunen,"The application has started beeping and waking up even in the middle of the night to get permissions to use the phone's capos (location, etc.) even though the settings are ""allowed when using the application."" Now you have to force close the entire application. I understand that it has been changed, because Android now automatically removes caps from unused applications, but allowing it while using the application should be enough.",3,2023-02-03 09:35:31,4.4.12
+aa34cb13-8606-4d9e-b63f-f6b18fa81872,Eki Tee,"In the older version, when you called 112 normally (without starting this application), the cage received the location information from somewhere (maybe this application sent it in the background). The new version asks for location data permission all the time (or after the Android update, Android is smarter and monitors applications) -> incomprehensible that I should send location data to the app maker all the time -> it's ok to send it when I call 112. I have to delete it because I don't want to receive that query a few minutes",1,2023-01-26 14:47:17,4.4.12
+9ef64c7a-ecf5-44ca-be2c-94b59132f5b3,Timo Virtanen,App is constantly requesting permission for location. I have granted permission while using the app but I don't want it to be tracking location on background. Now I get constant location requests and whats even Worse I can not use the app unless i grant the permission because when i open the app request popup keeps popping over and over even if i press cancel thus making the app impossible to use.,2,2023-01-24 10:30:41,4.4.11
+26b8886f-ec31-466b-8bc1-dc8530f033fe,Jarkko Räsänen,"The program forces send location information in the background. I don't think this should be mandatory. If so, it should be ensured that the location information is not removed from the device during normal use (an emergency call is not normal use). Based on the location, the announcements can also be filtered manually on the device and it should not require the location to be sent to the server for possible recording (person spying!).",2,2023-01-20 20:05:58,4.4.11
+bae05787-a007-4e0b-9abd-f582a1a7b56c,Hyhb Hyhb,"How to turn off unnecessary traffic announcements (sohjoinem driving weather etc. smart-free warnings) so that essential traffic announcements remain on (crash, road blocked )?",2,2023-01-19 12:41:27,4.3.3
+a7b8bbf7-00af-4bb5-b7f3-94c7228439e0,Tommi Paananen,"The new version crashes after approx. 30 seconds if you don't give continuous permission to location, but only when the application is running. You have to be quick when dealing with an emergency before tuut tuut tuut...",1,2023-01-18 23:17:56,4.4.7
+a18a22b3-2bd7-42f7-8f01-9e66539f66ff,FinnickF0x10,"It would be good to have a 3-second time trigger in that 112 call section because I have already managed to call the emergency center many times. Both times the emergency center got the exact location where I was. The first time I used it, I was surprised how many settings had to be accepted in order to be able to make a call (location acceptance, entering my own phone number, and thirdly, you have to accept that the application can proceed to make the call). The danger sounds are clear and the user interface is suitably simple. I have not received so-called ""useless"" danger notifications from outside the municipality of residence.",5,2023-01-18 16:30:50,4.3.3
+ab34b22d-cddd-4dc8-ba6d-499784866de1,Axxount,"The app's notification settings could use some work. The vibration style feels to me like someone is calling, and then there is a traffic bulletin or an official bulletin. It would be good for these to have their own vibration style settings and be separate from the danger notices. Now I had to remove the vibration from the phone side as well, but it wasn't enough under ""Authority notices"", I also had to remove ""rn-push-notification-channel""? Pretty confusing. Yes, and the numbers in the ""Services"" section could be a little clearer and faster to find.",4,2023-01-18 16:21:01,4.4.7
+0afdd2f7-bcc6-4302-8c27-8ff0f30ff15c,Olavi Murto,I love the traffic Warnings when there is a close road.,3,2022-12-12 14:48:42,4.3.3
+056388db-03d4-4528-85a4-3b2d5796de0f,Myrene Duerto,Very useful. Can defenetly save lives.,5,2022-11-24 15:25:15,4.3.3
+b917340b-aff1-4172-951d-fecbffbab64f,kitty exe has stopped working,"Trafikmedalde kommer ofta endas på Finska, och om de kommer på svenska så är det när varningen inte langger är relevant... Har inte austen auch av de andra funktionerna så kan inte ge någen Recension för resten av appen",5,2022-10-19 17:50:43,4.3.3
+15b807cc-2afe-411e-82c2-e57065f0a7ae,John," To save battery, the app could support a dark theme. The user interface of the application differs from the usual Android applications. The application could follow Android's native components in terms of user interface. Using location information in the background significantly increases battery consumption. It certainly wouldn't be a big job to localize the application also into Russian, Estonian, French, German, etc...",3,2022-10-13 15:46:43,4.3.3
+fab8f70d-25cb-4072-986e-161f007fdb6f,Uuno Turhapuro,"The application is unusable because it crashes every two seconds allowing Google location services. No thanks, answering doesn't help.",3,2022-08-22 16:49:48,4.3.3
+3d1d2baa-970f-43eb-9101-065edb7138aa,Lasse Reinikainen,i killed my dog ​​änd i tindint ket eny help.,1,2022-07-20 10:13:00,4.3.3
+7d3e4bad-4bf3-4bf5-abd0-c09e219fcc90,Nuolipyssy klipit,"I opened the app to see how it works. There is no question that he would have let an emergency call be made. First, ten regulations had to be decided. You can't be that stupid! A person in an emergency does not want to decide on a hundred settings, but to get help. You should IMMEDIATELY do something about it!",1,2022-05-21 22:45:47,2.0.19433
+d1676e18-00a3-4934-b4d4-82128b954253,Antti Kukkonen,"rn-push-notification-channel notifications (3 pcs), as well as TSLocationManager notification in the settings. It's hard to say what they are, but at least there are traffic announcements, even if ""Traffic Announcements"" is turned off.",1,2022-04-18 14:33:56,4.3.3
+d73dac0a-d818-4ec6-ab16-b96732bb9fd5,vesa,"I don't know if the official alerts work when I don't get any kind of regular test announcements from the app. This doesn't include the common siren alarms and I don't listen to the radio all the time. For example, in a nuclear accident, iodine tablets must be taken in a timely manner according to official instructions. I don't know if this will work if needed? This appears to be the only channel for giving feedback. I hope it reaches the developers.",3,2022-03-22 09:00:04,4.3.3
+1eb79e77-2076-4c24-9846-37c90440ae54,John Collin,"Verkligen jättebra man har sin position genast, bara man har kontakt med gps eller telefon master-och ström i batterye :)))",1,2022-03-16 07:19:58,4.3.3
+dd1aafc3-bdd4-47a0-aba7-01dd669d075d,Mats Ångerman,"Rescue agencies recommend and the cage recommends. There has been no need to call. Many thousands of calls have been made through this (others have called according to statistics) and 500,000 downloads save lives, I recommend it :-)",4,2022-02-21 18:38:53,4.3.3
+1da09446-e203-415d-8998-7cb40b87ff79,Jimi Korkala,You can't remove the loud alarm tone in the settings. Just a notification would be enough.,5,2022-02-11 15:11:38,4.2.21
+35f2ee1d-4504-4db3-9580-190013883556,Anton Temba,Totally pointless,1,2021-11-01 11:56:38,4.2.21
+7f271329-6717-4639-ae59-0b1e091a1eef,RM_ HTMLKoodaaja,"Interface is translated, but Notifications are Finnish-only and not copy/pasteable for translate. Essentially useless if there is a real emergency",1,2021-10-31 00:08:31,
+d5977332-6509-4ee7-be13-5d2c93b7f329,Aubrey Bailey,"A useful application, but please help me, what kind of jargon are those announcements. Please note that it was done with a machine. Accident sites/road works are announced for 100 km of road sections and some intersections, texts in the style of ""...heading from the direction of Jyväskylä..."" etc.",2,2021-10-24 12:57:35,4.2.21
+4adab31c-933c-4475-bcb7-d863f49ca8e9,Patrik Forsman,"Asks for a phone number right at the beginning. When you go to the settings, the non-working software has already removed it. Should this be trusted? GPS accuracy of 150m is also completely useless.",4,2021-09-29 08:31:38,4.2.21
+830099e8-ad93-4333-9b26-e6be59c7124e,J N,"Traffic announcements are always double these days, why is this? I had to turn it off because of this.",1,2021-09-05 21:26:16,4.2.21
+d3ec0dc4-c1f5-4291-b43c-6f8ea0e2e9ad,Antti Kinnunen,"Otherwise, a great app, but when I turned on the traffic information push messages, they come twice every time.",4,2021-07-06 12:59:26,4.2.17
+b929e758-75ac-492e-a54c-9b410ad48fee,Kimmo Puranen,"Too much spam, messages shouldn't be sent about any nonsense that happens every other day, and why are the messages in Finnish when the app is set to english?",3,2021-06-23 12:36:52,4.2.17
+a8e55c1f-4a3c-434b-a4e8-ee248a52f842,Dolby,Disturbing. Every other day there are notifications about technical problems related to the operation of the emergency center,1,2021-02-11 12:37:41,4.0.3
+a32a2b96-737f-4916-a74a-13c90a5df1ec,Tuomas Ahola,I guess the app works but they keep spamming Notifications in Finnish no matter what language is selected so they can shove it up their tailpipes,2,2021-02-11 11:28:30,4.0.3
+6b34d08a-68e4-46ac-b48e-cd64fabb0ba4,Marcus Soininen,There are a little too many forced head-splitting beeps at random times from some emergency text in different connections. A rather marginal problem probably wakes up users throughout Finland in the middle of the night and so on. Come up with a better way to inform that user group. I removed the whole app because this just goes on and on.,1,2021-02-08 18:13:03,4.0.3
+c069e0a0-edab-4ee4-befe-795f0480173b,Emilia N.,Useful,1,2021-02-08 18:10:14,
+2fe56852-f483-4eb6-ae68-dbed25ce1f62,Markus tolkki,"It is difficult to rate an app, that hopefully, you never need to use, but the design, layout and information seems very good, as do the comments from other users , so because of what it is, and what it does, it really needs to be given a 5 star rating.",5,2021-01-02 00:13:06,4.0.3
+6f176114-d514-4ebb-a295-16cc3e9d8e44,Colin B,"Have never needed the App, which is a good thing. Just received an alert. Couldn't copy the text to translation app. Hopefully it will be possible to copy the text of alerts.",5,2020-11-07 10:05:40,4.0.3
+69a648ee-b39d-4db9-9b7c-038da82dae6f,Z. Liu,"Nowadays! Especially positioning is important, but also receiving danger notifications directly to your hand/phone.",2,2020-10-07 12:12:46,4.0.3
+8273e27f-548d-4cc0-aaa6-fb0a38a71f47,Tttt Kkkk,"Management of notifications is missing. Disturbances in the mobile phone network do not really interest me at three in the morning, at least not so much that I would like audible notifications.",5,2020-10-02 06:29:25,4.0.3
+a3955f18-5bba-49f0-9d0d-6f9147167550,Juho Heikkilä,Amateur hour. Like some student's practice work.,2,2020-09-21 08:33:20,4.0.3
+b64dbfac-7564-4a0a-8021-71a847ad26b6,Niklas L,Luckily it's not used 😅,1,2020-09-01 19:53:16,2.0.19433
+f48f7a9d-b32d-47a2-843e-18b093007c1a,UncleFankes,Great update. Find information much better,5,2020-05-31 13:15:24,4.0.3
+516429ad-d4b9-4bb7-a3cb-a981be459238,Kristian,Usefull,5,2020-05-31 01:29:35,4.0.3
+548fe798-a9c8-41f4-a65d-caa31611c096,A Google user,Very useful app. Shows automatically your location to emergency room. It has many other emergency numbers too. Authorities are able to send you public notifications.,5,2020-04-27 22:54:26,3.1.0
+001a11ff-378f-4236-b52e-205b35e50a53,A Google user,"The phone reported that the application was searching for my location in the background. When I downloaded the application, I got a picture that the location would only be used in connection with an emergency call.",5,2020-04-01 13:34:12,2.0.0
+e5ab655e-2867-428e-b741-124b182e0d88,A Google user,"It's great that the text of the notification is not fully visible and the dropdown symbol is missing, which would have seen the entire text that was tried to be sent in the tests. Many apps can do that nowadays. Back to learning how to code for androids.",1,2020-02-22 09:47:35,
+2122120f-5a46-446f-b1dd-5059e014edbd,A Google user,"The program would possibly be good in an emergency situation, for example when hiking to some rocky place with a broken leg. Unfortunately, the location of the phone would have to be constantly turned on in order to get the full benefit of the program, and even if you don't have to, the program will constantly show this kind of notification WHICH CANNOT BE HIDED. Because of that annoying notification, I'm deleting the 112 app.",3,2020-02-11 12:18:48,2.0.0
+1cb5c8fc-7cfc-48a3-abac-285beb203a6e,A Google user,"More accurate positioning improves getting help, please download it!",3,2020-01-19 19:23:15,2.0.0
+9135b3e5-051c-4f06-bca6-4b3571be2139,A Google user,"GPS is on all the time and consumes the battery, closing the app doesn't help. You could send more information than just the location.",5,2020-01-03 12:01:59,2.0.0
+aecdbe57-76c9-42e3-8207-e281e942e932,A Google user,There was no notification or sound signal from the emergency notification.,2,2019-12-21 16:41:02,2.0.0
+71c47c0a-fa30-4821-a5f0-7ce1adf23896,A Google user,"It's actually a pretty miserable mess, you can't enter any information about yourself that could be useful to the emergency center, e.g. allergies, close relatives, home address or a short description of your health if there is something special. If I have a seizure, I might not be able to speak or act so that I could give any advice. Which schoolboy made this binding too, we hope we never have to use it.",3,2019-11-22 16:30:16,2.0.19433
+87da710c-ee78-4f04-87a6-07a257465d8d,A Google user,"The application is easy and very practical. I personally had an application on my cell phone in case of emergency, but in shock I couldn't open it, so I called the emergency number as usual. However, I noticed how difficult it was in shock to advise a location that I wasn't even completely sure of, so using an app instead of a normal call would certainly have been a better solution. Hopefully there will be no need to call the emergency number in the future, but at least now I know that the app will relieve the shock of an emergency.",1,2019-09-23 22:46:18,2.0.19433
+252394be-15c1-4056-b6fb-4f506fbf7b23,A Google user,"Has some additional features, such as Hotline for Missing Children, confidential Child and Youth Phone and few others. Also you can check if in your area some public danger announcement was made. Did not see it in practice, just assume most of the features there are useful.",4,2019-08-21 12:54:44,2.0.19433
+3d2505b4-a98d-49ba-a71d-72cf5083f4f4,A Google user,"If it is true that you can only use the application if you have given it your phone number in advance, it is criminally bad. Most of the users don't know it and in an emergency you may not be able to write that number, especially if you have to use someone else's phone to make an alarm.",5,2019-07-03 10:44:55,2.0.19433
+f1e00133-2a27-4ae8-86ef-6476a2f1dd72,A Google user,The appearance of the program seems clear to use. Neither of the links on the About tab work. The user is therefore not able to read the terms of use or the privacy statement.,1,2019-07-01 18:35:15,2.0.19433
+62fd0743-ca98-443d-9599-0e4dbe4dbcde,A Google user,"The program only gives the location, which is what phones do today anyway. Does not ask for name, age, address, allergies, medication, blood type, illnesses, social security number, next of kin, relative's phone number. When there is no police in Naantali at all, it makes me wonder what joy there is in this. Everything that matters is missing from this program.",3,2019-06-21 21:12:20,2.0.19433
+453a8b4f-b341-47ec-ad54-6d5930573836,A Google user,worked really well. Got help 5 min from making the call. Was in the park without accurate address,1,2019-05-07 09:07:27,2.0.19433
+463b9fa7-c411-4684-8501-8377174e7fdb,A Google user,it is a good beginning,5,2019-04-20 11:46:47,2.0.19433
+71cb2899-2866-4c5b-a9e6-aab79deae5a6,A Google user,"The program doesn't have a lot of text, so it shouldn't be too difficult to find compound word errors. ""Help emergency and..""=> ""Help emergency and..."". With the new 31.01.2019 update came many more requirements for rights, such as allowing startup when the phone is unlocked. I don't accept this, because it eats up the battery when the program is running in the background. It's a pity that I have to remove this app. I hope no one comes across someone who needs help and dies because of this!",2,2019-03-30 12:37:53,2.0.19433
+bbe4cded-fc18-44d8-8572-91dd98b0e465,A Google user,good,1,2019-03-16 20:07:01,2.0.19433
+7f7253f9-82ef-4c50-9783-15285c29a5ec,A Google user,"The application should have the option to manually specify the locality, for example to receive regional danger messages. Now that only works if the gps is on 24/7!",5,2019-02-27 18:41:09,2.0.19433
+104ad205-3c63-409c-8ade-ee2aad56e747,A Google user,It's not really helpful in an emergency when it always asks for a phone number. Apparently a bug. Seems to be the normal level for public IT projects. How is it possible that it was not revealed in the tests before the release?,3,2019-02-11 11:41:46,2.0.19433
+72a00853-2921-4e46-9f6b-7fd740b47f26,A Google user,This app is not necessary anymore... All android phones send the coordinates to the emergency center instantly when you call.,5,2019-02-01 11:34:02,1.2.9
+ccf418aa-553b-46f2-ae5a-f18b5fd46349,A Google user,Easy to use. Hope ill never have to tho,2,2019-01-31 19:10:39,1.1.145
+15679991-4e6b-4f3a-be2a-ac9949c81886,A Google user,Did not call 112 Papa died for nothing,4,2019-01-30 19:40:04,2.0.19433
+473dc5ae-7d94-4a15-b704-504ab6b111c6,A Google user,I've used this 2-3 times and Every time they ask me to describe my location. Doesn't seem to work for whatever reason.,5,2018-12-12 13:02:40,1.1.145
+91378440-9b7a-49e4-a09b-0164b24f4791,A Google user,"A working application, but you can't say much about the functionality because
+fortunately, there has not been a need for this yet. The appearance could be a little
+more modern, currently it looks like it was made in the 90s.",2,2018-09-09 08:57:45,1.2.9
+877c8aba-ff14-4760-82c0-a9a0ef87e275,A Google user,"Swedish translations are awesome! ""Konfidientiell stöt för barn och
+ungar"" -> Konfidentiellt stöd för barn och unga. (Ungar means
+""for the puppies"") ""Hjälp till dem som utilizatiar aubliknik service"" -> Hjälp till
+dem som use public service (utnyttja = take advantage of,
+(use)",3,2018-08-04 10:49:28,1.2.9
+4c7428ed-5967-4b63-8b99-6fe66b27ed93,A Google user,Forgets your phone number on device reboot and asks for it when you launch the app. This is irresponsible and will cause someone to not get help in time. It is borderline criminal to have this app available. Why does it even need your number? Fix it or remove it.,3,2018-05-28 11:36:17,1.2.9
+e0c09170-98ce-405d-97eb-ba3d72c00779,A Google user,"It should have the ability to upload or share pictures and videos of incidents and anonymously. just spotted a drunk driver who smoked a cigarette while filling gas. nowhere to upload. and i don't want to give my info, just offer a tip about a hazard. and gps on automatically.",1,2018-03-02 19:17:38,1.2.6
+f389b847-aed0-4f7d-a460-64ff1bb53973,A Google user,Wonder what happens with dual-SIM as the app asks for just one phone number.,3,2018-02-18 15:44:33,
+b908680c-37c4-4c48-8810-8c6b5d421274,A Google user,This is a good app to have just in case,4,2018-02-04 14:51:21,1.2.6
+f1a2a2c6-6ce6-404f-b907-19d9851fd44a,A Google user,Everyone should install this for their own safety if emergency happens,5,2017-12-29 18:16:36,1.1.205
+162659b0-5aac-4837-ba3d-5006e8f2ff2d,A Google user,Just to be sure and to make it easier in times of need.,5,2017-12-28 13:28:22,1.1.205
+1cd42195-e1b2-4c2f-b1bd-c8a48d5294a3,A Google user,There should also be a small map so the caller could check if the location is shown correctly,5,2017-12-05 17:21:29,1.1.205
+3bcda8cc-f6c0-484d-ab15-a9c27e91efb3,A Google user,"I was unable to download the app to the Samsung Galaxy A3, or at least find it and move its icon to the main screen. Digia's chat asked to turn to Samsung, and after a long conversation and experiment, Samsung's chat suggested to turn to Digita, and when I asked if Samsung is not ready to try the matter, taking into account the intended use of the application, with the exact same model phone in hand, Samsung's support person cut off the chat. A shared private house contract came to mind where an electrician, a plumber and a mason discuss the issue and responsibility between each other and the developer-end consumer is confused. If the chat support staff imagines that the old tenacious editor will leave it at that, then their guess was wrong :-). I think I'll love the program as long as I get to play it, but at the moment 1 star = ""I hated it"". This did not mean that the problem could be in some setting of my ""smartphone"", but I would have thought that the matter would have been solved by those support contacts.",3,2017-09-20 09:05:14,1.1.206
+3b57d4a1-03ae-4aa8-9175-1cc3a3697536,A Google user,"App would be 5 star app, if a calls wouldn't have any manual actions. Now the app just redirect call number phone app.",1,2017-09-13 13:27:19,
+fb22ff5a-5791-4233-9c6f-ed178ebf571c,A Google user,"REMEMBER to use the app before an emergency, because the app asks for the phone number the first time you start it. It's bad to start typing in an emergency.",4,2017-09-08 10:24:03,1.1.206
+211eb5bc-ad3b-49ba-918e-f577f57f8164,A Google user,Just shuts down. Immediately.,5,2017-08-31 08:21:06,1.1.204
+00258d8d-fff6-4d8f-833a-b6eac4764928,A Google user,Crashes right after starting with 1+5,1,2017-08-28 17:43:51,1.1.145
+3ec75c93-1e30-4b50-bae2-85d2f82c749b,A Google user,"Doesn't start at all with Oneplus 5 (128GB model). ""Enter your phone number to start using program"" flashes on the screen and the program skips.",1,2017-08-20 16:13:23,1.1.145
+770a73fb-126f-4e5f-9ab8-7ee07b2dc7fd,A Google user,OnePlus 5: crashes right away.,4,2017-08-20 09:06:18,1.1.145
+3e0a4405-1071-4327-b0ec-c707d741602b,A Google user,"Crashes with OnePlus 5's standard Oxygen OS immediately when starting, works fine with custom roms.",3,2017-08-16 22:23:13,
+34afb0f7-616d-44d0-b916-b03b003fa747,A Google user,Doesn't work on OnePlus 5 handset.. .The program crashes on the screen asking to confirm the phone number.,1,2017-08-16 06:00:56,1.1.145
+366c7d94-b50b-42b8-a1fc-343bcdb29754,A Google user,Crashes immediately upon opening. It should be fixed as soon as possible!,1,2017-08-08 21:21:10,1.1.145
+410af17d-0ac7-4484-895d-a79039a51709,A Google user,Nowadays it crashes when starting the program.,1,2017-08-05 21:30:04,1.1.145
+575376bf-aeba-4fa6-9233-c3c56567e42c,A Google user,It would be good if you could + for intetnational users.... not everybody knows the Generic code for Finland for instance,1,2017-08-05 10:52:05,1.1.145
+2766758e-cd36-44db-8afa-b22bd005753e,A Google user,Slow and clumsy to use.,4,2017-07-16 10:44:56,1.1.145
+ba0b4a83-c9fd-4ceb-a317-c4c59dbdc194,A Google user,Does not locate me on startup nor after waiting 5 mins. Settings are checked and should be working.,2,2017-06-19 18:50:47,1.1.145
+51bc6c63-275c-44f5-b31b-0fe4208c2c23,A Google user,Awesome and useful but gps and location accuracy doesn't work. Searching for location but doesn't find. Thanks,2,2017-03-08 18:39:27,1.1.145
+ec1e184f-5b58-41e6-948f-c7b4f24f5cdc,A Google user,Good,4,2017-01-20 11:00:20,1.1.145
+d3aefe60-e4e2-48a4-a470-68a03614bb31,A Google user,"Wouldn't it be worthwhile to code it so that when you call, the GPS location is automatically turned on, if it isn't already? No one in a panic realizes what gps settings to adjust.",5,2017-01-19 06:49:31,1.1.145
+f194fdfa-b206-4211-80b7-e222fdffe550,A Google user,Nice piece of sw. And the interface is good. The idea of ​​the interface is not to look fancy but to be visible and clear from a longer distance. Also the idea of ​​having a map in the background does not work. The map needs time to load. And in many situations the lines are too bad for downloading a map.,3,2016-10-14 13:21:22,1.1.145
+8d30161e-f4ce-4a57-9e7f-cf1e4f8dfc25,A Google user,Show a Google Map or OpenStreetMap on front screen on the lower part. Maybe you could toggle it with a touch with the GPS-coordinates.,5,2016-04-17 18:07:06,1.1.145
+fc5790aa-5431-4734-a375-922698987c94,A Google user,Nice idea,3,2016-02-29 16:07:50,1.1.145
+ca831755-4842-4e6c-9b49-15312b8db5c6,A Google user,Today I had to test that app and they found the accident scene really well.,5,2016-02-13 11:05:29,1.1.145
+e5e8529d-4e09-459a-bacf-9725e4f78d49,A Google user,"Dear father-in-law, one improvement idea would be: add a feature where you can report an Über-taxi to the emergency center with the press of a button, if you happen to see one.",5,2015-12-15 08:24:32,1.1.145
+019064f1-dc6b-43aa-9a1f-d47a1c2af9d5,A Google user,I had to try it in a real emergency and writing the phone number ruined the whole thing. It took a lot of time to explain the location to the emergency center. Not so.,5,2015-08-14 13:45:19,1.1.145
+1fd54845-11d6-40b6-bd5f-900443c1e067,A Google user,Absolutely perfect app! Especially when these truck jobs often don't have anything to do with the exact location.,1,2015-07-15 22:43:04,1.1.145
+fcd8b269-6f7d-46e4-925a-0cbd88d0094c,A Google user,"Version 1.1 is already pretty good, and it's not terribly big anymore. Works at least on Samsung Galaxy Note 4, Android 5.01. In any case, the battery is consumed so much that one GPS does not affect the matter either. It would be nice if you could somehow test this on a test number, when you are not allowed to make test calls to the emergency center.",5,2015-07-08 07:34:53,1.1.145
+f6078923-2312-4765-8993-a049640754f6,A Google user,"Do not dare to use this, so as not to accidentally call for nothing. The idea is otherwise good, but in case of an emergency, remember to look for this among other applications.",5,2015-06-30 21:54:23,1.1.145
+0084e885-4b2e-4c84-b507-ebee6ca5e2ac,A Google user,"Did someone vomit on screen when doing the design? Would it hurt to *try* to learn a bit Android design before jumping into devving? This is an embarrassment to your brand, Digia.",3,2015-06-28 23:33:47,1.0.119
+c92c67e3-e225-4316-b167-8182fc48f60d,A Google user,"Quite large software considering its functionality, 45 mt. No further, although the idea is good. Poor execution.",1,2015-06-26 00:14:13,1.0.119
+c9444480-c968-4840-951c-65f719f7d8bd,A Google user,"""You are here"" is the most relevant information, good, points for that. However, the application should forcefully turn on the GPS antenna for a while, otherwise the truth is more like ""You are somewhere around here"". If this is not possible (wmd does know how to do this), then at least somewhere in the corner a prompt to turn on the antenna. The minus comes from being morbidly overweight and a translation error (Itä mukamas 'E' in Swedish).",2,2015-06-23 00:10:13,
+d948e8fd-7388-4220-83ed-6e1ada1e5b28,A Google user,"For some reason, the phone number is not saved in the application. Phone Sony Z1.",3,2015-06-22 21:46:31,1.0.119
+c9755412-8fbb-4054-982f-34d6dbdc1b53,A Google user,"A program which makes a call and displays a couple of phone numbers, the installed size is almost 43 MB. Otherwise, I can agree with the previous comments about the use of qt for this kind of software. And still cheating on quality control with phone number recording.",4,2015-06-22 16:53:24,1.0.119
+734696e0-0def-466a-805e-955a93eb3850,A Google user,Good. Hopefully no need for this though.,1,2015-06-21 16:19:20,1.0.119
+9fd6e329-6839-4786-a8f8-f72ab4e7cae1,A Google user,Simply a great idea,5,2015-06-19 08:19:59,1.0.119
+c8323836-9727-42e2-9b12-44d072fa8760,A Google user,"The application needs to be ""swipe killed""  to save the phone number. Either force closing it or ""backing"" out of seems to make the saving fail for whatever reason.  It would be nice if you'd display a warning that it won't suspend and keep using the GPS location until the battery dies, unless it is swipe killed. I understand that you don't want it to be suspended before the location is sent but you could at least provide a clear way to kill the application. It would also eliminate my first problem. I would personally never have noticed that my phone number wasn't saved and found a ""work around"" if it hadn't killed my battery. Not something you want to fiddle with in case of an emergency.  Finally, 42 MB... why? So you didn't have to touch Java? I suppose all versions run on QT and they don't need to be certified individually, but judging from the quality the certification process can't be very thorough. The mobile applications seems really simple so I can't justify the size and load time/splash screen compared, well, native applications of acceptable quality. QT is definitely overkill for this case.",5,2015-06-19 07:55:33,1.0.119
+8b41b77a-9966-4f08-8c9a-b6cf1dc1d6cb,A Google user,"Näemmä näyttää peräti tekstit englanniksi, koska käytän sitä puhelimen kielenä. Itsellä kysyi nroa vain ekalla käynnistyksellä. Kuulemma pitää 1-4 kertaa syöttää se bugin takia, jota ovat korjaamassa.",1,2015-06-19 04:05:30,1.0.119
+f5f1b366-b06b-4bc4-b9f5-1eed5f6f9480,A Google user,Fault code and it won't install,4,2015-06-18 21:36:29,1.0.119
+af2bcccf-77af-48f9-98b3-e52405a34cdd,A Google user,"Bra idé, speciellt i skärgården!",2,2015-06-18 17:30:26,
+35a8765d-dfcc-4e6b-bd1b-46d7e57fe3a1,A Google user,"Miten ihmeessä tämmöinen tekele on voinut päästä laadunvalvonnasta läpi? Puhelinnumero kysytään joka kerta uudelleen (selvä bugi), asennuspaketilla on kokoa 12 megaa mikä nostaa merkittävästi kynnystä ladata tätä 2G:n yli vaikkapa mökillä (tätä ei voi selittää mikään muu kuin fiksaatio tunkea sitä Qt:ta joka paikkaan silläkin uhalla että softan koko n. 20-kertaistuu)  ja jostain ihmeen syystä joka kerta käynnistyksen yhteydessä näytetään väkisin splash screen, mikä varmaan lämmittää mieltä siinä vaiheessa kun on onnistunut sahaamaan jalkansa poikki ja vuotaa kuiviin. Mulle on henk koht ihan sama jos tämmöistä roskaa myydään yksityisen puolen asiakkaille miljoonilla, mutta siinä vaiheessa kun näinkin kriittinen julkinen palvelu, jonka toimimattomuus maksetaan pahimmillaan ihmishengillä ,toteutetaan näin totaalisen ammattitaidottomasti, niin alkaa lievästi sanottuna ketuttaa. Yksi tähti viidestä ja haistakaa ***ka.",4,2015-06-18 16:57:21,1.0.119
+1bdcd9c9-b727-4b64-9fe3-ee54f584f5d5,A Google user,Tämän tason sovelluksen tulisi pakottaa sijaintipalvelut päälle tai ainakin yrittää sitä. Ite en henk.koht. pidä niitä päällä koska syövät akun samantien.,1,2015-06-18 15:47:57,1.0.119
+0ca538a3-9183-4855-9973-c7111123a6d8,A Google user,"Hyvä idea, toteutukselta toivon jatkossa enemmän. Ensiapu/toimintaohjeet? Sallikaa myös ip puhelut jos esim. kännykkäverkko on alhaalla tai ei kuuluvissa mutta wifi toimii. Mahdollistaisi myös tabletilla soittamisen hätänumeroon. Vaikka ei olekaan varmasti ensisijainen tapa, toimisi varajärjestelmänä. Puhelinnumeron kysely tuntuu tulevan uudestaan kun käynnistää sovelluksen mutta ei joka kerta. Toimiiko salaisen numeron kanssa jos piilotettu oletuksena? Toimiiko jos puhelu yhdistyy mutta ei ole dataverkkoa?",4,2015-06-18 14:40:23,1.0.119
+0094b556-bb37-40a4-ab66-1b6cfd54cc0c,A Google user,"It works very nicely in Jolla. I haven't made a real emergency call yet. It would be good if the application showed a map view or something else to see if the coordinates are correct. For example, the exact location of the phone inside this is certainly not known.",3,2015-06-18 06:47:14,1.0.119
+a1d70967-7368-4477-b882-1ccc64186967,A Google user,Why does the program need the user's phone number? How can such a simple program take up more than 40 MB of space on the phone?,4,2015-06-17 19:43:11,1.0.119
+bda7b931-8145-42a6-8776-6d00269ce7ae,A Google user,Why does the phone number have to be entered every time the application is started? Bug or feature?,4,2015-06-17 12:22:42,1.0.119
+256c9421-a6e7-4276-ac9c-b5eb28ed4e85,A Google user,,4,2015-06-17 11:27:07,1.0.114
+,JJ_84,"It was fine to call through the program, but the positioning does not work as it should. Gave wrong location information.",3,2016-01-18,
+,Yulmur,"Really, this location should be on all the time to work during an emergency call. However, this consumes the battery considerably, so it should not be kept on. In the moment of emergency, in a state of shock, the positioning did not work for this reason, and on top of that, I advised the fire department in the wrong direction. Fortunately, passers-by quickly corrected the situation and we got the right direction to the emergency center.
+
+I wish the positioning would work when using the application.",3,2019-05-26,
+,Olli 12345,"A clear and well-functioning application! Thank you !
+
+NOTE EVERYONE: Despite the wording of the settings, positioning is NOT on all the time! Only the always selection is so that the positioning would work when an emergency call is in progress!",5,2016-02-16,
+,samikki,"The call is successful through the application. The location has not been tested as such an emergency has not occurred yet.
+
+For those who want a ""not in the background"" option for location, have you realized that during an emergency call, the application moves to the background when the phone application becomes active? Then even positioning wouldn't work if it was prohibited in the background.
+
+The battery consumption caused by the application can be monitored under ""Battery"" in the settings. From there you can clearly see that this application does not consume the battery. If you have tested the program, you will naturally see a small amount of use there. Under normal circumstances, an unused application does not consume the battery at all.",4,2016-04-11,
+,Keksimonsteri,"For some reason, the push notification notification cannot be found anywhere in the application, and it does not open when the notification is tapped. Wouldn't it be good to have them readable somewhere, if it is swept away from the notification center?
+
+In addition, the order of the announcements on the announcements tab is somehow random, and you can't rearrange them. Wouldn't it be nice to have the latest ones at the top right away?",3,2021-01-26,
+,Henkka V.,"iOS 12 and later versions support sending location information during an emergency call anyway, so the only significant additional benefit of this app is receiving local emergency notifications. For that, however, the application requires unrestricted access to the GPS location, which it also uses diligently (at the expense of the battery). More harm than good, in my opinion.",2,2020-01-29,
+,Virittäjä,"Location is of course a great thing and in many cases it helps a lot, but the application could also have the user's basic information.
+
+Locating to an apartment building with a business connection does not yet lead to/bring the emergency services there.
+
+Similarly, there could be a place for information about the user's basic illnesses and medications, so that the emergency center would immediately have all the relevant information available.",4,2016-02-11,
+,Harmin paikka,I wondered for a couple of days why the iPhone 7's battery is dwindling at a tremendous rate. Then I checked the situation in the battery settings and I was surprised: the 112 application has been running in the background for more than 20 hours during the day and has consumed 65% of the battery's energy. This error must be corrected!,2,2019-11-24,
+,Digipoju,"The iOS interface could be used for danger notifications, so that the notifications are received even when the phone is on silent/do not disturb mode.
+
+There is also iOS's own interface for locating emergency calls, so this application is useless in that sense as well.",2,2022-02-11,
+,Tontuu,"Guide Tampere's Sokohotelli as the nearest defibrillator in Turku. Otherwise, absolutely great!",4,2021-08-29,
+,mcjori,"but the ads are mostly irrelevant. Push notification for every service interruption and traffic bulletin 100km away? As a rule of thumb, 112 messages should only be about critical, pressing matters.",2,2021-02-22,
+,Kivakaveri,"Despite previous evaluations, the application does consume battery in the background. This obviously depends on how much you move during the day. On some days, there has been 40 min of background activity. and then sometimes only 2 min. Could it be because of those ""local notices"" that you have to apply for them again in each location? The consumption is still not massive, but there are apps with similar features that don't use the battery that much.",3,2019-04-27,
+,Skuattis,"Same problem as others, the app is active in the background almost all the time and has become the biggest battery consumer along with heavy games. Forced to limit location rights",2,2020-02-02,
+,javitutole,"Location always on?! The battery runs out of this. Before the hazard notice flashing, positioning was on, only when using the App... They ruined a handy app with this flashing?! BAD !",1,2019-12-05,
+,Tzar5846,"Battery consumption has gotten out of control with the version update. The app, which used to spend a quiet life, now consumes 50% of the iPhone 7's battery during 8 hours of the night. You can also check this in Settings: 112 Finland, Background location",2,2019-10-13,
+,Simo J.,"In version 2.0.4 background activity and with this the battery usage has gone wild according to the battery usage view of the phone settings. And the application's settings still cannot prohibit the use of background tracking for official announcements, so the application cannot be used to locate emergency calls only in the background of the call.
+
+In addition, danger information experiments have not been received even once, so doubts arise about their operation in real situations.
+
+When asking for location permission, the explanation is incomplete, because location during calls is not mentioned. This should be the most important function of the application, so there is a risk that users will not pay attention to this and will only allow positioning when using the application.",2,2019-10-12,
+,Miika.,Takes up too much battery in the background,2,2019-10-12,
+,r638399374839292,"Never needed to use it, but now two days it has consumed a considerable amount of battery. I haven't opened the application on either occasion, and between times I must have closed all applications, including 112. Also, I restarted the phone",1,2019-10-12,
+,Karppal,"I deleted the app when the battery drains. During the night, the application has been running in the background for more than 12 hours and used 51% of the battery alone. There's no use in having an emergency call app that causes you to run out of battery power to call in an emergency.",1,2019-10-12,
+,hhenuliini,"This is the kind of app that I can recommend to everyone and I especially recommend that parents download it for their own children! I myself have (unfortunately) had to use this in the event of a work accident and this application pinpointed the location very accurately. I wouldn't have remembered the address myself in that situation and I wouldn't even have been able to check it anywhere because of my physical incapacity, but thanks to this application, the personal information was loaded automatically and the ambulance found the place quickly. Thank you!",5,2018-11-23,
+,Peldie,"11.2. the emergency notification test didn't pass, and the official notifications don't give any indication either - you should remember to check the application. Adjusting the settings doesn't help, sometimes road traffic announcements come through, sometimes not. Too bad!",3,2023-02-12,
+,Daily user moving to vimeo,"Apparently intended only for the owner of the latest model phone. Or how do I know if this program works as it should when I have an iPhone 5. The App store offers an update, but it doesn't do that, and it says that the version is not suitable for my phone.
+
+There is also nowhere to tell how the functionality of the program's location is if you use VPN protection, for example F-secure's Freedome.",2,2018-03-14,
+,Zoppaz,"NOTE EVERYONE: it really eats battery and a lot. I was surprised when the battery wears out so quickly and I thought that the phone is just getting so old that the battery has worn out. But then I remembered that I installed this program. After removal, the battery consumption is unchanged again. For some reason that battery consumption doesn't show up in the weapons section. But let everyone experience it for themselves. And if that increased battery consumption doesn't bother someone, then this is a great app. You never know when you'll need a blanket. But unusable for me like this.",1,2017-06-06,
+,Oh7lzb,"The app requires location access at all times, and does not offer the normal option of only accessing location when the app is used (in case of emergency).
+
+I don't want to give it 24/7 location access, it doesn't make any sense. It only has reasonable need for it when I'm using the app.",1,2015-11-19,
+,Ville R.,"Now add an option for location services to Use location ""only when using the app"". Now the options are ""always"" or ""never"" and if you don't give the right to use the location data even when the app is not on, the app won't work as it should.",1,2016-02-13,
+,Aina soi,"Good app and there is a lot of information that you might need at some point. One star goes to the fact that I get traffic announcements from different parts of Finland, even if it is selected in the settings: no traffic announcements.",4,2021-09-14,
+,Ronnbacka,"If you want to receive regional announcements, you have to keep the positioning in the background, the battery drains surprisingly effectively.",2,2023-02-07,
+,Sepeteus1,Some bug has appeared here recently. Eating in the background in the last 24h 21% of the battery capacity.,1,2023-02-01,
+,Olli_79,"2 updates ago something changed, the app takes a lot of battery. In the settings of the handset, the battery shows in light blue a full bar every hour, and according to the list, this particular application has been in the background the whole time.",1,2023-01-30,
+,somalinkaataja420,It didn't bring anything when I called,1,2023-01-25,
+,DivJ,"Very basic things like filtering danger notices still need to be done. I don't really want notifications from traffic bulletins, but danger bulletins must be displayed.
+
+Now, because of the traffic information spam, I have to turn off the information completely and practically rely on e.g. YLE.",2,2022-12-12,
+,mimulimu,"The app is really good!
+It would also be good if the application shows the nearest public shelter if you can't find it in your own apartment. Or larger underground shelters like in schools, etc. And possibly also a route that leads there safely. My street has been in the same place for over 30 years",5,2022-03-02,
+,Eitähänkelpaamikäännimi,We got lost in the fells when a blizzard caught us by surprise. The 112 application saved and the emergency center got our coordinates directly with the help of the application. I recommend downloading.,1,2022-02-26,
+,Vaeltaja15,"'Show location on the map' function should open to the terrain map. A lost person would be able to get back on the map, and would not necessarily need the help of the emergency services.",5,2022-01-11,
+,rinkkahiippari,Does not load on my iPhone,4,2021-03-15,
+,taksijukka,Nice,1,2021-08-19,
+,higugy576,"Why did the application want permission to use my health information, health app?",5,2021-08-12,
+,Turmio,"Calls an emergency call immediately as a pocket call, if the phone's screen unlocks in the pocket. No use to everyone; better to remove the app from the phone when making an emergency call is easy anyway.",1,2021-08-09,
+,psla,"Good app! Fortunately, I haven't had to call the emergency center once, but it certainly helps in a moment of need. And you can turn off the application's danger notifications, the location can only work when using the application. Wonderful!",1,2021-06-25,
+,Taistelukala,"I just started using it, takes battery life, sure good in a real situation (location works 👍🏻)",5,2021-04-13,
+,UwUcatUwU,In English version would be appreciated.,4,2020-07-22,
+,1579463285,"The application has started sending a disproportionate number of push notifications recently. At least once a week, often more. Not once have they been topical. The latest test notifications of a system. I would hope for some sense of proportionality from the developers regarding these. Now I'm going to turn off notifications at the operating system level, so I won't be reached by them in the future. I've made one emergency call in the last three years, and then the positioning seemed to work.",5,2021-03-14,
+,Tiskiharja,It's been a lot of pointless wolf-crying with this App lately. I can't bear to listen when my father-in-law keeps yelling about a test or some other urgent problem. Customers turn off the taps and the entire emergency bulletin suddenly stops working. Now stop spamming with useless pushes.,2,2021-02-11,
+,Uva Kikko,"When a notification about a danger bulletin appears on the home screen, pressing it should definitely redirect you directly to the bulletin and not to the main page of the application. In addition, the bulletins that contain the notification do not always appear in the bulletins at all.",1,2021-02-11,
+,MiquelFIN,"A convenient application, but there are infuriating useless notifications almost every day. I don't have a Telia subscription, but I constantly get notifications from the application about Telia's outages related to emergency SMS services.",2,2021-02-09,
+,Rmatnie,Every day there is a notification about Telia's outage.,1,2021-02-09,
+,vahvakarhu,Appi sent a cellphone alarm at 02:30 on a weekday night. Told that the mobile phone operator has a maintenance break in the service. It's nice to know this at three in the morning. 👍,1,2021-02-09,
+,Kermamorjens,"I didn't manage to add the phone number, because apparently the keyboard covered the button that would have led to the next step. I have a small screen on my phone (iPhone SE), but it probably shouldn't prevent the app from being used.",2,2021-01-27,
+,Epätoivoinen Ypäjältä,"Can the speaker be turned on from the app? It would make CPR easier if you are alone to help. You can do it with headphones, if you happen to be with it.",1,2020-10-31,
+,Salvage army,"Other than that, a good and necessary application in all respects. But it's not always possible to make an emergency call, so a text message option or similar would be a good addition to the application",4,2020-07-12,
+,unelmis,"This is good because if, for example, you're lost and you don't know what it is, you can just call here",4,2020-01-27,
+,llydi,"The announcements from the authorities don't come through as a notification, even if the settings allow it ",5,2020-05-31,
+,Saaripela,"Hello! Absolutely great app, luckily haven't had to try calling yet.
+I was just saying that it would be great if the application in question could be made into a smart watch version.",1,2020-05-11,
+,Antti J,It would be nice if the 112 button was red,5,2020-04-03,
+,nakki sormi,Works well,4,2020-01-16,
+,Ulvur10,"I have fixed this once, but now when I started it as a test, the father-in-law didn't know anything about its location. Just to adjust the location settings... Fortunately, I checked so that it wouldn't have come as a surprise in an emergency!",5,2020-01-24,
+,Taantumus,The iPhone automatically transmits the location information of the emergency call to the emergency center according to the international standard (it's been tried). So you don't need this application on your phone at all.,4,2020-01-05,
+,Jay-H,"The battery consumption problems were solved when I updated to iOS 13.2.2 version and the latest version 2.0.5 112 from Finland. Now the application works as it should, I can leave it open in the background again and I have always given it the right to the location, so that I can receive danger notifications based on my location if necessary. so every time I deleted it immediately reloaded!! I can't get the application off my phone in any way
+good application but it doesn't do anything if the battery is empty",1,2020-01-05,
+,ToinenSami,Battery consumption should be fixed!,5,2019-11-19,
+,himohamo,When running in the background it uses 21% of the battery! ( Iphone 8),1,2019-11-27,
+,Pjylha,"If continuous positioning is turned on in the application, the application consumes an awful lot of battery! On my own, only the continuous positioning in the background consumed 33% of the battery. In practice, if before going to sleep there was more than 80% battery, in the morning there was less than 30% battery left and the reason for the consumption was this application! Otherwise, a good application, but the high power consumption made the application a piece of shit...",3,2019-10-23,
+,JayEights,"The battery of the new iPhone 11 Pro Max phone was drained overnight from 20% -> 0% and when you look at the battery monitor, the 112 program had been running in the background every hour for 1 hour and consumed the battery in six hours so that the phone turns off. (There were no other programs at all draining the battery during the night) I have to turn off the positioning in the background and the background update, while these bugs came to this program. The program has not even been started, it has been turned off separately by swiping up from the program list.",2,2019-11-13,
+,amlkaaaaprdaå,"The application consumes too much battery in the new IOS version and had to be removed. It's a pity, but in an emergency it's better to be able to call on the phone. Why doesn't the developer take a stand?",2,2019-11-11,
+,oresEMED,iOs 13 battery consumption is shocking with constant positioning.,1,2019-11-09,
+,iSaeloe,"Ok idea, but the battery drains a day after the last update",1,2019-11-09,
+,jokersailor,Good application but I deleted it because of the insane power consumption.,1,2019-11-05,
+,vhku123,Would be nice if this software was available. HOPEFULLY THE MEDIA WILL MENTION WHEN THIS CAN BE USED AGAIN!!!,2,2019-11-02,
+,iPadisti,"If you allow location rights for this, it will always drain the battery. 35% of the battery goes to background positioning. Poorly executed. So you should allow positioning only when using the application.",1,2019-11-01,
+,gtejgvvg,"In the latest version, the battery usage is extremely high if the constant location update is on. During the day, at least 25% of the battery is used in the background of 112.",1,2019-10-30,
+,Blizzardi,"With iOS13, the application sucks power. During the night, 33% if positioning is always on, during ios12 it didn't do this.",1,2019-10-26,
+,Bazzer!?!,"With location information ""always on"", the app sends location information more than 800 times during 3 days. That is, almost every fifth minute. Not like this.
+
+NOTE EVERYONE: Contrary to what is falsely claimed in the comments here, location information is REALLY being sent continuously even if you don't use the app! That's the only way regional hazard notices can work.
+
+In addition, when making a normal emergency call without an app, the phones automatically send location information to the emergency center using AML, so this App is no longer needed to share the location.
+
+The only benefit of this app is danger notifications, but even for that there is a built-in function maintained by Apple in Apple devices, if the Alarm Center would only realize to use it, and not waste money on maintaining this, at best, mediocre App.
+
+Reasonable use of tax money.",2,2019-10-26,
+,Paha-admin,"After the update, the application consumes the battery so that, according to the phone, it is the application that used the most battery. Previously there was no such problem.",3,2019-10-20,
+,JVI-TKI,18% of the battery during one day from positioning in the background. It seems to be searching for that location a bit too actively.,1,2019-10-23,
+,Zornac,Good basic idea and fortunately I have never had to use it! The usability of the app is eaten by the fact that at least this version uses 10% of the battery per day with its background activity.,2,2019-10-16,
+,WizardFantasos,Battery consumption increased in the last update and is now the biggest battery consumer in normal use even though it only works in the background.,1,2019-10-20,
+,stelmine,"When this is installed, up to 80% of the battery usage goes to this software (background location), so no more until it's fixed.",1,2019-10-16,
+,Killer13gu,"The application works in the background and has not been actively used. On the night between 13-14 October 2019, the battery of my iPhone 7 was completely discharged. According to the battery usage statistics, the biggest single user was 112 apps in the background! Thus, the alleged information that the background function does not increase the battery consumption is incorrect!",2,2019-10-15,
+,Jasutsi,"Very good thing, but what to do if you are, for example, mute but not deaf.? Would it be impossible to somehow combine a text with which you could write about the situation?!
+I think it would get a full 5 stars from me, waiting for an answer.🥵",5,2019-10-15,
+,gulassi,"After the last update, the application consumes the battery considerably, even if the application is not used. Have to delete the app. (iPhone iOS 12.3.1)",2,2019-10-14,
+,Järki hoi!!!,Why after iOS 13 does 112 Finland eat up the battery in the background (background traffic) even though no one is even using the application?,1,2019-10-14,
+,Artsi Boy,"Today I took the phone with 27% of the battery without even starting the whole program. I haven't noticed this before, but it doesn't seem good.
+
+EDIT: removed the entire application, it's not funny when 40% of the battery charge is used up in four hours.",3,2019-06-01,
+,AnkkiB,"After the last update of the application, background location and background activity are again taking a lot of battery. iPhone 11 in use and during the night the battery left tens of percent. It's unbelievable that something like this can't be fixed and the developer doesn't comment anything.",1,2019-10-13,
+,HiskiBoy,"I allowed the app to use location in the background. I noticed that the battery life was reduced after installing the app. So, I checked the battery information and during a normal day this application ate 44% of my total battery.
+I would like to allow it using my location, but having it on would risk my phone running out of battery during the day.",4,2019-10-13,
+,tigeli,"Each time the program update is installed (the last one was on October 8, 2019), the program starts running continuously in the background. In the battery information this morning, for the last 16 hours, this program has been running in the background for 16 hours, and in the phone's battery information, the ""Display off"" bars are constantly full. Uninstalling the program and reinstalling it completely helps, but it's a really annoying bug.",1,2019-10-13,
+,draganFI,"Really good app, but when I put the phone away, I noticed that it called the emergency number by itself. I didn't even touch the app until I put the phone away, so I hadn't accidentally called.",1,2019-10-11,
+,jokke_8361648,The link to the register statement according to the Personal Data Protection Act does not work! Is it an accident or on purpose?,2,2019-10-10,
+,Visa Electron,"How does it work on an ipad when there is no phone app on it?
+Do I have to put the pad's sim card number or the phone number in the basic cell phone?",2,2019-10-09,
+,emcaja,Cannot update,1,2019-07-16,
+,Zxyqwertyuiop,"After the last major update, the app has become much better and more practical. I recommend the app to everyone for emergencies.",1,2019-06-19,
+,Hekso55,Helped me get quick help and get on with my life.,1,2019-06-12,
+,Montyfic,"The links in the app store and the app don't work. Page not found. The app uses location data, but doesn't tell you what everything?",3,2018-05-05,
+,Paras pelaja,Doesn't start in software version 8.1.2. Crashes into the background immediately. Older versions worked fine.,5,2019-02-03,
+,Mydlink:(,"It's really great that the support has been restored!!!
+
+""Big disappointment when the new version does not support the iPhone 5 model.""",5,2019-01-28,
+,Kukkahattutäti,"Important and good service. I would like text fields etc. for the information where you could save your own risk information like an SOS pass. As well as the possibility to save data if the person is disabled, deaf, etc.
+I know from experience that when calling for help, one is not in the best cognitive state and these things can be forgotten.",1,2018-10-07,
+,66365353,It would be good if the application had call confirmation to prevent wrong calls,1,2018-09-05,
+,jasonen,"The application has been used, in this case it can be said that unfortunately. But it was useful when help got there faster!
+
+Although now the AppStore says that it should be updated, but when downloading, the AppStore says that the new version is not compatible with this iOS...",5,2018-08-08,
+,Riikkapirita,"..which you can't even install, because the phone is not quite new. Despite the latest possible version downloaded just through the update, the new one is immediately offered again - the version that cannot be guessed.
+
+What's the point?",5,2018-07-08,
+,uuuuim,"The call in August was successful through this, similar to this. It only hangs on updates, programming error with iPhone 5, the same problem with Telia, EasyPark knew how to fix it. iPhone 5 is the latest version that Apple updates to 10.3.3. The update informs you to update when you update, so the next time you will be in the initial state. Won't update and won't go away!?
+
+Very important *****+ when it works! Must be made available to everyone.
+
+In an emergency, you don't always know and remember the address. I know that I am, for example, highway 12 somewhere between Lahti and Tampere, am I? Was it Hauho or what?
+
+In the future, there has been talk about including pictures and videos, well, it's not an easy thing, it will probably take years!?",3,2018-04-30,
+,JesseJames1983,"Nelonen's iPad is only four years old, so not very old, but you can't get a new operating system version for it anymore.
+
+This app wants to update but says that it is not compatible with the old version. You have to remove the app from disturbing you. I'm complaining!",4,2018-03-04,
+,Klbygkl,"I installed the program and it asked right at the beginning if I allow localization. There were three options 1. When the application is running, 2. Always 3. Never. In addition, you had to give a phone number and the matter was clear.",1,2018-04-23,
+,Karppa54,"If you changed the icon to a more edgy color, it would be easier to find among other apps also in an emergency, for example in the middle of an illness, when your brain is not on and you are panicking when you try to call yourself for help.",3,2018-03-03,
+,Vepsukene,Calling works well through the app but there haven't really been any emergencies!,3,2018-02-16,
+,Jelehakas,"When the government orders Apps or does nothing at all, the chance of getting value for the taxpayers' money is close to zero. So it's no wonder that this app is also complete crap.",5,2018-02-19,
+,Neljänkoululaisenäiti,"The one time I've had to use the program, it told the right place to the emergency center and help was received.",3,2016-11-15,
+,Lenkki1224,Impossible to use with VoiceOver.,5,2017-08-04,
+,Sami Anttila,It's rare to see such an inferior application in the AppStore. I am speechless.,1,2017-07-25,
+,Agioptr,"Only locates when the application is on/in the background. If you close the app, location is not used. Idiots 😂😂😂",4,2017-07-05,
+,Kissanainen85,"The ambulance came to the right place when I got hurt, otherwise it would have been difficult to explain the location. The pain was enormous and every minute won was important.",1,2017-04-27,
+,Mar-kus,"Very good, but is it possible to press the call button 112 and the positioning will turn on immediately",1,2017-04-08,
+,Viljus,"This program needs to get a point that it searches the location ONLY when using the program, now the options No and Always!!, what a joke will it be located if you always turn it on?",5,2017-02-19,
+,juhamo,Great idea🙂,5,2017-02-15,
+,Kille6v,Useful in emergencies.,4,2016-05-18,
+,K@rtsa,"It's sad that the choice is either location services always on or never. Where is the option that only when using the program??? Always on consumes the battery and takes away privacy, the never option can be life-threatening in an emergency, if every second is important, and in a crisis you can't turn on location permission in the device settings!",1,2016-10-24,
+,Modio17395,"Hi,
+Why are there no emergency numbers and opening hours for the nearest health center?
+
+Why is there no health advice number and opening hours - because the matter has often been solved that way and it hasn't even been necessary to go to the doctor's office to guess.
+
+YT MK",5,2016-09-05,
+,Maksajan,"The use of positioning should have its own settings and not just be on all the time by default. Positioning is inaccurate indoors. For example, this is why entering your home address into the application would be important, why isn't that feature there? As an example, for example, an elderly person who has an accident or a seizure in his own home, or if he does not have time to tell his address due to a sudden threat encountered at home (domestic violence, disturbing the peace at home...). This would be very simple to solve, developers. In its current form, the application is almost useless. How much did the Estonian developers bill the government for this too?",5,2016-06-17,
+,Jettäsillai,"Good idea, but unusable implementation due to battery consumption.",1,2016-06-04,
+,MasterMarko,"The location must be on all the time, why not only when in use?",2,2016-03-18,
+,Post-man lady,"Hi Digia, the software needs an update to IOS 9. Now a pig's head appears on the screen.",1,2016-04-01,
+,JouniMikkola,"Why does it use the location all the time?! Edit this so that you don't always use the location, only when you use the application, then you can earn at least 3 stars from the reviews, maybe even 4😡👎👎👎👎👎👎👎",1,2016-05-14,
+,Torttu.fi,"In order to save the battery of the mobile device, it would be important that the location information is retrieved only when it is necessary. That is, only when the program is in use. Such an additional feature, thank you!",1,2016-03-03,
+,Marttah,It consumes power from the battery quite quickly. Otherwise good.,3,2015-09-23,
+,Mikjohan,Gps positioning must be changed so that it only uses location data when the application is open.,1,2016-02-13,
+,AmoK_,"Softa seems good and certainly does what it says. It's nice to think that he gets information about the location if he doesn't know it himself or can tell... Then it's mandatory but...
+
+Softa hangs a bit unnecessarily actively on the GPS and this consumes the battery. You can't choose from the settings to update the location at a specified time interval or only when the program is open... Now it feels like the program updates the location all the time... As if the battery capacity is too much
+
+Because of this, I mostly think of deleting the software because if you are on a trip, it would be nice to be able to call the emergency center there and not see when the software has sucked the battery dry...
+
+In addition, I was thinking that the software could not send the location to the emergency center by text message and not by data connection? The information would be delivered more reliably... So this is when you call there... Not just to be sure...
+
+So development is still required before this can be called good... The idea is great.",2,2016-02-12,
+,Tissiposki,Suspicious application! Requires your phone number and locates continuously! I don't recommend using it!,4,2016-01-22,
+,hoe666,"The texts and numbers in the application have changed to Russian characters, what happened...",1,2015-10-06,
+,Ravenis,"It's completely fine, after downloading strange characters, even entering my own number doesn't work, strange letters appear on the screen instead of numbers!",2,2015-07-07,
+,Sami_sam88,"It asks for a phone number and when I try it to write, only Cyrillic alphabets will be used instead of numbers. Ok",1,2015-07-06,
+,Swiiks,Totally bullshit. The text doesn't work. I don't recommend downloading. Deleted,1,2015-10-04,
+,Timsi56,"The application shows Cyrillic characters etc. and you can't understand the texts. You can't even enter a phone number, because the number key doesn't produce a number, but some other characters.",1,2015-10-01,
+,Kakkakekki,"In connection with the update, the 112 application became Russian, quick fix!",1,2015-09-30,
+,# Paskaa tuutintäydeltä,"All the texts in the application are ""pig German"".",1,2015-09-30,
+,Coffeecafekahvi,"The characters became amazing after the iOS9 update, nothing to interpret. ",1,2015-09-29,
+,Esahaapak,The numbers are just a mess.,1,2015-09-29,
+,steelduck,"Why on earth has the language changed to Hebrew? Tried to reinstall and everything, but the language is still something other than Finnish... Otherwise, it's definitely very convenient!",2,2015-09-29,
+,Hepreaa,It doesn't work at all. Some of the texts are exclamation marks. Even writing one's own number produces rubbish,1,2015-09-27,
+,Partanaama,in connection with the iOS9 update (also in this program) the language (characters) became unrecognizable-coordinates make no sense. Great Apple!,1,2015-09-23,
+,Linduck,Strange.,3,2015-09-22,
+,Vggcdccdvvvh,Presumably a working application (fortunately there has not been a situation where you could properly test it) but a bit unfinished. Visually quite harsh and possibly increases the risk of accidentally calling the emergency number. Many seem to complain that positioning is always on. Location is only on if the app is in use or is running in the background. Close the app and the location will also be turned off. It is understandable that the app sends the location even though it is in the background.,1,2015-09-22,
+,Josamiidel,Why does this show it in Russian even though I am in Finland?,1,2015-09-22,
+,aatte,"Positioning when making an emergency call saves at least seconds, but at best minutes.
+A feature of the application that left the positioning constantly on has been fixed; positioning is lost approx. 5 seconds after closing the application.
+It's definitely worth downloading.",1,2015-09-20,
+,Nuvi_FIN,Application removed,3,2015-06-24,
+,Okkmies,I called Vaasa's emergency center with this program. And they didn't get any location data on their screen.,2,2015-09-19,
+,Mosruio,"I strongly believe that this program seriously works if anyone has an emergency! This battery consumption
+The update is fixed and the positioning is
+Improved!
+
+It still started to surprise me that if someone
+My line would break into my house and I would press that
+Click on the one that calls 112 like that
+I wonder if the help will come to the right place
+To the house?",5,2015-08-19,
+,Dig_it3,"I haven't come across a situation where I needed to use the program, but I believe that it works",1,2015-08-15,
+,Sinkku,"A really unfinished looking work; the user interface and the font do not scale in any way according to the screen size (e.g. on an iPhone 6 plus it looks absolutely terrible).
+
+You cannot choose the coordinate system yourself, so this application would be useful for more than just emergencies.
+
+The application wants to use the location even when it is not in the foreground. Why? And promise to tell the reason in English when asking about this. Why? Of course, almost everyone knows the language this well, but it is nevertheless an application intended for very local use.
+
+The only positive is the ease of calling other emergency numbers, such as the poison control center. Would it be possible to develop that positioning only when using the program? Otherwise a good application",1,2015-07-29,
+,Pelaaja X,"I updated to a newer version, and the phone number has to be entered again? You're not serious? In case of an emergency, do I start entering the number? What if there is a new number? Go to yourself.",5,2015-07-08,
+,Pirjo77,"It works and doesn't leave geps on as long as you turn off the software properly, learn to close the background programs properly..",4,2015-07-07,
+,Tchort,You can remove the location when you don't use the program. Please update this.,2,2015-07-05,
+,MaruzaF,It burns the battery and like the iPhone 5s my phone has a very short battery so that's it goes 0% in 5 min,2,2015-06-30,
+,tr1st4m,"Working idea. The amateur-like picture comes right from the first screenshot when the minus sign is in front of the degrees and the angle is >180.. so -180 and tonsils from east longitude, i.e. +180 and tonsils from west.. so really a little less than 180 east?
+The option ""while in use"" is missing from the positioning settings.",1,2015-06-28,
+,Kulemam,I managed to accidentally call the emergency center at the same time. And there was no way I could cancel the call. I hope the real help doesn't go to waste because of this crappy app!,4,2015-06-25,
+,Jaccana,"The interface is weird for an iOS app. And unfinished.
+
+The fact that the GPS is on also seems unclear. If the software is in the background, does it always send the location to the servers, even if it doesn't call the cage?",2,2015-06-24,
+,Kakemlg420,"I installed the app for the whole family, definitely a good tool. It helps tremendously, for example, when calling for help at the scene of an accident or when injured on a geocaching trip.
+
+The location really stays on and eats up the battery very quickly, especially in older phones. Of course, this is not a big problem in practice, as we all hope to never need the app. After the first launch, it is important to close the application, exiting it is not enough. This bug should be fixed soon, because at worst, the application made to make it easier to get help prevents it when the battery is completely empty.",1,2015-06-24,
+,Bestah88,"Definitely necessary application but technically weak performance. The application should be located only when it is in use, not constantly in the background.",3,2015-06-22,
+,Vihainen lokki,"Why is the WGS coordinate system used when the ETRS-TM35FIN coordinate system has been used in Finland since 2005? No history, let's live in the present.",1,2015-06-23,
+,Nadrak,"When Appsin closes, it doesn't locate. It looks good.",2,2015-06-23,
+,Tskii79,"In the software, you could add your own to the emergency numbers section.",3,2015-06-21,
+,AntonBoer,The employees of the regional emergency center don't give a damn about where I move at any time.,2,2015-06-22,
+,Älä päivitä,"Delete. At least long enough for the location usage to stop, with the app running in the background.",2,2015-06-22,
+,Autopeli,"Good idea, bad idea. The setting ""location when using"" is missing from the settings. I removed...",5,2015-06-21,
+,Omainen,It would be good to have a test button.,3,2015-06-18,
+,Asiantuntija,"The number of false calls can increase if small children get their hands on a cell phone and accidentally open the application and call. So some confirmation would be good. Now I don't want to test the application, lest I call the emergency center.
+
+A slider for enabling location data would also be handy.
+
+It's also good that other ""emergency numbers"" can be found in the application.",2,2015-06-19,
+,oneiceman,It makes no sense to require the use of positioning constantly. Unusable as such when it eats up the battery far too quickly. It could be good if positioning is enabled only when using the application.,1,2015-06-19,
+,Miihkali,"Quite large software considering its functions. The location update that is constantly running in the background consumes the battery unnecessarily. The user interface and usability are completely contrary to the iOS world (only the mouse pointer is missing). The idea in the software is good, but it requires better planning and implementation.",1,2015-06-19,
+,High blod pressure,Positioning on all the time. It consumes a lot of battery. I don't enable it.,4,2015-06-18,
+,Eiaro,"Yes, at least I can turn off the location when I close the application 😉 you just don't know how",2,2015-06-18,
+,raminm,"The application wants to constantly locate your location, that is, even when the phone or the application is not even used!! I immediately removed this spy app.",1,2015-06-18,
+,Kirjiz,Very good and simple app. Location doesn't stay on in the background when you close the app.,1,2015-06-18,
+,Pekanpk,Uses battery unnecessarily,1,2015-06-18,
+,Murinaaaaaaaa,"Uses location all the time, battery drains quickly.",5,2015-06-18,
+,X4nttu,"why does the location information have to be available all the time, and not only when using it?",1,2015-06-18,
+,dingkong,So the battery drains in the eyes. Shouldn't it be worth coding the use of positioning only when using the application?,5,2015-06-18,
+,Manbearpig.,,1,2015-06-18,
+,kuokka82,,1,2015-06-18,
+,- emma -,,2,2015-06-17,
+,tth78,,1,2015-06-17,

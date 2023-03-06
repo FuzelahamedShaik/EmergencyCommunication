@@ -1,0 +1,395 @@
+Review Id,User Name,Review,Rating,Date of Review,reviewCreatedVersion
+d9b83f81-4bec-446c-aec3-9c6e01a8885b,Patrik Rådman,"""Physical activity"" permission? Why?!",2,2023-02-13 11:55:53,4.4.23
+14fad9b7-d7f5-4686-9a5a-7dff41dda083,Leonardo Navarro Ortega,"Sadly, this application crashes often. One would expect better from a security related thing. It seems to be unable to get the GPS position.",2,2023-02-11 14:14:12,4.4.23
+fafc0abd-c072-4f0a-969b-fbcc2f9ed8ed,Jouko Tenhunen,"Sovellus on alkanut piippaamaan ja herättämään jopa keskellä yötä saadakseen lupia puhelimen capojen käyttämiseen (sijainti ym) vaikka asetukset on ""sallittu sovellusta käytettäessä."" Nyt joutuu forced closaamaan koko sovelluksen. Ymmärrän että on muutettu, koska Android nykyään poistaa itsestään capoja käyttämättömiltä sovelluksilta, mutta salliminen sovellusta käyttäessä pitäisi riittää.",3,2023-02-03 09:35:31,4.4.12
+aa34cb13-8606-4d9e-b63f-f6b18fa81872,Eki Tee,Vanhemmalla versiolla kun soitti normaalisti puhelimella 112 (ilman tämän sovelluksen käynnistämistä) sai häke paikkatiedon jostain (ehkä tämä sovellus lähetti sen taustalla). Uusi versio kysyy paikkatieto lupaa koko ajan (tai Android päivityksen jälkeen Android on fiksumpi ja valvoo sovelluksia) -> käsittämätöntä että minun pitäisi lähettää paikkatieto sovelluksen tekijälle koko ajan -> on ok lähettää se silloin kun soitan 112. Pakko poistaa koska en halua saada tuota kyselys muutaman minuutin,1,2023-01-26 14:47:17,4.4.12
+9ef64c7a-ecf5-44ca-be2c-94b59132f5b3,Timo Virtanen,App is costantly requesting permission for location. I have granted permission wwhile using app but I dont want it be tracking location on background. Now I get constant location requests and whats even worse I can not use the app unless i grant the permission because when i open the app request popup keeps popping over and over even if i press cancel thus making the app impossible to use.,2,2023-01-24 10:30:41,4.4.11
+26b8886f-ec31-466b-8bc1-dc8530f033fe,Jarkko Räsänen,"Ohjelma pakottaa lähettämään sijaintitietoja taustalla. Minusta tämän ei tulisi olla pakollista. Jos on, tulisi vakuuttaa että sijaintitieto ei poistu laitteelta tavallisessa käytössä (hätäpuhelu ei ole tavallinen käyttö). Sijainnin perusteella voidaan filtteröidä tiedotteet myös laitteessa käsin eikä sen pitäisi vaatia sijainnin lähettämistä palvelimelle mahdollista tallennusta varten (henkilön vakoilu!).",2,2023-01-20 20:05:58,4.4.11
+bae05787-a007-4e0b-9abd-f582a1a7b56c,Hyhb Hyhb,"Miten turhat liikennetiedotteet saa pois päältä (sohjoinem ajokeli ym. älyvapaat varoitukset) niin että oleelliset liikennetiedotteet säilyy päällä (kolari, tie tukossa)?",2,2023-01-19 12:41:27,4.3.3
+a7b8bbf7-00af-4bb5-b7f3-94c7228439e0,Tommi Paananen,"Uusi versio kaatuu n. 30 sekunnin jälkeen, jos ei anna jatkuvaa lupaa paikannukseen vaan vain kun sovellus on käynnissä. Pitää olla nopea asioidessaan hätätilanteessa ennen kuin tuut tuut tuut...",1,2023-01-18 23:17:56,4.4.7
+a18a22b3-2bd7-42f7-8f01-9e66539f66ff,FinnickF0x10,Olisi hyvä tuossa 112 soita -kohassa olla 3sek aikalaukaisu koska olen meinannut jo monta kertaa soittaa taskupuhelun hätäkeskukseen.,5,2023-01-18 16:30:50,4.3.3
+ab34b22d-cddd-4dc8-ba6d-499784866de1,Axxount,"Parin vuoden aikana päässyt tätä käyttämään tieliikenteessä kahdesti. Molemmilla kerroilla hätäkeskus sai tarkan sijainnin missä ajan. Ekalla käyttökerralla yllätyksenä tuli miten paljon asetuksia tulee hyväksyä, jotta puhelun saa soitettua (sijainnin hyväksyntä, oman puhelinnumeron syöttö ja kolmantena täytyy hyväksyä, että sovellus saa siirtyä tekemään puhelun). Vaaraäänet selkeät ja käyttöliittymä sopivan yksinkertainen. Ns. ""turhia"" vaarailmoituksia en ole saanut asuinkunnan ulkopuolelta.",4,2023-01-18 16:21:01,4.4.7
+0afdd2f7-bcc6-4302-8c27-8ff0f30ff15c,Olavi Murto,"Sovelluksen ilmoitusasetukset kaipaisivat työtä. Värinätyyli tuntuu minulla siltä että joku soittaa, ja sitten onkin liikennetiedote tai viranomaistiedote. Näillä ois hyvä olla omat värinätyylin asetukset ja irrallaan vaaratiedotteista. Nyt piti ottaa puhelimen puolelta värinäkin pois, mutta ""Viranomaistiedotteet"" alla ei riittänyt, vaan piti myös ottaa pois ""rn-push-notification-channel""? Aika sekavaa. Niin, ja ""Palvelut""-osion numerot voisi olla vähän selkeämmin ja nopeammin löydettävissä.",3,2022-12-12 14:48:42,4.3.3
+056388db-03d4-4528-85a4-3b2d5796de0f,Myrene Duerto,I love the traffic warnings when there is a close road.,5,2022-11-24 15:25:15,4.3.3
+b917340b-aff1-4172-951d-fecbffbab64f,kitty exe has stopped working,Very useful. Can defenetly save lives.,5,2022-10-19 17:50:43,4.3.3
+15b807cc-2afe-411e-82c2-e57065f0a7ae,John,"Trafikmeddelande kommer ofta endast på Finska, och om de kommer på svenska så är det när varningen inte längre är relevant... Har inte använt några av de andra funktionerna så kan inte ge någon recension för resten av appen",3,2022-10-13 15:46:43,4.3.3
+fab8f70d-25cb-4072-986e-161f007fdb6f,Uuno Turhapuro,"Akun säästämiseksi sovellus voisi tukea tummaa teemaa. Käyttöliittymältään sovellus poikkeaa tavanomaisista Android sovelluksista. Sovellus voisi noudattaa käyttöliittymän osalta Androidin natiiveja komponentteja. Sijaintiedon käyttö taustalla lisää huomattavasti akun kulutusta. Ei varmasti olisi iso työ lokalisoida sovellus myös venäjäksi, viroksi, ranskaksi, saksaksi jne...",3,2022-08-22 16:49:48,4.3.3
+3d1d2baa-970f-43eb-9101-065edb7138aa,Lasse Reinikainen,"Sovellus on käyttökelvoton, koska se ruinaa kahden sekunnin välein Google location services sallimista. No thanks vastaaminen ei auta.",1,2022-07-20 10:13:00,4.3.3
+7d3e4bad-4bf3-4bf5-abd0-c09e219fcc90,Nuolipyssy klipit,i killed my dog änd i tindint ket eny help.,1,2022-05-21 22:45:47,2.0.19433
+d1676e18-00a3-4934-b4d4-82128b954253,Antti Kukkonen,"Avasin äpin katsoakseni miten toimii. Ei puhettakaan, että olisi antanut soittaa hätäpuhelun. Ensin piti päättää kymmenestä asetuksesta. Ette voi olla näin typeriä! Hätätilanteessa oleva ihminen ei halua päättää sadasta asetuksesta, vaan saada apua. Teidän tulee HETI tehdä asialle jotain!",1,2022-04-18 14:33:56,4.3.3
+d73dac0a-d818-4ec6-ab16-b96732bb9fd5,vesa,"rn-push-notification-channel -ilmoitukset (3 kpl), sekä TSLocationManager -ilmoitus asetuksissa. Vaikea sanoa mitä nuo ovat, mutta ainakin liikennetiedotteita tulee, vaikka ""Liikennetiedotteet"" on pois päältä.",3,2022-03-22 09:00:04,4.3.3
+1eb79e77-2076-4c24-9846-37c90440ae54,John Collin,"En tiedä, toimiiko viranomaishälytykset, kun en saa sovelluksesta minkäänlaisia säännöllisiä koeilmoituksia. Tänne eivät kuulu yleiset sireenillä annetut hälytykset enkä kuuntele radiota jatkuvasti. Esim. ydinonnettomuudessa joditabletit pitää ottaa oikea-aikaisesti viranomaisohjeen mukaan. En tiedä toimiiko tämä tarvittaessa? Tämä näkyy olevan ainoa kanava palautteen antamiseksi. Toivottavasti menee perille kehittäjille.",1,2022-03-16 07:19:58,4.3.3
+dd1aafc3-bdd4-47a0-aba7-01dd669d075d,Mats Ångerman,"Verkligen jättebra man har sin position genast, bara man har kontakt med gps eller telefon master-och ström i batteriet :)))",4,2022-02-21 18:38:53,4.3.3
+1da09446-e203-415d-8998-7cb40b87ff79,Jimi Korkala,Pelastuslaitokset suosittelevat ja häke suosittelee. Eiole ollut tarvetta soittaa. Monta tuhatta puhelua on soitettu tämän kautta (muut soittaneet tilastojen mukaan) ja 500 000 latausta pelastaa ihmishenkiä suosittelen :-),5,2022-02-11 15:11:38,4.2.21
+35f2ee1d-4504-4db3-9580-190013883556,Anton Temba,Ei voi asetuksissa poistaa kova äänistä hälytys äänimerkkiä. Pelkkä notifikaatio riittäisi.,1,2021-11-01 11:56:38,4.2.21
+7f271329-6717-4639-ae59-0b1e091a1eef,RM_ HTMLKoodaaja,Ihan turha,1,2021-10-31 00:08:31,
+d5977332-6509-4ee7-be13-5d2c93b7f329,Aubrey Bailey,"Interface is translated, but notifications are Fnnish-only and not copy/pastable for translate. Essentially useless if there is a real emergency",2,2021-10-24 12:57:35,4.2.21
+4adab31c-933c-4475-bcb7-d863f49ca8e9,Patrik Forsman,"Hyödyllinen sovellus, mutta auta armiasta minkälaista jargonia noi tiedotteet on. Huomaa että tehty jollain automaatilla. Onnettomuuspaikat/tietyöt ilmoitetaan 100 km tieosuuksille ja johonkin risteyksee, teksitiä tyyliin ""...suuntaan Jyväskylän suunnasta..."" yms.",4,2021-09-29 08:31:38,4.2.21
+830099e8-ad93-4333-9b26-e6be59c7124e,J N,Kysyy heti alussa puhelinnumeron. Kun menet asetuksiin on toimimaton softa jo poistanut sen. Tähänkö pitäisi luottaa? GPS tarkkuus 150m on myös täysin hyödytön.,1,2021-09-05 21:26:16,4.2.21
+d3ec0dc4-c1f5-4291-b43c-6f8ea0e2e9ad,Antti Kinnunen,"Liikennetiedotteet tulevat nykyään aina tuplasti, miksi näin? Jouduin ottamaan pois päältä tämän takia.",4,2021-07-06 12:59:26,4.2.17
+b929e758-75ac-492e-a54c-9b410ad48fee,Kimmo Puranen,Muuten aivan loistava sovellus mutta kun laitoin liikennetiedote-pushviestit päälle niin ne tulee joka kerta tuplana.,3,2021-06-23 12:36:52,4.2.17
+a8e55c1f-4a3c-434b-a4e8-ee248a52f842,Dolby,"Liikaa spämmiä, viestejä ei pitäisi lähettää mistään häriöistä joita on joka toinen päivä, ja miksi viestit on suomeksi ku sovellus on asetettu englanniksi?",1,2021-02-11 12:37:41,4.0.3
+a32a2b96-737f-4916-a74a-13c90a5df1ec,Tuomas Ahola,Häiritsevä. Joka toinen päivä tulee ilmoituksia jostain teknisistä ongelmista hätäkeskuksen toimintaan liittyen,2,2021-02-11 11:28:30,4.0.3
+6b34d08a-68e4-46ac-b48e-cd64fabb0ba4,Marcus Soininen,I guess the app works but they keep spamming notifications in Finnish no matter what language is selected so they can shove it up their tailpipes,1,2021-02-08 18:13:03,4.0.3
+c069e0a0-edab-4ee4-befe-795f0480173b,Emilia N.,"Tulee vähän liikaa pakotettuja päätä halkovia piippauksia random aikoihin jostain hätätekstarista eri liittymissä. Aika marginaalinen ongelma varmaan herättää koko Suomen käyttäjät v-u keskellä yötä ja niin edelleen. Keksikää parempi keino tiedottamiseen kyseiselle käyttäjäryhmälle. Otin pois koko sovelluksen, koska tämä vaan jatkuu ja jatkuu.",1,2021-02-08 18:10:14,
+2fe56852-f483-4eb6-ae68-dbed25ce1f62,Markus tolkki,Hyödyllinen,5,2021-01-02 00:13:06,4.0.3
+6f176114-d514-4ebb-a295-16cc3e9d8e44,Colin B,"It is difficult to rate an app, that hopefully, you never need to use, but the design, layout and information seems very good, as do the comments from other users, so because of what it is, and what it does, it really needs to be given a 5 star rating.",5,2020-11-07 10:05:40,4.0.3
+69a648ee-b39d-4db9-9b7c-038da82dae6f,Z. Liu,"Have never needed the App, which is a good thing. Just received an alert. Couldn't copy the text to translation app. Hopefully it will be possible to copy the text of alerts.",2,2020-10-07 12:12:46,4.0.3
+8273e27f-548d-4cc0-aaa6-fb0a38a71f47,Tttt Kkkk,"Nykyaikaa! Etenkin paikannus on tärkeä, mutta myös vaarailmoitusten saaminen suoraan käteen/puhelimeen.",5,2020-10-02 06:29:25,4.0.3
+a3955f18-5bba-49f0-9d0d-6f9147167550,Juho Heikkilä,"Notifikaatioiden hallinta puuttuu. Häiriöt matkapuhelinverkossa eivät oikeastaan kiinnosta kolmelta aamuyöstä ainakaan niin paljon, että haluaisin äänellisiä ilmoituksia.",2,2020-09-21 08:33:20,4.0.3
+b64dbfac-7564-4a0a-8021-71a847ad26b6,Niklas L,Amateur hour. Kuin jonkun opiskelijan harjoitustyö.,1,2020-09-01 19:53:16,2.0.19433
+f48f7a9d-b32d-47a2-843e-18b093007c1a,UncleFankes,Eipä oo tullu onneks käytettyä😅,5,2020-05-31 13:15:24,4.0.3
+516429ad-d4b9-4bb7-a3cb-a981be459238,Kristian,Huippu päivitys. Löytyy tieto paljon paremmin,5,2020-05-31 01:29:35,4.0.3
+548fe798-a9c8-41f4-a65d-caa31611c096,A Google user,Usefull,5,2020-04-27 22:54:26,3.1.0
+001a11ff-378f-4236-b52e-205b35e50a53,A Google user,Very useful app. Shows automatically your location to emergency room. It has many other emergency numbers too. Authorities are able to send you public notifications.,5,2020-04-01 13:34:12,2.0.0
+e5ab655e-2867-428e-b741-124b182e0d88,A Google user,Puhelin ilmoitti että sovellus haki sijaintini taustalla. Sain sovelluksen ladatessani sellaisen kuvan että sijaintia käytettäisiin vain hätäpuhelun yhteydessä.,1,2020-02-22 09:47:35,
+2122120f-5a46-446f-b1dd-5059e014edbd,A Google user,"Hienoa ettei notifikaation teksti näy kokonaan ja puuttuu dropdown symboli, millä olisi nähnyt koko tekstin mitä yritettiin testeissä lähettää. Monet appsit osaa sen nykyään. Takaisin opettelemaan koodin vääntöä androideihin.",3,2020-02-11 12:18:48,2.0.0
+1cb5c8fc-7cfc-48a3-abac-285beb203a6e,A Google user,"Ohjelma olisi mahdollisesti hyvä hätätilanteessa vaikka retkeilemässä johonkin kivikkoon jalkansa rikkoneena. Ikävä kyllä puhelimen sijaintia täytyisi jatkuvasti pitää päällä jotta ohjelmasta saisi täyden hyödyn, lisäksi vaikka ei pitäisi, niin ohjelma näyttää jatkuvasti tällaista ilmoitusta JOTA EI PYSTY PIILOTTAMAAN. Tuon häiritsevän ilmoituksen takia poistan 112 appin.",3,2020-01-19 19:23:15,2.0.0
+9135b3e5-051c-4f06-bca6-4b3571be2139,A Google user,"Tarkempi paikannettavuus parantaa avunsaantia, ladatkaa ihmeessä!",5,2020-01-03 12:01:59,2.0.0
+aecdbe57-76c9-42e3-8207-e281e942e932,A Google user,"GPS on päällä kokoajan ja kuluttaa akkua, sovelluksen sulkeminen ei auta. Voisi lähettää muutakin tietoa kuin vain sijainnin.",2,2019-12-21 16:41:02,2.0.0
+71c47c0a-fa30-4821-a5f0-7ce1adf23896,A Google user,Hätätiedotteesta ei tullut notikaatiota eikä äänimerkkiä.,3,2019-11-22 16:30:16,2.0.19433
+87da710c-ee78-4f04-87a6-07a257465d8d,A Google user,"Oikestaan aika surkea töherrys, ei voi syöttää mitään tietoja itsestä josta voisi olla hyötyä hätäkeskukselle esim allergia, lähiomaiset, kotiosoite tai lyhyt seloste terveydentilasta jos on jotain erityistä. Jos saan kohtauksen niin en ehkä kykene puhumaan tai toimimaan niin että voisin neuvoa mitään. Kukahan koulupoika tämänkin kötöstyksen on tehnyt, toivotaan ettei tarvitse koskaan käyttää.",1,2019-09-23 22:46:18,2.0.19433
+252394be-15c1-4056-b6fb-4f506fbf7b23,A Google user,"Sovellus on helppo ja hyvin käytännöllinen. Itselläni oli sovellus kännykässä hätätilanteessa, mutta en shokissa pystynyt avaamaan sitä vaan soitin normaalisti hätänumeroon. Huomasin kuitenkin, miten vaikea oli shokissa neuvoa sijaintia, josta en edes ollut täysin varma, joten sovelluksen käyttö normipuhelun sijaan olisi varmasti ollut parempi ratkaisu. Toivottavasti ei ole tarvetta jatkossa soitella hätänumeroon, mutta nyt ainakin tiedän sovelluksen lievittävän hätätilanteen shokkia.",4,2019-08-21 12:54:44,2.0.19433
+3d2505b4-a98d-49ba-a71d-72cf5083f4f4,A Google user,"Has some additional features, such as Hotline for Missing Children, confidential Child and Youth Phone and few others. Also you can check if in your area some public danger announcement was made. Did not see it in practice, just assume most of the features there are useful.",5,2019-07-03 10:44:55,2.0.19433
+f1e00133-2a27-4ae8-86ef-6476a2f1dd72,A Google user,"Jos on totta että sovellusta voi käyttää vain jos on antanut sille etukäteen puhelinnumeronsa se on rikollisen huono. Suurin osa käyttäjistä ei tiedä sitä ja hätätilanteessa ei välttämättä pysty sitä numeroa kirjoittamaan, etenkin jos joutuu toisen puhelimella tekemään hälytyksen.",1,2019-07-01 18:35:15,2.0.19433
+62fd0743-ca98-443d-9599-0e4dbe4dbcde,A Google user,Ohjelman ulkoasu näyttää selkeältä käyttää. Tietoja välilehdellä olevista linkeistä ei kumpikaan toimi. Käyttäjä ei siis pysty lukemaan käyttöehtoja tai tietosuojalausuntoa.,3,2019-06-21 21:12:20,2.0.19433
+453a8b4f-b341-47ec-ad54-6d5930573836,A Google user,"Ohjelma vain antaa vain sijainnin minkä puhelimet tekee muutenkin nykyään. Ei kysy nimeä, ikää, osoitetta, allegioita, lääkitystä, verityyppiä, sairauksia, sosiaaliturvatunnusta, lähi omaista, omaisen puhelin numeroa. Naantalissa kun ei ole poliisia lainkaan niin mietityttää mitä iloa tästä on. Kaikki millä on väliä, puuttuu tästä ohjelmasta.",1,2019-05-07 09:07:27,2.0.19433
+463b9fa7-c411-4684-8501-8377174e7fdb,A Google user,worked really well. Got help 5 min from making the call. Was in the park without accurate address,5,2019-04-20 11:46:47,2.0.19433
+71cb2899-2866-4c5b-a9e6-aab79deae5a6,A Google user,it is good beginning,2,2019-03-30 12:37:53,2.0.19433
+bbe4cded-fc18-44d8-8572-91dd98b0e465,A Google user,"Ohjelmassa ei ole paljon tekstiä, joten yhdyssana-virheiden löytäminen ei pitäisi olla kovin vaikeaa. ""Apua hätä ja..""=> ""Apua hätä- ja ..."". Uuden 31.01.2019-päivityksen myötä tuli paljon lisää vaatimuksia oikeuksille kuten että sallitaan käynnistyminen puhelimen kynnistyksen yhteydessä. Tätä en hyväksy, sillä se syö akkua kun ohjelma ajetaan taustalla. Sääli että joudun poistamaan tämän apin. Toivottavasti kukaan ei osu kohdalle joka tarvitsee apua ja kuole tämän takia!",1,2019-03-16 20:07:01,2.0.19433
+7f7253f9-82ef-4c50-9783-15285c29a5ec,A Google user,hyvää,5,2019-02-27 18:41:09,2.0.19433
+104ad205-3c63-409c-8ade-ee2aad56e747,A Google user,Sovelluksessa pitäisi olla mahdollisuus paikkakunnan manuaaliseen määrittämiseen esim. alueellisten vaaraviestien saamiseksi. Nyt tuo toimii vain jos gps on päällä 24/7!,3,2019-02-11 11:41:46,2.0.19433
+72a00853-2921-4e46-9f6b-7fd740b47f26,A Google user,Ei oikein hädässä ole apua tuosta kun kyselee aina puhelinnumeroa. Ilmeisesti bugi. Näkyy olevan normaalia julkisten IT-projektien tasoa. Miten on mahdollista että ei ole testeissä tullut ilmi ennen julkaisua?,5,2019-02-01 11:34:02,1.2.9
+ccf418aa-553b-46f2-ae5a-f18b5fd46349,A Google user,This app is not necessary anymore... All android phones send the coordinates to the emergency center instantly when you call.,2,2019-01-31 19:10:39,1.1.145
+15679991-4e6b-4f3a-be2a-ac9949c81886,A Google user,Easy to use. Hope ill never have to tho,4,2019-01-30 19:40:04,2.0.19433
+473dc5ae-7d94-4a15-b704-504ab6b111c6,A Google user,Did not call 112 Papa died for nothing,5,2018-12-12 13:02:40,1.1.145
+91378440-9b7a-49e4-a09b-0164b24f4791,A Google user,I've used this 2-3 times and everytime they ask me to desribe my location. Doesn't seem to work for whatever reason.,2,2018-09-09 08:57:45,1.2.9
+877c8aba-ff14-4760-82c0-a9a0ef87e275,A Google user,"Toimivan oloinen sovellus, mutta toimivuudesta ei voi sanoa paljoa koska 
+onneksi ei vielä ole tarvetta tälle ollut. Ulkonäkö voisi olla hieman 
+modernimpi, tällä hetkellä näyttää 90 luvulla tehdyltä.",3,2018-08-04 10:49:28,1.2.9
+4c7428ed-5967-4b63-8b99-6fe66b27ed93,A Google user,"Ruotsinkieliset käännökset on kökköjä! ""Konfidentiell stöd för barn och 
+ungar"" -> Konfidentiellt stöd för barn och unga. (Ungar tarkoittaa 
+""pennuille"") ""Hjälp till dem som utnyttjar offentlig service"" -> Hjälp till 
+dem som använder offentlig service (utnyttja = käyttää hyväkseen, 
+använda=käyttää)",3,2018-05-28 11:36:17,1.2.9
+e0c09170-98ce-405d-97eb-ba3d72c00779,A Google user,Forgets your phone number on device reboot and asks for it when you launch the app.  This is irresponsible and will cause someone to not get help in time. It is borderline criminal to have this app available. Why does it even need your number? Fix it or remove it.,1,2018-03-02 19:17:38,1.2.6
+f389b847-aed0-4f7d-a460-64ff1bb53973,A Google user,"It should have the ability to upload or share pictures and video of incidents and anonymously. just spotted a drunk driver who smoked a cigarette while filling gas. nowhere to upload. and i dont want to give my info, just offer a tip about a hazard. and gps on automatically.",3,2018-02-18 15:44:33,
+b908680c-37c4-4c48-8810-8c6b5d421274,A Google user,Wonder what happens with dual-SIM as the app asks for just one phone number.,4,2018-02-04 14:51:21,1.2.6
+f1a2a2c6-6ce6-404f-b907-19d9851fd44a,A Google user,This is a good app to have just in case,5,2017-12-29 18:16:36,1.1.205
+162659b0-5aac-4837-ba3d-5006e8f2ff2d,A Google user,Everyone should install this for their own safety if emergency happens,5,2017-12-28 13:28:22,1.1.205
+1cd42195-e1b2-4c2f-b1bd-c8a48d5294a3,A Google user,Varmuuden vuoksi ja helpottamaan hädässä.,5,2017-12-05 17:21:29,1.1.205
+3bcda8cc-f6c0-484d-ab15-a9c27e91efb3,A Google user,Pitäis olla pieni kartta myös niin soittaja voisi tarkistaa että näkyykö sijainti oikein,3,2017-09-20 09:05:14,1.1.206
+3b57d4a1-03ae-4aa8-9175-1cc3a3697536,A Google user,"En onnistunut lataamaan sovellusta Samsung Galaxy A3:een, tai ainakaan löytämään sitä ja siirtämään sen kuvaketta päänäyttöön. Digian chatti pyysi kääntymään Samsungin puoleen, ja pitkän keskustelun ja kokeilun jälkeen Samsungin chatti kehoitti kääntymään Digitan puoleen ja kun vielä kysyin eikö Samsungilla olla sovelluksen käyttötarkoiutus huomioiden valmiita kokeilemaan asiaa ihan samanmallinen puhelin kädessä Samsungin tukihenkilö pani chatin poikki. Mieleen tuli jaettu omakotiurakka jossa sähkömies., putkimies ja muurari pallottelevat asiaa ja vastuuta toistensa välillä ja rakennuttaja-loppukuluttaja on ymmällään. Jos chattitukihenkilöt kuvittelevat että vanha sitkeä toimittaja jättää asian tähän niin arvaus meni pieleen :-). Uskon että rakastan ohjelmaa kunhan saan sen pelittämään, mutta tällä hetkellä 1 tähti = ""I hated it"". Tällä ei sanottu etteikö vika voi olla ""äly""puhelimeni jossain asetuksessa, mutta olisi luullut asian jo noilla tukiyhteydenotoilla selvinneen.",1,2017-09-13 13:27:19,
+fb22ff5a-5791-4233-9c6f-ed178ebf571c,A Google user,"App would be 5 star app, if a calls wouldn't have any manual actions. Now the app just redirect call number phone app.",4,2017-09-08 10:24:03,1.1.206
+211eb5bc-ad3b-49ba-918e-f577f57f8164,A Google user,"MUISTAKAA käyttää sovellusta päällä ennen hätätilannetta, sillä sovellus kysyy puhelinnumeroa ensimmäisellä käynnistyskerralla. Sitä on paha alkaa sitten hätätilanteessa näppäilemään.",5,2017-08-31 08:21:06,1.1.204
+00258d8d-fff6-4d8f-833a-b6eac4764928,A Google user,Just shuts down. Immediately.,1,2017-08-28 17:43:51,1.1.145
+3ec75c93-1e30-4b50-bae2-85d2f82c749b,A Google user,Kaatuu heti käynnistyksen jälkeen 1+5llä,1,2017-08-20 16:13:23,1.1.145
+770a73fb-126f-4e5f-9ab8-7ee07b2dc7fd,A Google user,"Ei lähde ollenkaan käyntiin Oneplus 5:lla (128GB malli). ""Enter your phone number to start using program"" välähtää ruudulla ja ohjelma kippaa.",4,2017-08-20 09:06:18,1.1.145
+3e0a4405-1071-4327-b0ec-c707d741602b,A Google user,OnePlus 5: kaatuu samantien.,3,2017-08-16 22:23:13,
+34afb0f7-616d-44d0-b916-b03b003fa747,A Google user,"Kaatuu OnePlus 5:n vakiolla Oxygen OS:llä heti käynnistäessä, custom rommeilla toimii ok.",1,2017-08-16 06:00:56,1.1.145
+366c7d94-b50b-42b8-a1fc-343bcdb29754,A Google user,"Ei toimi OnePlus 5 luurissa... Ohjelma kaatuu näyttöön, jossa pyydetään vahvistamaan puhelinnumero.",1,2017-08-08 21:21:10,1.1.145
+410af17d-0ac7-4484-895d-a79039a51709,A Google user,Kaatuu heti avatessa. Olisi syytä korjata pikimmiten!,1,2017-08-05 21:30:04,1.1.145
+575376bf-aeba-4fa6-9233-c3c56567e42c,A Google user,Kaatuu nykyään ohjelmaa käynnistettäessä.,1,2017-08-05 10:52:05,1.1.145
+2766758e-cd36-44db-8afa-b22bd005753e,A Google user,It would be good if you could + for intetnational users.... not everybody knows the generic code for Finland for instance,4,2017-07-16 10:44:56,1.1.145
+ba0b4a83-c9fd-4ceb-a317-c4c59dbdc194,A Google user,Hidas ja kömpelö käyttää.,2,2017-06-19 18:50:47,1.1.145
+51bc6c63-275c-44f5-b31b-0fe4208c2c23,A Google user,Does not locate me on startup nor after waiting 5 mins. Settings are checked and should be working.,2,2017-03-08 18:39:27,1.1.145
+ec1e184f-5b58-41e6-948f-c7b4f24f5cdc,A Google user,Awesome and useful but gps and location accuracy doesn't work. Searching for location but doesn't find. Thanks,4,2017-01-20 11:00:20,1.1.145
+d3aefe60-e4e2-48a4-a470-68a03614bb31,A Google user,Hyvä,5,2017-01-19 06:49:31,1.1.145
+f194fdfa-b206-4211-80b7-e222fdffe550,A Google user,"Eikös toi kannattais koodata silleen että soittaessa GPS sijainti menee automaattisesti päälle, jos ei vielä ole. Kukaan paniikissa tajua alkaa mitä gps asetuksia säätämään.",3,2016-10-14 13:21:22,1.1.145
+8d30161e-f4ce-4a57-9e7f-cf1e4f8dfc25,A Google user,Nice piece of sw. And the interface is good. The idea of the interface is not to look fancy but be visible and clear from a longer distance.  Also the idea of having a map in the background does not work. The map needs time to load. And in many situations the lines are too bad for downloading a map.,5,2016-04-17 18:07:06,1.1.145
+fc5790aa-5431-4734-a375-922698987c94,A Google user,Show a Google Map or OpenStreetMap on front screen on the lower part. Maybe you could toggle it with a touch with the GPS-coordinates.,3,2016-02-29 16:07:50,1.1.145
+ca831755-4842-4e6c-9b49-15312b8db5c6,A Google user,Nice idea,5,2016-02-13 11:05:29,1.1.145
+e5e8529d-4e09-459a-bacf-9725e4f78d49,A Google user,Tänään joutui testaamaan kyseistä app ja todella hyvin löysivät onnettomuus paikalle.,5,2015-12-15 08:24:32,1.1.145
+019064f1-dc6b-43aa-9a1f-d47a1c2af9d5,A Google user,"Hyvä appi, yksi parannusidea olisi: lisätkää ominaisuus jolla Über-taksin voi napin painalluksella ilmoittaa hälytyskeskukseen, jos sellaisen sattuu näkemään.",5,2015-08-14 13:45:19,1.1.145
+1fd54845-11d6-40b6-bd5f-900443c1e067,A Google user,Tuli kokeiltua oikeassa hätätilanteessa ja puhelinnumeron kirjoitus pilasi koko homman. Meni paljon aikaa selittää hätäkeskukseen sijaintia. Ei näin.,1,2015-07-15 22:43:04,1.1.145
+fcd8b269-6f7d-46e4-925a-0cbd88d0094c,A Google user,"Aivan täydellinen sovellus! Varsinkin, kun näissä rekkahommissa ei useinkaan ole mitään käryä tarkasta sijainnista.",5,2015-07-08 07:34:53,1.1.145
+f6078923-2312-4765-8993-a049640754f6,A Google user,"Versio 1.1 on jo aika hyvä, eikä enää ole ihmeen isokokoinen. Toimii ainakin Samsung Galaxy Note 4:ssä, Android 5.01. Akkua kuluu muutenkin niin paljon, ettei yksi GPS vaikuta asiaan sitä eikä tätä. Olisi kiva, jos tätä voisi jotenkin testata johonkin testinumeroon, kun hätäkeskukseen ei testisoittoja saa tehdä.",5,2015-06-30 21:54:23,1.1.145
+0084e885-4b2e-4c84-b507-ebee6ca5e2ac,A Google user,"Ei tätä uskalla käyttää, ettei vahingossa turhaan soita. Ideana muuten hyvä, mutta muistaako hätätilanteessa tämän muiden sovellusten joukosta etsiä.",3,2015-06-28 23:33:47,1.0.119
+c92c67e3-e225-4316-b167-8182fc48f60d,A Google user,"Did someone vomit on screen when doing the design? Would it hurt to *try* to learn a bit Android design before jumping into devving? This is an embarrassment to your brand, Digia.",1,2015-06-26 00:14:13,1.0.119
+c9444480-c968-4840-951c-65f719f7d8bd,A Google user,"Aika kookas softa toiminnallisuuteensa nähden, 45mt. Ei jatkoon vaikka idea hyvä. Toteutus huono.",2,2015-06-23 00:10:13,
+d948e8fd-7388-4220-83ed-6e1ada1e5b28,A Google user,"""Olet tässä"" on olennaisin tieto, hyvä, pisteitä siitä. Sovellus saisi kuitenkin kytkeä gps-antennin hetkeksi päälle väkisin, muutoin totuus on enemmänkin ""Olet jossain täällämain"". Jos tämä ei muka onnistu (wmd osaa kyllä tämän), niin vähintäänkin jonnekin kulmaan kehoitus kytkeä antenni päälle. Miinusta tulee sairaalloisesta ylipainosta ja käännösvirheestä (Itä mukamas 'E' ruotsiksi).",3,2015-06-22 21:46:31,1.0.119
+c9755412-8fbb-4054-982f-34d6dbdc1b53,A Google user,Jostakin syystä ei tallenna puhelinnumeroa sovellukseen. Puhelin Sony Z1.,4,2015-06-22 16:53:24,1.0.119
+734696e0-0def-466a-805e-955a93eb3850,A Google user,"Ohjelma mikä mikä soittaa puhelun ja näyttää pari puhelinnumeroa, koko asennettuna melkein 43 Mt. Muutenkin voin yhtyä aikaisempiin kommentteihin qt:n käytöstä tämmöiseen ohjelmistoon. Ja vielä laadunvalvonnan pettäminen puhelinnumeron tallennuksen kanssa.",1,2015-06-21 16:19:20,1.0.119
+9fd6e329-6839-4786-a8f8-f72ab4e7cae1,A Google user,Good. Hopefully no need for this though.,5,2015-06-19 08:19:59,1.0.119
+c8323836-9727-42e2-9b12-44d072fa8760,A Google user,Yksinkertaisen loistava idea,5,2015-06-19 07:55:33,1.0.119
+8b41b77a-9966-4f08-8c9a-b6cf1dc1d6cb,A Google user,"The application needs to be ""swipe killed""  to save the phone number. Either force closing it or ""backing"" out of seems to make the saving fail for whatever reason.  It would be nice if you'd display a warning that it won't suspend and keep using the GPS location until the battery dies, unless it is swipe killed. I understand that you don't want it to be suspended before the location is sent but you could at least provide a clear way to kill the application. It would also eliminate my first problem. I would personally never have noticed that my phone number wasn't saved and found a ""work around"" if it hadn't killed my battery. Not something you want to fiddle with in case of an emergency.  Finally, 42 MB... why? So you didn't have to touch Java? I suppose all versions run on QT and they don't need to be certified individually, but judging from the quality the certification process can't be very thorough. The mobile applications seems really simple so I can't justify the size and load time/splash screen compared, well, native applications of acceptable quality. QT is definitely overkill for this case.",1,2015-06-19 04:05:30,1.0.119
+f5f1b366-b06b-4bc4-b9f5-1eed5f6f9480,A Google user,"Näemmä näyttää peräti tekstit englanniksi, koska käytän sitä puhelimen kielenä. Itsellä kysyi nroa vain ekalla käynnistyksellä. Kuulemma pitää 1-4 kertaa syöttää se bugin takia, jota ovat korjaamassa.",4,2015-06-18 21:36:29,1.0.119
+af2bcccf-77af-48f9-98b3-e52405a34cdd,A Google user,Fault code and it won't install,2,2015-06-18 17:30:26,
+35a8765d-dfcc-4e6b-bd1b-46d7e57fe3a1,A Google user,"Bra idé, speciellt i skärgården!",4,2015-06-18 16:57:21,1.0.119
+1bdcd9c9-b727-4b64-9fe3-ee54f584f5d5,A Google user,"Miten ihmeessä tämmöinen tekele on voinut päästä laadunvalvonnasta läpi? Puhelinnumero kysytään joka kerta uudelleen (selvä bugi), asennuspaketilla on kokoa 12 megaa mikä nostaa merkittävästi kynnystä ladata tätä 2G:n yli vaikkapa mökillä (tätä ei voi selittää mikään muu kuin fiksaatio tunkea sitä Qt:ta joka paikkaan silläkin uhalla että softan koko n. 20-kertaistuu)  ja jostain ihmeen syystä joka kerta käynnistyksen yhteydessä näytetään väkisin splash screen, mikä varmaan lämmittää mieltä siinä vaiheessa kun on onnistunut sahaamaan jalkansa poikki ja vuotaa kuiviin. Mulle on henk koht ihan sama jos tämmöistä roskaa myydään yksityisen puolen asiakkaille miljoonilla, mutta siinä vaiheessa kun näinkin kriittinen julkinen palvelu, jonka toimimattomuus maksetaan pahimmillaan ihmishengillä ,toteutetaan näin totaalisen ammattitaidottomasti, niin alkaa lievästi sanottuna ketuttaa. Yksi tähti viidestä ja haistakaa ***ka.",1,2015-06-18 15:47:57,1.0.119
+0ca538a3-9183-4855-9973-c7111123a6d8,A Google user,Tämän tason sovelluksen tulisi pakottaa sijaintipalvelut päälle tai ainakin yrittää sitä. Ite en henk.koht. pidä niitä päällä koska syövät akun samantien.,4,2015-06-18 14:40:23,1.0.119
+0094b556-bb37-40a4-ab66-1b6cfd54cc0c,A Google user,"Hyvä idea, toteutukselta toivon jatkossa enemmän. Ensiapu/toimintaohjeet? Sallikaa myös ip puhelut jos esim. kännykkäverkko on alhaalla tai ei kuuluvissa mutta wifi toimii. Mahdollistaisi myös tabletilla soittamisen hätänumeroon. Vaikka ei olekaan varmasti ensisijainen tapa, toimisi varajärjestelmänä. Puhelinnumeron kysely tuntuu tulevan uudestaan kun käynnistää sovelluksen mutta ei joka kerta. Toimiiko salaisen numeron kanssa jos piilotettu oletuksena? Toimiiko jos puhelu yhdistyy mutta ei ole dataverkkoa?",3,2015-06-18 06:47:14,1.0.119
+a1d70967-7368-4477-b882-1ccc64186967,A Google user,"Toimii Jollassa ihan nätisti. Oikeaa hätäpuhelua en ole vielä soittanut. Olisi hyvä, jos sovellus näyttäisi karttanäkymän tai muun jolla näkisi onko koordinaatit oikein. Esimerkiksi tässä sisällä puhelimella ei varmasti ole tarkkaa sijaintia tiedossa.",4,2015-06-17 19:43:11,1.0.119
+bda7b931-8145-42a6-8776-6d00269ce7ae,A Google user,Miksi ohjelma tarvitsee käyttäjän puhelinnumeron? Miten näin yksinkertainen ohjelma voi viedä yli 40 Mt tilaa puhelimessa?,4,2015-06-17 12:22:42,1.0.119
+256c9421-a6e7-4276-ac9c-b5eb28ed4e85,A Google user,Miksi puhelinnumero pitää syöttää joka kerta kun sovellus käynnistetään? Bugi vai ominaisuus?,4,2015-06-17 11:27:07,1.0.114
+,JJ_84,"Hyvin sai soitettua ohjelman kautta, mutta paikannus ei toimi kuten pitäisi. Antoi väärät paikannustiedot.",3,2016-01-18,
+,Yulmur,"Tosiaan tämän paikannuksen pitäisi olla päällä koko ajan toimiakseen hätäpuhelun aikana. Tämä kuitenkin kuluttaa akkua huomattavasti joten sitä ei tule pidettyä päällä. Hädän hetkellä sokkitilassa paikannus ei sitten tästä syystä toiminut ja kaiken lisäksi neuvoin palokunnan väärään suuntaan. Onneksi ohikulkijat korjasivat tilanteen nopeasti ja saimme hätäkeskukselle oikean suunnan.
+
+Toivoisin että paikannus toimisi sovellusta käyttäessä.",3,2019-05-26,
+,Olli 12345,"Selkeä ja hyvin toimiva sovellus! Kiitos ! 
+
+HUOM KAIKKI: Asetusten sanamuodosta huolimatta, paikannus EI OLE päällä koko aikaa! Vain aina-valinta on siksi että paikannus toimisi kun hätäpuhelu on meneillään!",5,2016-02-16,
+,samikki,"Soitto onnistuu applikaation kautta hyvin. Sijaintia ei ole tullut testattua kun sellaista hätätilannetta ei ole vielä tullut. 
+
+Niille, jotka haluavat paikannukseen ""ei taustalla""-valinnan, oletteko ymmärtäneet että hätäpuhelun aikana sovellus siirtyy taustalle kun puhelinsovellus muuttuu aktiiviseksi? Silloin ei paikannuskaan toimisi jos se olisi kielletty taustakäytössä. 
+
+Sovelluksen aiheuttamaa akun kulutusta voi seurata asetuksien kohdasta ""Akku"". Sieltä näkee selvästi että tämä sovellus ei syö akkua. Jos olet testaillut ohjelmaa, siellä näkyy luonnollisesti pientä käyttöä. Normaalitilanteessa käyttämätön sovellus ei kuluta akkua lainkaan.",4,2016-04-11,
+,Keksimonsteri,"Push-notifikaatiolla tullutta tiedotetta ei syystä löydy sovelluksesta mistään, eikä se avaudu notifikaatiota napauttaessa. Eikös ne olisi hyvä olla luettavissa jossain, jos sen pyyhkäisee ilmoituskeskuksesta pois?
+
+Lisäksi tiedotteet välilehdellä tiedotteiden järjestys on jotenkin sattumanvarainen, eikä niitä voi järjestellä uudelleen. Eikö tuoreimmat olisi hyvä olla heti ylimpänä?",3,2021-01-26,
+,Henkka V.,"iOS 12 ja sitä uudemmat versiot tukevat sijaintitiedon lähetystä hätäpuhelun yhteydessä joka tapauksessa, joten tämän apin ainoa merkittävä lisähyöty on paikallisten hätätiedotteiden saaminen. Sitä varten sovellus kuitenkin vaatii rajoituksettoman pääsyn GPS-sijaintiin, jota se myös ahkerasti käyttää (akun kustannuksella). Enemmän haittaa kuin hyötyä, mielestäni.",2,2020-01-29,
+,Virittäjä,"Paikannus on toki hieno juttu ja monessa tapauksessa auttaa paljonkin mutta sovelluksessa voisi olla myös käyttäjän perustiedot.
+
+Paikannus kerrostaloon yritysliittymällä ei vielä vie/tuo pelastuslaitosta perille.
+
+Samoin voisi olla paikka tiedoille käyttäjän perussairauksista ja lääkityksistä, jolloin hätäkeskuksella olisi heti kaikki oleelliset tiedot käytettävissä.",4,2016-02-11,
+,Harmin paikka,"Ihmettelin pari päivää, miksi iPhone 7:n akku hupenee hirmuista vauhtia. Sitten tarkistin tilanteen akun asetuksista ja yllätyin: 112-sovellus on vuorokauden aikana pyörinyt taustalla yli 20 tuntia ja syönyt akusta energiaa 65 %. Tämä virhe pitää korjata!",2,2019-11-24,
+,Digipoju,"Vaaratiedotteissa voisi hyödyntää iOS:n rajapintaa, jotta ilmoitukset tulevat perille myös puhelimen ollessa äänettömällä/ älä häiritse tilassa.
+
+Hätäpuheluiden paikantamiselle on myös olemassa iOS:n oma rajapinta, joten siinäkin mielessä tämä sovellus on turha.",2,2022-02-11,
+,Tontuu,Ohjaa Turussa lähimmäksi defibrillaattoriksi Tampereen Sokoshotellin. Muuten aivan loistava!,4,2021-08-29,
+,mcjori,"mutta ilmoitukset pääasiassa epärelevantteja. Push-notifikaatio jokaisesta palvelukatkoksesta ja liikennetiedotteesta 100km päässä? Peukalosääntönä 112:n viestien tulisi olla vain kriittistä, painavaa asiaa.",2,2021-02-22,
+,Kivakaveri,"Aiemmista arvioinneista huolimatta sovellus kyllä kuluttaa akkua taustalla. Tämä riippuu ilmeisesti siitä, että kuinka paljon liikut päivän aikana. Toisinaan päivinä taustatoimintaa on ollut 40 min. ja sitten toisinaan vain 2 min. Olisiko sitten noista ”paikallisista tiedotteista” johtuvaa, kun ne pitää joka sijainnissa hakea uudestaan? Kulutus ei siltikään ole massiivista, mutta on olemassa sovelluksia, joissa samankaltaiset ominaisuudet eivät käytä akkua sitäkään vähää.",3,2019-04-27,
+,Skuattis,"Sama ongelma kuin muillakin, sovellus on lähes koko ajan aktiivinen taustalla ja on noussut suurimpiin akun kuluttajiin raskaiden pelien ohella. Pakko rajoittaa sijaintioikeuksia",2,2020-02-02,
+,javitutole,"Paikannus jatkuvasti päällä ?! Akku loppuu moisesta. Ennen vaaratiedote sähellystä paikannus oli päällä,vain appia käytettäessä... Pilasivat kätevän apin moisella sähellyksellä ?! HUONO !",1,2019-12-05,
+,Tzar5846,"Akun kulutus on riistäytynyt käsistä versiopäivityksen myötä. Aiemmin hiljaiseloa viettänyt app syö nyt 50 % iPhone 7:n akusta 8h yön aikana. Tämän voi tarkistaa myös kohdasta Asetukset: 112 Suomi, Taustasijainti",2,2019-10-13,
+,Simo J.,"Versiossa 2.0.4 taustatoiminta ja tätä myötä akun käyttö villiintynyt puhelimen asetuksien akun käyttö -näkymän mukaan. Eikä sovelluksen asetuksista voi edelleenkään kieltää taustapaikannuksen käyttöä viranomaistiedotteiden osalta, joten sovellusta ei voi käyttää pelkkien hätäpuheluiden paikannukseen puhelun taustalla.
+
+Lisäksi vaaratiedotekokeiluja ei ole tullut perille kertaakaan, joten herää epäilys niiden toiminnasta tositilanteessa.
+
+Paikannuslupaa kysyttäessä selitys on puutteellinen, koska puheluiden aikaista paikannusta ei mainita. Tämä pitäisi olla sovelluksen tärkein tehtävä, joten vaarana on että käyttäjät eivät tätä huomioi vaan sallivat paikannuksen vain sovellusta käytettäessä.",2,2019-10-12,
+,Miika.,Vie akkua liikaa taustatoiminnassa,2,2019-10-12,
+,r638399374839292,"Koskaan ei ole tarvinnut käyttää, mutta nyt kahtena päivänä syönyt akkua huomattavan määrän. Kummallakaan kerralla en ole avannut sovellusta ja kertojen välissä suljin varmasti kaikki sovellukset 112 mukaan lukien. Lisäksi käynnistin puhelimen uudestaan",1,2019-10-12,
+,Karppal,"Poistin sovelluksen, kun akku tyhjenee. Yön aikana sovellus on ollut käynnissä taustalla yli 12 h ja käyttänyt 51% akkua yksistään. Ei ole hyötyä hätäpuhelusovelluksesta, joka aiheuttaa sen, että hädässä ei ole akussa virtaa soittamiseen.",1,2019-10-12,
+,hhenuliini,"Tämä on sellainen sovellus, jota voin suositella kaikille ja etenkin suosittelen vanhempien lataamaan omille lapsillensa! Itse olen joutunut tätä (valitettavasti) käyttämään työtapaturman sattuessa ja tämä sovellus paikansi sijainnin todella tarkasti. En olisi itse siinä tilanteessa muistanut osoitetta enkä olisi edes sitä kyennyt mistään tarkistamaan liikuntakyvyttömyyden takia, mutta tämän sovelluksen ansiosta henkilötiedot latautuivat automaattisesti ja ambulanssi löysi paikalle nopeasti. Kiitos!",5,2018-11-23,
+,Peldie,"11.2. hätätiedotetesti ei tullut läpi, eikä viranomaistiedotuksetkaan anna mitään indikaatiota – pitäisi muistaa käydä tarkistamassa applikaatiosta. Ei auta asetusten säätäminen, joskus tulee tieliikenteen tiedotteet läpi, joskus ei. Harmillista!",3,2023-02-12,
+,Daily user moving to vimeo,"Nähtävästi tarkoitettu vain viimeisintä mallia olevalle puhelimen omistajalle. Tai mistä minä nyt tiedän toimiiko tämä ohjelma niin kuin pitää kun on iphone 5. App store tarjoaa päivitystä mutta sitä se ei tee sekä herjaa ettei versio sovellu puhelimeeni. 
+
+Myöskään missään ei kerrota miten on ohjelman sijainnin toimivuuden tilanne jos käyttää VPN suojausta, Esim F-securen Freedomea.",2,2018-03-14,
+,Zoppaz,HUOM KAIKKI: todellakin syö akkua ja paljon. Ihmettelin kun akku kuluu kumman nopeasti ja ajattelin että puhelin vain alkaa olla niin vanha että akku on kulunut. Mutta sitten muistin että asensin tämän ohjelman. Poiston jälkeen akun kulutus on taas ennallaan. Jostain syystä tuo akun kulutus ei näy tuolla asekukset osiossa. Mutta jokainen kokielkoot itse. Ja jos tuo lisääntynyt akun kulutus ei jotakuta haittaa niin sittenhän tämä on loistava appi. Koskaan ei tiedä millon täkin äppiä tarvitsee. Mutta minulle käyttökelvoton tälläisenään.,1,2017-06-06,
+,Oh7lzb,"The app requires location access at all times, and does not offer the normal option of only accessing location when the app is used (in case of emergency).
+
+I do not want to give it 24/7 location access, it does not make any sense. It only has reasonable need for it when I'm using the app.",1,2015-11-19,
+,Ville R.,"Lisätkää nyt sinne vaihtoehto sijaintipalveluille, että Käytä sijaintia ""vain sovellusta käytettäessä"". Nyt vaihtoehtoina on ""aina"" tai ""ei koskaan"" ja jos et anna oikeutta käyttää sijaintitietoa myös silloin, kun sovellus ei ole päällä, sovellus ei toimi kuin pitäisi.",1,2016-02-13,
+,Aina soi,"Hyvä appi ja löytyy paljon tietoa, jota saattaisi joskus ehkä tarvita. Yksi tähti menee siitä, että saan liikennetiedotteita eri puolilta Suomea, vaikka valittuna asetuksissa: ei liikennetiedotteita.",4,2021-09-14,
+,Ronnbacka,"Jos haluaa saada alueelliset tiedotteet, joutuu pitämään paikannusta taustalla, akku tyhjenee yllättävän tehokkaasti.",2,2023-02-07,
+,Sepeteus1,Joku bugi tähän on hiljattain tullut. Syönyt taustalla viimeisen 24h aikana 21% akun kapasiteetista.,1,2023-02-01,
+,Olli_79,"2 päivitystä sitten jotain muuttui, sovellus vie paljon akkua. Luurin asetuksista kohdasta akku näkee vaaleansinisellä täyden tolpan joka tunnilla, ja listan mukaan juuri tämä sovellus on ollut taustalla koko ajan.",1,2023-01-30,
+,somalinkaataja420,Ei tuonut värkkiä kun soitin,1,2023-01-25,
+,DivJ,"Aivan perustason asiat kuten vaaratiedotteiden suodattaminen kaipaavat edelleen tekemistä. En todella halua notifikaatioita liikennetiedotteista, mutta vaaratiedotteet on saatava näkyviin. 
+
+Nyt liikennetiedotespämmin vuoksi on pakko kytkeä tiedotteet kokonaan pois ja olla käytännössä esim. YLEn varassa.",2,2022-12-12,
+,mimulimu,"Appi on tosi hyvä!
+Olisi myös hyvä jos sovelluksesta näkee lähin väestösuoja jos ei sitä omassa asunnosta löydy. Tai isompia maanalaisia suojia kuten kouluissa yms. Ja mahdollisesti myös reitti joka ohjaa sinne turvallisesti.",5,2022-03-02,
+,Eitähänkelpaamikäännimi,Paikannus heittää eikä karttakaan ole ajantasalla.   Asuinkatuni on reilu 30v ollu samalla paikalla,1,2022-02-26,
+,Vaeltaja15,Eksyimme tunturiin lumimyrskyn yllättäessä. 112 sovellus pelasti ja hälytyskeskus sai meidän koordinaatit suoraan sovelluksen avulla. Suosittelen lataamaan.,5,2022-01-11,
+,rinkkahiippari,"’Näytä sijainti kartalla’ toiminto tarvitsisi aueta maastokartalle. Eksynyt saisi itsensä takaisin kartalle, eikä välttämättä tarvitsisi pelastuslaitoksen apua paikalle.",4,2021-03-15,
+,taksijukka,Ei lataudu i phonelleni,1,2021-08-19,
+,higugy576,Nice,5,2021-08-12,
+,Turmio,"Miksi sovellus halusi luvan käyttää terveystietojani, terveys apista?",1,2021-08-09,
+,psla,"Soittaa heti taskupuheluna hätäpuhelun, jos puhelimen näytön lukitus aukeaa taskussa. Turhaa kaikille; parempi että poistaa sovelluksen puhelimesta kun hätäpuhelun soittaminen on muutenkin helppoa.",1,2021-06-25,
+,Taistelukala,"Hyvä sovellus! En ole onneksi joutunut vielä kertaakaan soittamaan hätäkeskukseen, mutta varmasti hädän hetkellä auttaa. Ja sovelluksen vaaratiedotteiden ilmoitukset saa pois päältä, sijainnin saa toimimaan vain sovellusta käytettäessä. Ihana!",5,2021-04-13,
+,UwUcatUwU,"Alotin just käyttää, vie akkuu, varmaa hyvä tosi tilanteessa (paikannus toimii 👍🏻)",4,2020-07-22,
+,1579463285,In English version would be appreciated.,5,2021-03-14,
+,Tiskiharja,"Sovellus on alkanut lähettämään suhteettoman paljon push-notifikaatioita viime aikoina. Vähintään kerran viikossa, usein enemmänkin. Kertaakaan ne eivät ole olleet ajankohtaisia. Viimeisimmät jonkin järjestelmän testinotifikatioita. Toivoisi kehittäjiltä jotain suhteellisuudentajua näiden suhteen. Nyt aion kytkeä notifikaatiot pois päältä käyttöjärjestelmätasolla, joten minua ei näillä enää tulevaisuudessa tavoita. Olen viimeisen kolmen vuoden aikana soittanut yhden hätäpuhelun, ja silloin paikannus vaikutti toimivan.",2,2021-02-11,
+,Uva Kikko,"Aikamoista turhaa suden huutamista on tämän appin notskut viime aikoina olleet. Ei jaksa kuunnella, kun appi huutaa koko ajan testiä tai jotain muuta joutavanpäiväistä vikaa. Asiakkaat kytkee notskut pois päältä ja koko hätätiedote lakkaa samontein toimimasta. Lopettakaa nyt se turhilla pusheilla spämmäys.",1,2021-02-11,
+,MiquelFIN,"Kun vaaratiedotteesta tulee ilmoitus kotinäytölle, pitäisi sitä painamalla ehdottomasti ohjautua suoraan tiedotteelle eikä sovelluksen pääsivulle. Lisäksi tiedotteet joista tulee ilmoitus ei aina näy tiedotteissa ollenkaan.",2,2021-02-09,
+,Rmatnie,"Kätevä sovellus, mutta raivostuttavia turhia ilmoituksia tulee melkein päivittäin. Minulla ei ole Telian liittymää, mutta saan sovelluksesta jatkuvasti ilmoituksia Telian käyttökatkoista hätätekstiviestipalveluihin liittyen.",1,2021-02-09,
+,vahvakarhu,Päivittäin tulee ilmoitus telian käyttökatkosta.,1,2021-02-09,
+,Kermamorjens,"Appi lähetti kännykkään hälytyksen klo 02:30 arkiyönä. Kertoi, että kännykkäoperaattorilla on joku huoltokatko palvelussa. Kiva tietää näin kolmelta aamuyöstä. 👍",2,2021-01-27,
+,Epätoivoinen Ypäjältä,"En onnistunut lisäämään puhelinnumeroa, koska ilmeisesti näppäimistö peitti painikkeen, jolla olisi päässyt seuraavaan vaiheeseen. Minulla on puhelimessa (iPhone SE) pieni näyttö, mutta ei sen varmaan pitäisi estää appin käyttöönottoa.",1,2020-10-31,
+,Salvage army,"Saako kaiuttimen päälle sovelluksesta? Helpottaisi elvytystä, jos on yksin auttamassa. Nappikuulokkeilla onnistuu, jos sattuu olemaan mukana.",4,2020-07-12,
+,unelmis,Muuten kaikin puolin hyvä ja tarpeellinen sovellutus. Mutta aina ei pysty välttämättä soittamaan hätä puhelua niin esin teksti viesti mahdolisuus tai vastaava olisi hyvä lisä sovellutukseen,4,2020-01-27,
+,llydi,Tää on hyvä koska jos esim on eksynyt ja ei tiedä mis on niin voi vaan soittaa tähän,5,2020-05-31,
+,Saaripela,"Viranomaisten tiedotteet eivät tule ilmoituksena läpi, vaikka asetukset sen sallivat",1,2020-05-11,
+,Antti J,"Hei! Aivan loistava sovellus, onneksi soittamista ei ole vielä tarvinnut kokeilla.
+Tuossa vain tuumailin, että olisi loistavaa jos kyseisestä sovelluksesta voisi tehdä älykello version.",5,2020-04-03,
+,nakki sormi,Olisi kiva jos 112 nappi olisi punainen,4,2020-01-16,
+,Ulvur10,Toimii hyvin,5,2020-01-24,
+,Taantumus,"Olen tämän laittanut joskus kuntoon, mutta nyt kun kokeeksi käynnistin, niin appi ei tiennyt mitään sijainnistaan. Paikannusasetuksia vaan säätämään... Onneksi tarkistin, ettei sitten hädän hetkellä olisi tullut yllätyksenä!",4,2020-01-05,
+,Jay-H,iPhone välittää hätäpuhelun sijaintitiedot automaattisesti hätäkeskukselle kansainvälisen standardin mukaisesti (kokeiltu on). Et siis tarvitse tätä sovellusta lainkaan puhelimeesi.,1,2020-01-05,
+,ToinenSami,"Akun kulutusongelmat ratkesivat, kun päivitin iOS 13.2.2 versioon ja uusimpaan versioon 2.0.5 112 Suomesta. Nyt sovellus toimii niin kuin pitääkin, voin taas jättää sen taustalle auki ja olen antanut sille oikeuden sijaintiin aina, jotta saan sijaintiini perustuen tarvittaessa vaaratiedotteet.",5,2019-11-19,
+,himohamo,latasin joskus sovelluksen mutta sitten kun myöhemmin poistin sen niin sovellus latautu aina automaattisesti takas! siis aina kun poistin niin heti latautu uudelleen!! en mitenkään saa sovellusta pois mun puhelimest,1,2019-11-27,
+,Pjylha,"Sovellus on viimeisen 10 mittaus jakson aikana ollut 201h taustalla päällä ja kuluttaa akkua 30% 
+hyvä sovellus mutta ei sillä mitään tee jos akku on tyhjä",3,2019-10-23,
+,JayEights,Akun kulutus pitäisi saada kuntoon!,2,2019-11-13,
+,amlkaaaaprdaå,Taustalla toimiessaan käyttää 21% akusta! ( Iphone 8),2,2019-11-11,
+,oresEMED,"Jos on jatkuva paikannus sovelluksessa päällä, kuluttaa sovellus akkua hirveän paljon! Itsellä ainoastaan taustalla tapahtuva jatkuva paikannus kulutti 33% akkua. Käytännössä jos ennen nukkumaan menoa oli yli 80% akkua, oli aamulla alle 30% akkua jäljellä ja kulutuksen syynä tämä sovellus! Muuten hyvä sovellus mutta runsas virrankulutus tehnyt sovelluksesta paskan...",1,2019-11-09,
+,iSaeloe,"Uuden iPhone 11 Pro Max puhelimen akku tyhjeni yössä 20 % -> 0 % ja akkumonitorista kun katsoo niin 112 ohjelma oli pyörinyt taustalla joka tunti 1 h ajan ja syönyt akun kuudessa tunnissa niin että puhelin sammuu. (Ei ollut muita ohjelmia lainkaan kukuttamassa akkua yön aikaan)  Pakko ottaa paikannus taustalla ja taustapäivitys pois kun taas näitä bugeja tullut tähän ohjelmaan. Ohjelmaa ei ole edes käynnistetty, se on sammutettu erikseen swaippaamalla ylöspäin ohjelmalistasta.",1,2019-11-09,
+,jokersailor,Sovellus syö liikaa akkua uudessa IOS versiossa ja oli pakko poistaa. Harmillinen juttu mutta hätätilanteessa on parempi että puhelimella voi soittaa. Miksi kehittäjä ei ota kantaa?,1,2019-11-05,
+,vhku123,iOs 13 akun kulutus on  järkyttävä jatkuvalla paikannuksella.,2,2019-11-02,
+,iPadisti,"Ok idea, mutta akku tyhjenee päivässä viimeisimmän päivityksen jälkeen",1,2019-11-01,
+,gtejgvvg,Hyvä sovellus mutta poistin älyttömän virran kulutuksen takia.,1,2019-10-30,
+,Blizzardi,Oispa kiva jos ois tämä softa käytettävissä. TOIVOTTAVASTI MEDIASSA MAINITAAN KUN TÄTÄ VOI TAAS KÄYTTÄÄ!!!,1,2019-10-26,
+,Bazzer!?!,Jos tälle sallii paikannusoikeudet aina niin tyhjentää akun. 35% akusta menee taustapaikannukseen. Surkeasti toteutettu. Kannattaa siis sallia paikannus vain sovellusta käytettäessä.,2,2019-10-26,
+,Paha-admin,"Viimeisimmässä versiossa akun käyttö tavattoman suurta, jos jatkuva sijainnin päivitys päällä. Vuorokaudessa vähintään 25% akusta menee 112:sen taustakäytössä.",3,2019-10-20,
+,JVI-TKI,"Ios13 myötä sovellus imee virtaa. Yön aikana 33% mikäli paikannus on aina päällä, ios12 aikana näin ei tehnyt.",1,2019-10-23,
+,Zornac,"Sijaintiedon ollessa ”aina päällä” appi lähettää sijaintitietoa yli 800 kertaa 3 päivän aikana. Eli melkein joka viides minuutti. Ei näin.
+
+HUOM KAIKKI: Toisin kuin täällä kommentoinnissa virheellisesti väitetään, sijaintietoa TODELLAKIN lähetetään jatkuvasti vaikka ei käyttäisi appia! Vain siten aluekohtaiset vaaratiedotteet voivat toimia.
+
+Lisäksi normaalia hätäpuhelua tehdessä ilman appia, puhelimet lähettävät AML:llä sijaintitiedon automaattisesti hätäkeskukselle, joten tätä appia ei tarvita enää sijainnin jakamiseen.
+
+Ainoa hyöty tästä apista on vaaratiedotteet, mutta siihenkin Applen laitteissa on olemassa sisäänrakennettuna Applen ylläpitämä toiminto, mikäli Hälytyskeskus vain tajuaisi ottaa sen käyttöön, eikä tuhlaisi rahoja tämän parhaimmillaan keskinkertaisen appin ylläpitämiseen.
+
+Järkeä verorahojen käyttöön.",2,2019-10-16,
+,WizardFantasos,Päivityksen jälkeen sovellus kuluttaa akkua niin että puhelimen mukaan se on eniten akkua käyttänyt sovellus. Aiemmin tällaista ongelmaa ei ollut.,1,2019-10-20,
+,stelmine,18% akusta yhden päivän aikana taustalla ajetusta paikannuksesta. Taitaa pikkusen liian aktiivisesti hakea tuota sijaintia.,1,2019-10-16,
+,Killer13gu,Hyvä perusidea ja onneksi ei ole tarvinnut koskaan käyttää! Appin käyttökelpoisuutta syö se että ainakin tämä versio käyttää 10% akkua päivässä taustatoiminnallaan.,2,2019-10-15,
+,Jasutsi,Akun kulutus kasvoi viime päivityksessä ja on nyt suurin akun kuluttaja normaalissa käytössä vaikka toimii vain taustalla.,5,2019-10-15,
+,gulassi,"Tämän ollessa asennettuna akunkäytöstä jopa 80% menee tälle softalle (background location), joten ei jatkoon kunnes on korjattu.",2,2019-10-14,
+,Järki hoi!!!,"Sovellus toimii taustalla eikä se ole ollut aktiivisessa käytössä. 13-14.10.2019 välisenä yönä puhelimeni iPhone7 akku tyhjeni kokonaan. Suurin yksittäinen käyttäjä oli akun käyttötilaston mukaan 112-sovellus taustalla! Siten väitetty tieto siitä, ettei taustatoiminto lisää akun kulutusta on virheellinen!",1,2019-10-14,
+,Artsi Boy,"Todella hyvä juttu mutta mites sitten toimia jos olet vaikka mykkä mutta et kuuro.? Olisiko tohon mahdotonta yhdistää mitenkään tekstaria jolla voisi kirjoittaa olevasta tilanteesta.!
+Meinaan sitten toi saisi minulta täydet 5 tähteä, vastausta odottava.🥵",3,2019-06-01,
+,AnkkiB,"Viimeisimmän päivityksen jälkeen sovellus kuluttaa akkua huomattavasti, vaikka ei sovellusta käytä. Pakko poistaa sovellus.  (iPhone iOS 12.3.1)",1,2019-10-13,
+,HiskiBoy,Miksi iOS 13 jälkeen 112 Suomi syö taustalla akkua (taustadijainto) vaikka kukaan ei edes käytä sovellusta?,4,2019-10-13,
+,tigeli,"Tänään vienyt puhelimen mukaan 27% akusta ilman että koko ohjelmaa on edes käynnistetty. Aikaisemmin en ole tällaista huomannut, mutta ei hyvältä vaikuta.
+
+EDIT: poistettu koko sovellus, ei naurata kun neljässä tunnissa lähtee 40% akun varauksesta.",1,2019-10-13,
+,draganFI,Sovelluksen viimeisimmän päivityksen jälkeen taustapaikannus ja taustatoiminta vievät jälleen tolkuttomasti akkua. iPhone 11 käytössä ja yön aikana lähti akusta kymmeniä prosentteja. Uskomatonta ettei tällaista saada korjattua eikä kehittäjä kommentoi mitään.,1,2019-10-11,
+,jokke_8361648,"I allowed the app to use location in the background. I noticed that the battery life was reduced after installing the app. So, I checked the battery information and during a normal day this application ate 44% of my total battery.
+I would like to allow it using my location, but having it on would risk my phone running out of battery during the day.",2,2019-10-10,
+,Visa Electron,"Aina ohjelman päivityksen asennettua (viimeksi siis 8.10.2019) ohjelma alkaa toimia taustalla jatkuvasti. Akkutiedoissa tänään aamulla viimeisimmän 16 h ajalta tämä ohjelma on toiminut taustalla 16 h ja puhelimen akkutiedoissa ”Näyttö pois” palkit ovat jatkuvasti täydet. Vaivaan auttaa ohjelman poisto ja asentaminen kokonaan uudelleen, mutta on todella rasittava bugi.",2,2019-10-09,
+,emcaja,"Todella hyvä appi, mutta kun olin laittanut puhelimen pois, niin huomasin että se soitti hätänumeroon itsestään. En edes koskenut appiin ennen kun laitoin puhelimen pois, niin en ollut vahingossa soittanut.",1,2019-07-16,
+,Zxyqwertyuiop,Linkki henkilötietosuojalain mukaiseen rekisteriselosteeseen ei toimi! Onko vahinko vai tarkoituksella?,1,2019-06-19,
+,Hekso55,"Miten toimii ipadilla kun siinä ei ole puhelin sovellusta 
+Pitääkö laittaa padin sim kortin numero vai peruskännykässä oleva puhelin numero ?",1,2019-06-12,
+,Montyfic,Cannot update,3,2018-05-05,
+,Paras pelaja,Viimeisimmän suuren päivityksen jälkeen äppi on tullut todella paljon paremmaksi ja käytännöllisemmäksi. Suosittelen äppiä jokaisella hätätapauksia varten.,5,2019-02-03,
+,Mydlink:(,Edesauttoi nopean avun saamista ja elämäni jatkumista.,5,2019-01-28,
+,Kukkahattutäti,"Linkit app storessa ja sovelluksessa eivät toimi. Sivua ei löydy. Sovellus käyttää paikkatietoa, mutta ei kerro mihin kaikkeen?",1,2018-10-07,
+,66365353,Ei käynnisty 8.1.2 ohjelmistoversiossa. Kaatuu heti taustalle. Vanhemmat versiot toimi hyvin.,1,2018-09-05,
+,jasonen,"Todella loistava homma, että tuki on palautettu!!!
+
+""Iso pettymys kun uusi versio ei tue iPhone 5 mallia.""",5,2018-08-08,
+,Riikkapirita,"Tärkeä ja hyvä palvelu. Toivoisin tietoihin tekstikenttiä tms. jonne voisi tallentaa omat riskitietonsa SOS-passin tavoin. Sekä mahdollisuuden tallentaa tietoja jos henkilö on vammainen, kuuro tms.
+Kokemuksesta tiedän, että apua hälytettäessä, ei ole parhaassa kognitiivisessa tilassa ja nämä asiat voivat unohtua.",5,2018-07-08,
+,uuuuim,Olisi hyvä jos sovelluksessa olis soiton varmistus virhesoittojen estämiseks,3,2018-04-30,
+,JesseJames1983,"Sovellus on tullut käyttöön, tässä tapauksessa voinee sanoa, että valitettavasti. Mutta hyötyä siitä oli, kun apu pääsi paikalle nopeammin!
+
+Joskin nyt AppStore kertoo, että sitä tulisi päivittää, mutta ladattaessa AppStore kertoo, ettei uusi versio ole yhteensopiva tälle iOSille...",4,2018-03-04,
+,Klbygkl,"..jota ei edes voi asentaa, koska puhelin ei ole ihan uusi. Juuri päivityksen kautta ladatusta tuoreimmasta mahdollisesta versiosta huolimatta uutta tarjotaan heti uudelleen - siia versiota, jota ei voi aaentaa.
+
+Mikä järki?",1,2018-04-23,
+,Karppa54,"Soitto elokuussa onnistui tämän kautta tämän kaltainen. Roikkuu vain päivityksissä, ohjelmointi virhe iPhone 5 kohdalla sama vika Telialla, EasyPark osasi korjata. iPhone 5 on viimeisin versio mikä Apple päivittää 10.3.3. Päivitys ilmoittaa että päivitä, kun päivittää niin seuraavan kerran ollaan alkutilassa. Ei päivity eikä lähde pois!?
+
+Tosi tärkeä *****+ kun toimii! Pitää saada kaikille käyttöön. 
+
+Hätätilanteessa ei aina tiedä ja muista osoitetta. Tiedän että olen esim valtatie 12 jossain Lahti Tampere välillä, olenko oliko se Hauho vai mikä kun ohitettiin ohitettiin?
+
+Tulevaisuudessa on puhuttu kuvan ja videon saamisesta mukaan, hyvä ei helppo juttu, vie varmaan vuosia!?",3,2018-03-03,
+,Vepsukene,"IPad nelonen on vasta nelivuotias, ei siis kovin vanha, mutta siihen ei saa enää uutta käyttöjärjestelmäversiota.
+
+Tämä appi haluaa päivitystä mutta ilmoittaa, että ei ole yhteensopiva vanhan käyttisversion kanssa. Pakko poistaa appi häiritsemästä. Valitan!",3,2018-02-16,
+,Jelehakas,"Asensin ohjelman ja se kysyi heti alkuun, sallinko paikannuksen. Vaihtoehtoja oli kolme 1. Kun sovellus on käynnissä, 2. Aina 3. Ei koskaan. Lisäksi piti antaa puhelinnumero ja homma oli sillä selvä.",5,2018-02-19,
+,Neljänkoululaisenäiti,"Kuvakkeen kun vaihtaisi ärhäkämmän väriseksi niin löytyisi muiden appsien joukosta helpommin myös silloin hätätilanteessa vaikka kesken sairaskohtauksen, kun ei ole aivot mukana ja on paniikki päällä kun apua yrittää itselleen soittaa.",3,2016-11-15,
+,Lenkki1224,Soitto toimii apin kautta hyvin mutta hätätilanteita ei oo oikein tullu!,5,2017-08-04,
+,Sami Anttila,"Kun valtio tilaa appsin tai tekee ylipäätänsä mitään, niin mahdollisuus, että saadaan veronmaksajien rahoille vastinetta, on lähellä nollaa. Siispä ei olekaan ihme, että myös tämä appsi on aivan täyttä kuraa.",1,2017-07-25,
+,Agioptr,Sen kerran kun on tarvinnut käyttää ohjelma kertoi oikean paikan hätäkeskukseen ja apu saatiin perille.,4,2017-07-05,
+,Kissanainen85,Mahdoton käyttää VoiceOverilla.,1,2017-04-27,
+,Mar-kus,Harvoin näkee näin ala-arvoista sovellusta AppStoressa. Vetää ihan sanattomaksi.,1,2017-04-08,
+,Viljus,"Paikantaa vain kun sovellus on päällä/taustalla. Jos suljet sovelluksen, niin ei käytä paikannusta. Idiootit 😂😂😂",5,2017-02-19,
+,juhamo,"Ambulanssi tuli heittämällä oikeaan paikkaan kun loukkaannuin, muutoin olisi ollut vaikea selostaa sijaintia. Tuskat oli valtavat ja jokainen voitettu minuutti oli tärkeä.",5,2017-02-15,
+,Kille6v,"Ihan hyvä mutta onko mahdollista, kun painaa soittonappia 112 niin paikannus menee heti päälle",4,2016-05-18,
+,K@rtsa,"Tähän ohjelmaan pitää saada kohta että se hakee sijainnin VAIN ohjelmaa käyttäessä, nyt vaihtoehdot Ei ja Aina!!, mitä helkkaria sitä paikannetaan jos laitetaan aina?",1,2016-10-24,
+,Modio17395,Mahtava idea🙂,5,2016-09-05,
+,Maksajan,Hyödyllinen hätätilanteissa.,5,2016-06-17,
+,Jettäsillai,"Surkeaa, että valittavana on joko sijaintipalvelut aina päällä tai ei koskaan. Missä on vaihtoehto, että vain ohjelmaa käytettäessä??? Aina päällä kuluttaa akun ja vie yksityisyyden, ei koskaan -vaihtoehto voi hätätilanteessa olla hengenvaara, jos jokainen sekuntti on tärkeä, eikä kriisissä saa laitettua laitteen asetuksista paikannuslupaa päälle!",1,2016-06-04,
+,MasterMarko,"Hei, 
+Miksi ei ole lähimmän terveyskeskuksen päivystysnumeroita ja aukioloaikoja?
+
+Miksi ei ole terveysneuvonnan numeroa ja aukioloaikoja - nimittäin asia on monesti selvinnyt sitä kautta ja ei ole tarvinnut edes mennä tk:seen arvauttamaan.
+
+YT MK",2,2016-03-18,
+,Post-man lady,"Paikannuksen käytölle pitäisi löytyä omat asetuksensa eikä olla vain koko ajan päällä oletuksena. Paikannus on epätarkka sisätiloissa. Mm. tämän vuoksi oman kotiosoitteen syöttäminen sovellukseen olisi tärkeää, miksi kyseistä ominaisuutta ei ole? Esimerkkitapauksena vaikkapa vanhus jolle tapaturma tai kohtaus sattuu omassa kodissa, tai jos osoitettaan ei ehdi kertoa kotioloissa kohdatun äkillisen uhan vuoksi (perheväkivalta, kotirauhan häirintä..). Tämä olisi hyvin yksinkertaisesti ratkaistavissa, kehittäjät hoi. Nykyisessä muodossaan sovellus on lähes hyödytön. Paljonkohan virolaiset devaajat tästäkin valtiolta laskuttivat?",1,2016-04-01,
+,JouniMikkola,"Hyvä idea, mutta akunkulutuksen vuoksi käyttökelvoton toteutus.",1,2016-05-14,
+,Torttu.fi,"Sijainnin pitää olla koko ajan päällä, miksei vain käytettäessä?",1,2016-03-03,
+,Marttah,"Hei Digia, softa kaipaa päivitystä IOS 9:ään. Nyt näytölle tulee siansaksaa.",3,2015-09-23,
+,Mikjohan,"Miks tää käyttää sijaintia koko ajan?! Muokatkaa tää silleen että ei käytä aina sijaintia, vain silloin kun käyttää sovellusta sitten vois ansaita edes 3 tähtee arvosteluista ehkä jopa 4😡👎👎👎👎👎👎👎",1,2016-02-13,
+,AmoK_,Mobiililaitteen akun säästämiseksi olisi tärkeää että paikannustietoja haetaan vain silloin kun se on tarpeen. Eli vain ohjelman ollessa käytössä. Tällainen lisäominaisuus kiitos!,2,2016-02-12,
+,Tissiposki,Syö virtaa akusta aika vauhdilla. Muuten hyvä.,4,2016-01-22,
+,hoe666,Gpspaikannusta pitää vaihtaa siten että se käyttää paikkatietoja vain sovelluksen ollessa avattuna.,1,2015-10-06,
+,Ravenis,"Softa vaikuttaa hyvältä ja varmasti tekee sen minkä sanookin. On mukavaa ajatella että häkelle menee tieto sijainnista jos ei sitä itse osaa tai pysty kertomaan... Sitten se pakollinen mutta... 
+
+Softa roikkuu vähän turhankin aktiivisesti kiinni GPS:ssä ja tämähän kuluttaa akkua. Asetuksista ei saa valittua että kävisi päivittämässä sijaintia määrättynä aikavälillä tai vain silloin kuin ohjelma on avoinna... Nyt tuntuu että ohjelma päivittää sijaintia koko ajan... Niin kuin sitä akun kapasiteettia olisi liikaa
+
+Tästä johtuen itselle tulee mieleen lähinnä poistaa softa koska jos olet reissussa niin olisi mukava ylipäätään pystyä soittamaan sinne hätäkeskukseen eikä katsoa kun softa on imenyt akun kuiviin...
+
+Lisäksi mietin että eikö softa voisi  lähettää sijaintia hätäkeskukseen tekstiviestillä eikä data yhteydellä? Menisi tieto luotettavammin perille... Tämä siis silloin kun soitat sinne... Ei varmuuden vuoksi...
+
+Eli kehitystä vaatii vielä ennen kuin tätä voi hyväksi sanoa... Idea on loistava.",2,2015-07-07,
+,Sami_sam88,Epäilyttävä sovellus! Vaatii puhelinnumerosi ja paikantaa jatkuvasti! En suosittele käyttämään!,1,2015-07-06,
+,Swiiks,"Sovelluksen tekstit ja numerot ovat muuttuneet venäläisiksi merkeiksi, mitä lie tapahtunut...",1,2015-10-04,
+,Timsi56,"Täysin nokallaan, latauksen jälkeen vieraita kirjoitusmerkkejä, edes oman numeron syöttö ei onnistu, tulee ruutuun numeroiden sijasta outoja kirjainmerkkejä !",1,2015-10-01,
+,Kakkakekki,"Pyytää puhelinnumeron ja kun yritän sen kirjoittaa, niin numeroiden tilalle tulee vain kyrillisiä aakkosia. Ok",1,2015-09-30,
+,# Paskaa tuutintäydeltä,Täysin paska. Ei toimi teksti. En suosittele lataamaan. Poistin,1,2015-09-30,
+,Coffeecafekahvi,"Sovellus näyttää kyrillisiä tms. merkkejä eikä teksteistä saa selvää. Puhelinnumeroakaan ei pysty syöttämään, koska numeronäppäimestä ei tule numeroa, vaan jotain muita merkkejä.",1,2015-09-29,
+,Esahaapak,"Päivityksen yhteydessä 112-sovellus muuttui venäjän kieliseksi, äkkiä korjaus!",1,2015-09-29,
+,steelduck,"Kaikki tekstit sovelluksessa ovat ""siansaksaa"".",2,2015-09-29,
+,Hepreaa,"Merkistö muuttui iOS9 päivityksen jälkeen ihmeelliseksi, ei mitään tolkkua.",1,2015-09-27,
+,Partanaama,Numerot pelkkää sotkua.,1,2015-09-23,
+,Linduck,Minkä ihmeen takia nyt on kieli muuttunut tyylii hepreaks? Koittanu asentaa uudelleen ja kaikkea mut silti edelleen kieli on joku iha muu ku suomi.... Muuten varmasti iha kätevä!,3,2015-09-22,
+,Vggcdccdvvvh,Ei toimi ollenkaan. Osa teksteistä on ihme merkkejä. Jopa oman numeron kirjoitus tuottaa rappakaljaa,1,2015-09-22,
+,Josamiidel,iOS9- päivityksen yhteydessä (tässäkin ohjelmassa) kieli (merkit) muuttuivat tunnistamattomiksi-koordinaateista ei mitään tolkkua. Hienoa Apple!,1,2015-09-22,
+,aatte,Outoa.,1,2015-09-20,
+,Nuvi_FIN,"Oletettavasti toimiva sovellus (ei ole ollut onneksi tilannetta, jossa voisi kunnolla testata) mutta hivenen keskeneräinen. Visuaalisesti sangen karu ja mahdollisesti nostaa riskiä soittaa vahingossa hätänumeroon. Monet tuntuvat valittavan, että paikannus on aina päällä. Paikannus on ainoastaan päällä mikäli app on käytössä tai sitä ajetaan taustalla. Sulkekaa app niin paikannuskin menee pois päältä. On ymmärrettävää, että app lähettää sijaintia vaikka onkin taustalla.",3,2015-06-24,
+,Okkmies,Miksi tämä näyttää Venäjäksi sen vaikka oon ihan Suomessa?,2,2015-09-19,
+,Mosruio,"Paikannus hätäpuhelua soitettaessa säästää vähintäänkin sekunteja, mutta parhaimmillaan minuutteja.
+Sovelluksesta on korjattu ominaisuus joka jätti paikannuksen jatkuvasti päälle; paikannus häviää n. 5sek kuluttua sovelluksen sulkemisesta.
+Kannattaa ehdottomasti ladata.",5,2015-08-19,
+,Dig_it3,Sovellus poistettu,1,2015-08-15,
+,Sinkku,Soitin vaasan hätäkeskukseen tällä ohjelmalla. Eikä heidän näytölleen tullut mitään paikkatietoja.,1,2015-07-29,
+,Pelaaja X,"Uskon vahvasti että tämä ohjelma tosissaan toimii jos jollakin on hätätapauksessa! Tämä akun kulutus
+Päivitys on korjattu ja paikannus on 
+Parannettu!
+
+Alkoi vielä tnä ihmetyttää se että jos joku
+Murtautuisi minun rivi talooni ja painan tuota
+Nappulaa tuolla joka soittaa 112 niin 
+Tietääköhän avun tulla juuri siihen oikeaan 
+Taloon?",5,2015-07-08,
+,Pirjo77,"Ei ole tullut eteen tilannetta, että olisi tarvinnut ohjelmaa käyttää, mutta uskon että toimiva",4,2015-07-07,
+,Tchort,"Todella keskeneräisen näköinen tekele; käyttöliittymä ja fontti eivät skaalaudu millään lailla näytön koon mukaan (esim. iPhone 6 plussalla näyttää aivan jäätävän kamalalta). 
+
+Koordinaattijärjestelmää ei itse pysty valitsemaan jolloin tästä sovelluksesta olisi muutakin hyötyä kuin vain hätätapauksissa. 
+
+Sovellus tahtoo käyttää sijaintia myös silloin kun se ei ole etualalla. Miksi? Ja lupaa tähän kysyessään kertoo syyn englanniksi. Miksi? Toki lähes kaikki tämän verran osaavat kieltä mutta kyseessä on kuitenkin hyvin paikalliseen käyttöön tarkoitettu sovellus. 
+
+Ainoa positiivinen asia on muihin hätänumeroihin, kuten myrkytystietokeskuksen, soittaminen vaivatta.",2,2015-07-05,
+,MaruzaF,"Paikannus jatkuvasti päällä, joka akkusyöppö. Voisiko saada kehittelyyn että paikannus vain ohjelmaa käytettäessä? Muuuten hyvä sovellus",2,2015-06-30,
+,tr1st4m,"Päivitin uudempaan versioon, ja puhelinnumero pitää syöttää uudestaan? Ette ole tosissanne? Hätätilanteessa sitten rupean numeroa syöttämään? Mitäs jos on uusi numero? Menkää itseenne.",1,2015-06-28,
+,Kulemam,"Toimii eikä jätä gepsiä päälle kunhan sammuttaa softan kunnolla, opetelkaa sulkemaan taustaohjelmat oikein..",4,2015-06-25,
+,Jaccana,Paikannus saatava pois kun ei käytä ohjelmaa.Päivittäkää tämä.,2,2015-06-24,
+,Kakemlg420,Se poltaa akun  ja niinkun iphon 5s mun puhelin nii siinä on akku tosi lyhyt nii se menee 0% 5 minassa,1,2015-06-24,
+,Bestah88,"Toimiva idea. Amatöörimäinen kuva tulee heti ensimmäisestä screenshotista kun miinusmerkki on asteiden edessä ja kulma >180.. siis -180 ja risat itäistä pituutta eli +180 ja risat läntistä.. eli siis oikeesti vähän alle 180 itäistä?
+Paikannuksen säädöistä puuttuu vaihtoehto ""while in use"".",3,2015-06-22,
+,Vihainen lokki,Onnistuin soittamaan samantien vahingossa hätäkeskukseen. Enkä voinut peruuttaa puhelua mitenkään. Toivottavasti ei oikea apu mene hukkaan tämän surkean sovelluksen takia!,1,2015-06-23,
+,Nadrak,"Käyttöliittymä on outo iOS sovellukseksi. Ja viimeistelemätön.
+
+Epäselvää tuntuu olevan tuo GPS:n päälläolo myös. Jos softa on taustalla, lähettääkö se kokoajan sijaintia palvelimille, vaikkei siis soita häkeen?",2,2015-06-23,
+,Tskii79,"Asensin sovelluksen koko perheelle, ehdottomasti hyvä apuväline. Auttaa hurjasti esim kolaripaikalle apua kutsuessa tai geokätköreissulla loukkaantuessa. 
+
+Paikannus tosiaan jää päälle ja syö vallankin vanhemmissa puhelimissa akun todella nopeasti. Tämä ei toki ole käytännössä iso ongelma, koska kaikki toivomme, ettei sovellusta koskaan tarvita. Ensikäynnistyksen jälkeen on tärkeää sulkea sovellus, siitä poistuminen ei riitä. Tämä bugi tulee pian korjata, sillä pahimmillaan avunsaannin helpottamiseksi tehty sovellus estää sen, kun akku onkin ihan tyhjä.",3,2015-06-21,
+,AntonBoer,"Ehdottomasti tarpeellinen sovellus mutta teknisesti heikko suoritus. Sovelluksen pitäisi paikantaa vain kun se on käytössä, ei jatkuvasti taustalla.",2,2015-06-22,
+,Älä päivitä,Miksi käytetään WGS koordinaatistoa kun Suomessa on vuodesta 2005 lähtien käytetty ETRS-TM35FIN koordinaatistoa? Ei historiaa vaan eletään nykyaikaa.,2,2015-06-22,
+,Autopeli,"Kun appsin sulkee, niin ei paikanna. Hyvältä näyttää.",5,2015-06-21,
+,Omainen,Ohjelmistoon voisi lisätä omaisen kohtaan päivystysnumerot,3,2015-06-18,
+,Asiantuntija,"Aluehäkytyskeskuksen työntekijöille ei kuulu pätkän vertaa, missä minä milloinkin liikun.",2,2015-06-19,
+,oneiceman,"Poistoon. Ainaki niin kauaks aikaa että sijainnin kyttäys loppuu, sovelluksen ollessa taustalla.",1,2015-06-19,
+,Miihkali,"Hyvä idea, surkea tekele. Puuttuu paikannus asetuksista asetus ""paikannus käytettäessä"". Poistin...",1,2015-06-19,
+,High blod pressure,Testi näppäin olisi hyvä saada.,4,2015-06-18,
+,Eiaro,"Virhesoittojen määrä voi kasvaa, jos pienet lapset saavat kännykän käteensä ja vahingossa avaavat sovelluksen ja soittavat. Joten joku varmistus voisi olla hyvä. Nyt sovellusta ei viitsi testata, ettei suotta soittaisi hätäkeskukseen. 
+
+Liukunappi sijaintitietojen käyttöönotolle olisi myös näppärä.
+
+Hyvää myös muiden ""hätänumeroiden"" löytyminen sovelluksesta.",2,2015-06-18,
+,raminm,Ei mitään järkeä vaatia paikannuksen käyttöä jatkuvasti. Tällaisenaan käyttökelvoton kun syö akun aivan liian nopeasti. Voisi olla hyväkin jos paikannus käytössä vain sovellusta käyttäessä.,1,2015-06-18,
+,Kirjiz,"Melko isokokoinen ohjelmisto ottaen huomioon sen toiminnot. Taustalla jatkuvasti päällä oleva sijaintipäivitys kuluttaa akkua turhaan. Käyttöliittymä ja käytettävyys täysin iOS-maailman vastaisia (vain hiiren osoitin puuttuu). Ajatus ohjelmistossa hyvä, mutta vaatii paremman suunnittelun ja toteutuksen.",1,2015-06-18,
+,Pekanpk,Paikannus päällä koko ajan. Kuluttaa pirusti akkua. En ota käyttöön.,1,2015-06-18,
+,Murinaaaaaaaa,Kyllä mulla ainakin ottaa paikannuksen pois ku suljen sovelluksen 😉 te ette vaa oikee osaa,5,2015-06-18,
+,X4nttu,"Sovellus haluaa paikantaa jatkuvasti sijaintisi, siis myös silloin kun puhelinta tai sovellusta ei edes käytetä!! Poistin saman tien tälläisen vakoilusovelluksen.",1,2015-06-18,
+,dingkong,Erittäin hyvä ja yksinkertainen sovellus. Paikannus ei jää päälle taustalla kun sovelluksen sulkee.,5,2015-06-18,
+,Manbearpig.,Kuluttaa turhaan akkua,1,2015-06-18,
+,kuokka82,"Käyttää sijaintia kokoaika, akku kuluu nopeasti.",1,2015-06-18,
+,- emma -,"miksi sijaintitietojen pitää olla käytössä aina, eikä ainoastaan käytettäessä?",2,2015-06-17,
+,tth78,Joten akku kuluu silmissä. Eikö kannattaisi koodata paikannuksen käyttö pelkästään käytettäessä sovellusta?,1,2015-06-17,

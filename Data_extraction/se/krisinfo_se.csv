@@ -1,0 +1,327 @@
+Review Id,User Name,Review,Rating,Date of Review,reviewCreatedVersion
+6a8e22f2-c728-4738-aa4f-62ec044c6e90,skalmelid,Receive messages from all over Sweden even though I have only selected Östergötland. How hard could it be to fix this?,1,2021-06-18 15:25:13,2.6.0
+b6fc4ca3-7f2f-4e15-8270-027dac13bf2d,Aleks,"Sometimes works and sometimes doesn't. When a notice appears about, for example, a fire in the area, nothing happens when you press it and try to open it...nothing happens at all anymore. Would be good with at least the possibility to see the history if it is not possible to fix the push notifications.",3,2021-05-14 00:58:57,2.6.0
+851cdff9-3a98-42b7-b1f0-1cb7128f4219,Rodrigo Flores,Is it too much to ask for an English version? Thanks.,1,2020-12-07 14:20:34,2.6.0
+c1a2dd5c-7d2e-443d-b3db-89a400f34f3c,Peter Liljenroth,"The app does not provide reliable notifications. Today I should have got notifications for my region, everything looks rightly configured, but nothing.",1,2020-12-03 18:52:15,2.6.0
+ab15fcfd-8196-4d93-8cc3-751521446f3d,Andy Bones,Notifications are not working.,1,2020-11-06 09:32:36,2.6.0
+ec1906f5-5493-44b2-b246-05bb081f79fd,CleanDeskPolicy,"Hi, so the content of the app is very important and therefore find the notification problems particularly tiring. I have selected Västra Götaland County and receive notifications for all counties except it! Heard about stricter advice via work, and not the app. Not OK. All good!",2,2020-10-29 18:56:20,2.6.0
+3d827543-2745-4396-a5e4-4fca82f7bfd9,Ulf Persson,"You get the feeling that they widen the definition of crisis to have something to report. It mainly local little incidents a traffic accident, a bit of some from a small fire... Noise",2,2020-07-26 12:21:59,2.6.0
+7cf6601d-1ed3-4e8b-b96c-c8fc90750652,A Google user,It remember areas now. The app generally works well.,5,2020-03-07 14:02:17,2.6.0
+2148477b-cbb4-4c7a-aa5c-f474a838db3c,A Google user,"It is not possible to deselect counties for which you want an important message (there are settings to do this, but cannot use the settings)",2,2019-06-24 13:44:43,2.5.0
+4527225b-f0af-4f98-bc3e-19eed09fa548,A Google user,This app does not remember counties selected. This means you will always get messages for the whole of Sweden.,2,2019-01-08 09:15:43,2.3.0
+61f2a840-3601-4fc2-a4fa-f08f5eb390a1,A Google user,"The app does not remember settings. Check out all notices except three
+areas. 10 minutes later, all counties are unchecked again. Must be fixed because
+this app should be useful.",2,2018-07-17 12:51:43,2.2.5
+7bca1618-c802-49d5-b1cf-183710ac34bc,A Google user,"A good initiative, but there are quite a lot of notices that do not concern me
+neighborhood being pushed out.",3,2018-04-23 13:36:32,2.2.3
+88542c3d-92dd-4440-89ec-f91ee313bb83,A Google user,"""Currently"" is a joke. I open the current, see a warning about smoke development, call and warn family and friends that I care about them. Then stands there like a fool because crisis information's definition of current also includes dangers that passed several days ago. In other words, the app does not fill a relevant need.",1,2017-10-23 14:22:48,2.0.2
+000ddb05-1c4e-4ab2-9c71-4266da1ea02d,A Google user,Incorrectly sends alerts without information. Do not install! Still!,1,2017-07-27 14:55:17,2.0.2
+7a54819b-f9e0-4c9e-8791-1a4c52123176,A Google user,"Notifications for the whole of Sweden even if you have chosen a different, special area.",2,2017-07-23 08:40:36,2.0.2
+ec2c820c-5ce9-4018-ad1d-179c1163e037,A Google user,"Notifications do not work for five öre. Much like hesa fredrik in sthlm the other day. If something big happens, we're probably screwed in this country. Have had the app installed as long as possible without getting a single notification.",1,2017-07-11 20:07:21,2.0.2
+fb46b085-fc6f-4c4a-8509-8e85bbcb817f,A Google user,"Good initiative, but the app is not fully developed. For example. you get notifications from all over the country, even though you have only checked out of Stockholm. Sometimes you get bombarded with the same notification over and over again.",2,2017-07-02 12:01:47,2.0.2
+4b3b4eec-7a60-4cc8-9ddb-323f229f5160,A Google user,Just received +20 notifications about wrong region.,1,2017-06-28 17:08:51,2.0.2
+64d15614-6a2e-4239-b6cc-5a8086eeb74c,A Google user,"Receiving notifications for Öland, about 12 in a row in the last hour despite setting for only norrbotten and västerbotten. Broken app.",1,2017-06-28 17:03:40,2.0.2
+c356b90d-db9b-46fc-b272-8390dfcb4de0,A Google user,A disaster in itself,1,2017-06-28 16:39:20,1.4
+ea887e5a-860c-408d-be58-a395c3317776,A Google user,"Good initiative, but the app is so damn bad. The filter doesn't seem to work at all and my partner and I just received about 10 notifications each about rain in Kalmar when we live in GBG and have only chosen Västra Götaland.",2,2017-06-28 16:35:43,2.0.2
+8a8e3916-bf80-42bf-bd6a-92ba70f32124,A Google user,The app does not work well with notifications as you often receive information from parts of the country that are not relevant or that you do not want. Then you can't see the whole notice either.,2,2017-06-28 16:35:20,2.0.2
+44db93d6-cf7f-4d39-9083-461b3c6a3add,A Google user,"Buggy and bad, uninstall got the same notice now 9 times",1,2017-06-28 16:33:28,2.0.2
+e2c57a81-a15d-47b2-a128-d87f579ce0b6,A Google user,"There are settings to filter notices by area and also a function to turn these off, unfortunately nothing seems to have an effect. This means I turned off system level notifications - not good for an app that should be able to notify me of crisis information... Also contacted the team who were unable to provide any insightful answers. It makes me think that the development of this app is on a pretty low priority, which is a shame when it can bring such an important function.",2,2017-06-08 12:38:00,2.0.2
+f5d0beb1-ec89-4e59-888a-efc510b56cf5,A Google user,"Positively surprised by the app. Fast, stylish and flexible. Wish you got to the article when you go via the markings on the map, otherwise 👍.",4,2017-06-04 11:37:42,2.0.2
+c3fdb628-3c55-4eb4-8dd6-109c2933f832,A Google user,75% of all notices lead nowhere when you click on them. You only get to the start page and there is nothing about the event you clicked on. Extremely frustrating as you can't see the entire text in the notification!,2,2017-06-04 09:26:16,2.0.2
+9ad7903d-321e-4ce5-b788-4990b6438607,A Google user,"Important messages in the notification field disappear, can't be found in the app either! Tried it several times, it happens every time when you do things in a certain way...",2,2017-05-28 16:55:54,2.0.2
+f2f2b390-2d19-4ef7-9a55-3d8d50a8a442,A Google user,"The content is often not updated, which means that notifications lead nowhere.",2,2017-05-23 11:49:56,2.0.2
+4bb08214-1b41-4819-98cc-341fd760efc5,A Google user,"Embarrassing! No checklist to prepare households to cope with the 72 hours it takes for MSB to mobilize. No big ""navigate to your shelter"" button. The tips you get for water shortages are ctrl-c/ctrl-v from the environmental movement. What do I do when water stops coming out of the faucet? Automatic car wash?! It's going to be a crisis, help people prepare!",1,2017-04-12 09:15:49,2.0.1
+6b7bf3ab-bd7c-4781-b21d-62b2b72ba452,A Google user,"This app isn't doing what it's supposed to. I expect notifications when something happens in the areas I selected, but no. Instead, you have to start the app and actively search for information yourself, i.e. use it like a very poorly laid out local newspaper. Do you even know how a smartphone works and how to make apps smart with notifications and widgets? ",1,2017-04-09 05:34:39,2.0.1
+f64d31c3-0f81-404f-978d-42fb1378924e,A Google user," Messy design, take a look at Android's guidelines. The notices are often completely uninteresting and contain no ""crisis information"".",2,2017-03-22 19:33:21,2.0.1
+585aa0b2-812a-42e8-a3de-144dab563018,A Google user,"The first impression is good, but I don't know if it will help Sweden very much if the Russians come! 😂 or should we say NATO? 👹☠👻💀",4,2017-02-25 14:08:02,2.0
+151cb298-f801-4741-a333-ba9b550aae6c,A Google user,"On my Nexus 7, the buttons at the bottom overlap with the area where the system buttons are.. Which makes it hard to move them correctly.",3,2014-12-22 22:23:57,1.2
+d0c3d6f1-7e32-42c4-bfca-aa99405f8c68,A Google user,Keep building on it and make it more optimized.,4,2014-11-16 20:10:56,1.2
+88349876-8cb0-40f4-bd5f-5cebef8955a0,A Google user,"Good, but hardly bland and not very well optimized.",4,2014-08-13 02:42:30,1.2
+66f4e2f7-9ddd-4928-85ec-3807d91e8f65,A Google user,"It's a smooth app. It is, however, very ugly.",3,2014-06-17 10:29:14,1.2
+bc47aae3-eb4e-4ffc-9b7a-22e5fe265755,A Google user,"Links directly to operational disruptions, traffic disruptions and pushed info about the counties you follow.",5,2014-06-08 01:53:53,1.2
+c3c75e5b-0425-479c-8985-6f4eaaca3548,A Google user,Only the links in the same place are worth 4 plup.,4,2014-04-11 19:24:56,1.2
+037beabe-322d-42f1-8417-46a5b92e4668,A Google user,Surprisingly good and useful!,5,2013-09-02 23:40:24,1.1
+a4574ac9-7722-4e54-9e11-47fe8e153486,A Google user,"Good with the ability to monitor traffic, but you should be able to add position monitoring to the county you are in.",4,2012-06-07 06:59:34,1.0
+196a94d0-5b29-41a2-9e23-1d4400498177,A Google user,Really good setup!,5,2012-06-05 19:32:57,1.0
+,Andreas 7892,"Saw a 2 year old comment that you get all WMA messages for the whole country regardless of which county you cruised in. Unfortunately that is still the case and I still get notifications for completely different parts of the country, which for my part erodes the value of the app (a little like the boy who cried wolf). Otherwise good app and clear info!",2,2022-02-12,2.5
+,Kallokain,"I installed the app to get information about the spread of the Corona virus in Gothenburg. It is information I can use to assess how I should change my behavior to reduce the risk of spreading infection.
+
+Instead, I receive information about grass fires throughout Sweden. There is an option to configure the app for geographic areas, and information sources, but it doesn't work.
+
+The app is a great idea, but the implementation is so bad that it can be downright dangerous. I don't want the information I need to be drowned in things that don't concern me, or that are less important.
+
+I'm uninstalling, and trying to get information some other way.",1,2020-03-21,2.5
+,Nihalti,Recommend . Good app for official info and update from.,4,2020-04-06,2.5
+,Robinio2999,"Good that you can get alerts and crisis info.
+They say that they have improved so that you can only get information from the areas you cruised in, but still I get crisis information about all parts of the country...",3,2019-07-24,2.3
+,Sweetie pie 43,My iPhone receives notifications with sound from ALL counties even though I only selected my own. .sad to be woken up at night and worried about something that doesn't concern the area I cover. Bad!,1,2019-07-27,2.3
+,ÅttBoll,"To anyone who thinks there is a bug in the app:
+You have to change the notification settings in the app, the filter you set only applies to the news feed you are viewing.",5,2020-04-14,2.5
+,0liPar,Why is this app not merged with the 112 app? All in one place!,3,2020-04-04,2.5
+,Andréas Olofsson,"An app about crisis information from MSB that hasn't been updated in two(!) years and where the push notifications don't work at all.
+Fix the app so it's relevant, and works, for our current state of the world or remove it from the App Store! As the app is now, it is completely useless, which is a shame as the idea is good but the implementation is under all criticism. Hard to take MSB seriously when this is the result.",1,2022-07-03,2.5
+,Chickabee78,"Good app but hasn't been updated in 2 years despite numerous reports of notifications not working properly. If new update is to go out, developers must specify privacy information (the information they take from your phone) according to Apple. Is that where the shoe pinches?",3,2022-06-19,2.5
+,kirre0204,Post so you can see where there are shelters,3,2022-03-17,2.5
+,Pite-mor,"Get notifications from all over Sweden. Unable to deselect counties, but all are checked.
+An important app and therefore the functions should work as they should, right?
+Get notifications at night about fire but the fire is 100 miles away.
+Seen this has been a problem for a long time. Maybe time to get hold of it?",3,2022-03-08,2.5
+,OkejokejFINE,"Good to get important information from but the app is buggy. You cannot change which counties receive notifications because the app has a setting for that. You just get an error with: ""Failed to update the notification settings.""
+
+Neither unchecking a few counties nor all counties works either.",2,2022-12-05,2.5
+,izekube,"For years, iOS notification settings have not worked. You cannot mark/unmark counties, but you get all of them. Unprofessional app support that does not read reviews of a socially critical app.",1,2022-01-30,2.5
+,M. 25/11-2011,"Today a VMA was issued in Skåne regarding boat fires, I have made all possible settings in the app to receive notifications etc. on the phone, but I did not receive any notification about this. However, I received a notice from the newspaper Expressen. Enough time for an update of the app and at the same time add that the VMA signal is heard from the phone at the same time, for example.",1,2022-01-11,2.5
+,SkaeggMunk,"The most basic and critical function does not work, i.e. notices for Important Notices to the Public for the county you selected. Today there was a VMA in my county but the app has not created any notice. Please fix this bug!",1,2021-12-11,2.5
+,GodlysickofNics,"* You can only receive notifications from ALL counties
+* If you click on deselect all, all will be selected immediately afterwards
+* If you click away a county, it will be marked again BUT then have the option to click on MARK ALL, even if everything is marked
+* If you click on turn off notifications in the app, you will get the error message ""it was not possible to update notification settings""",1,2021-07-31,2.5
+,Jalleso,"2 years ago, Robinio2999 pointed out that it does not work to filter which areas you get Crisis Information from. Isn't it time to fix this. I am not interested in whether there is a fire in Pajala. Too many notifications cause you to uninstall the app.",1,2021-07-26,2.5
+,olaabcdefg,Now it seems to be fixed. You only get information about the areas you selected.,5,2020-05-27,2.5
+,Steffo5,"It doesn't work to select counties for notifications, so I get push notifications for all counties. That's how 99% of everything is irrelevant to me, so in the end you stop caring unfortunately.",3,2023-02-17,2.5
+,linaa_2,"The idea is good, but the few times I actually get notifications, they come HOURS after the event. For example. when testing a war alarm, 4-8 hours AFTER the alarm has been tested, I get a notice that it ""will be tested at *clock* today"", while I received a notice from SOS Alarm several hours in advance (as it should work). Know of many more who have the same problem, the notice comes several hours after the event occurred.",1,2022-12-06,2.5
+,Biodlare1,"Good that it exists. But I don't get any notifications even though all counties are marked. And it is not possible to deselect counties 🤬. Redo, do right.",2,2022-11-04,2.5
+,cff92,Gets notifications from all counties,2,2022-06-15,2.5
+,Lurad??,"Sees that no one has touched the app for several years, so the chance of you fixing the extremely annoying bug that it is not possible to set counties for notifications is probably not that great.
+
+When I put a tick on my county in the settings, the tick flashes, then it's gone. And I still get notifications from all over the country.",1,2022-10-09,2.5
+,Pjorgensen,Can't deselect counties.,1,2022-09-03,2.5
+,AEriksson,"It's still not possible to select counties for notifications, depending on what you click on, the app changes back to ""All counties"". Been like this since the start.",1,2022-08-11,2.5
+,glassbil,I get notifications from other regions besides my own. Need to go into app to see my region.,1,2022-08-04,2.5
+,Lukas Moseby,"Is there a setting to select geographic area. But it automatically selects all areas no matter how hard you try to deselect them. So you are forced to get information from all over Sweden anyway, which results in you uninstalling the app instead. Boring.",1,2022-06-15,2.5
+,Gbdjlgghhhxjbxfvfdcvjgszc,Good notifications but extremely annoying to get a notification in the middle of the night for an area you don't touch and you didn't choose.,2,2022-05-18,2.5
+,SaraHedström,"Very good app that keeps you informed about critical situations. BUT it is not possible to tick off any counties in the notification settings, so you receive notifications for the entire country. That way you don't take the notifications very seriously either, since it almost never affects you personally.",4,2022-06-15,2.5
+,Aeroaero,"Got the app to get important information to the public but you can't select counties and nothing happens when you press the counties or check/uncheck all.
+Unbelievably bad to create an emergency information app that doesn't work as it should. Better not to in that case. Seems to have been a problem for several years when you read other reviews.",1,2022-05-24,2.5
+,Boffebus,"Recurring problem is that I have selected my county, then I get information about other counties. Have tried reinstalling the app several times. The problem remains.
+
+The credibility of the app and crisis information is dropping, I raised this only in July 2020 and it is still not resolved.",2,2021-05-22,2.5
+,count2ERO,Extremely bad app!,1,2021-10-13,2.5
+,geronten,Embarrassingly bad app. Latest information appears to be at least three months old. Surely something must have happened in Sweden later than that?,1,2021-07-23,2.5
+,04911940,Our tax money wasted in the stupidest way.,1,2021-06-13,2.5
+,Angiez Doo,"Good app,
+ but I can't opt ​​out of the counties you don't want to follow in notifications in the app, so I get all over Sweden when I only want where I am ",3,2021-05-31,2.5
+,dix_xib," Only get notifications from counties I haven't marked. Good indication of how prepared the authorities are for a real crisis...
+
+Update a few years later: Still the same thing with notifications not working. Now I get because I have marked, but also about fires in Luleå...",2,2021-04-11,2.5
+,FesseE,"Good app and good initiative. However, you need to set the county both for the news feed and a little more cryptically in the notification settings.",4,2021-05-19,2.5
+,Vitaminen,I have chosen that I want to receive notifications when something happens in Halland. But I can sometimes get from other counties too. How does this happen?,3,2021-05-16,2.5
+,Alibolala,"As the title says. Seems to be a bug in that part of the app and it's quite annoying, especially now that I removed the counties I didn't want to receive notifications from, but then the counties I wanted were included too 😕",4,2021-04-27,2.5
+,Micksven,Why do I get information about what's happening in the whole country when I only have one region checked???,1,2021-04-15,2.5
+,Jeaz,"The idea is nice to be able to choose which regions you get notifications about, but the function doesn't work and you get notifications about all regions in any case.
+
+For example, if I try to ""deselect all"" under notification settings, it just flashes and then all are selected again.",2,2021-03-31,2.5
+,Kalle4468342665,"I get warnings from all counties, and it is not possible to deselect. The function does not work",1,2021-04-11,2.5
+,ullvi,I do not understand why this authority exists at all.😟,1,2021-04-02,2.5
+,/Katja,"It is not possible to mark which county you want information about, which means that I receive all warnings in the whole of Sweden. It cries wolf which removes the benefit. Deletes the app.",2,2021-03-31,2.5
+,Mattias Kesti Östergren,"On the ""Select county for notifications"" screen, all counties are selected and cannot be unchecked, so I get notifications about fires in Scania when I live in Gävle.",2,2020-10-15,2.5
+,Esox2k,"This embarrassingly bad app completely spams with warnings for our entire long country even though I selected specific counties.
+Have gone through every single setting and menu but can't get the app to stop misbehaving.
+
+Under all criticism given the function it should fulfill in society's preparedness. More people have the app than listen to P4 - FIX NOW!",1,2021-03-31,2.5
+,Oproffsig app,Notifications have never worked and the support link goes to a page that doesn't exist... Should be a bit more seriously managed app as the purpose is what it is,1,2021-03-07,2.5
+,WyZer_ORG,"Can't adjust the notifications, get warnings from all over the country and try to change it as soon as you get an error message. If you try to click on ""app support"" here in the appstore, you will be linked to a website that cannot be found. How can we take the app seriously if you don't?",1,2021-03-03,2.5
+,quebinsucho,Would be very convenient if text could be selected to translate to other languages.,3,2021-03-03,2.5
+,användare999,"""In March 2020, the Ministry of Foreign Affairs (MFA) introduced a recommendation against non-essential travel to all countries in the world. Non-essential travel refers to visiting and tourist trips.”
+
+This is probably old info (considering that the director general of MSB went on vacation) and should be updated.
+
+Otherwise, I think the App is good...",3,2021-01-02,2.5
+,Niklas B,Why don't I cross off the counties I don't want information from?,3,2020-12-19,2.5
+,zzzyyyeeevvv,Ugly!!! Interesting that all the names with the meaning that you are extremely bad are taken.,1,2020-12-14,2.5
+,jericson,"Marking and unmarking counties for coverage does not work. All are selected all the time. Please fix, please.",1,2020-11-25,2.5
+,ErikWesterdahl,Please fix the Notification settings. I get notifications from all over the country and it doesn't work to deselect/mark the area that affects me.,2,2020-10-15,2.5
+,mfalkvidd,"Good app, but keeps giving notifications for counties that I didn't select. So uninstalled the app.",2,2020-08-24,2.5
+,TheRealZwaa,"If you can't uncheck the county, delete the app and install it again (don't just update, delete it completely first). That solved the problem for me. Would think it also solves many other problems.
+Many have reported that it is not possible to deselect counties for which you want an important message. So do I. It's too bad that the people responsible haven't come up with this solution, people have been complaining for months.",3,2020-09-21,2.5
+,Peter Mn,"Works well but why do I get warnings about fires etc. at the other end of the country? Yes, I only have my own county checked.",3,2020-09-01,2.5
+,Sura tomten,"In the settings of the app, it is not possible to choose which counties you want information about. Even though I see people pointed this out over a year ago, the feature still bugs. Extremely bad in a government app like this. I don't care about a fire in älsbvyn because I live in Skåne.",2,2020-08-24,2.5
+,MonkeyRoyale,"Like everyone else, I get notifications from all counties even though I only selected the relevant one. Come on and fix it or it will uninstall.",2,2020-08-15,2.5
+,finnsinganamnkvar,"Tired of this crap app. There is a fire in a car workshop a few kilometers away with a risk of explosion and no information is received.
+Please put this app down.",1,2020-08-21,2.5
+,kjöta,"Doesn't work with area selection. Even though I chose 1 county, I get information from the whole country!",2,2020-08-11,2.5
+,Nightsgrow,"I receive notifications about VMA for all counties in the country, it is also not possible to set which counties you want to receive notifications for. The tick on the county you are interested in just blinks and disappears.",2,2020-06-25,2.5
+,Hoppetossan,"Gets alerts almost daily, as notifications are for the entire country. It is not possible to turn off notifications or deselect the counties that are not relevant! Now I have started to ignore the notices because they almost exclusively come from Norrland and I live in western Götaland! I see this was already pointed out a year ago, how hard is it to make a bug fix so that you can use the notification settings???",1,2020-08-11,2.5
+,Fixarenssara,"The app has previously been criticized for sending messages from areas you didn't tick that you want information about. Then came a bug fix.
+But:
+Today I learned that an apartment is on fire in Sundsvall...
+Seriously?!? Is Sundsvall in Scania ""still""?!?🙈😂",1,2020-07-31,2.5
+,Marcello_Sthlm,"Receive, as many others write, notices from all possible parts of the country even though I only ticked two counties. Pretty bad that it hasn't been fixed even though it's been so long now.",1,2020-07-31,2.5
+,notifikation bugg,I can't choose the county for notifications. Antigens are marked all or none. Individual counties are not saved.,1,2020-07-05,2.5
+,p3b0,"Time to fix, even though you select your own county in ""Select county for notifications"" there are notifications from other counties, it makes me turn off the notifications completely instead, which is the complete opposite of what the app is add.
+If I may guess, it is not about errors in the app itself, but how the crisis itself is entered by you. So that it should only apply in a certain county, because the map also shows other warnings even though you have selected a certain ""Area"".",3,2020-06-26,2.5
+,Nblue,"The idea with this app is good. Unfortunately, there is something wrong with it which means that you get notifications for all counties even if you have only selected a particular county, so you get a lot of irrelevant notifications all the time. Clicking on App support in the Appstore takes you to a removed page. Based on the fact that the app has not been updated in the last 6 months, it unfortunately feels like they shut it down.
+
+Badly handled by the authority behind it!",1,2020-06-26,2.5
+,jonasbi,"When I try to unmark a county, it is marked again, I get notifications for all counties and can't deselect any",1,2020-06-26,2.5
+,mar3ld,"The Crisis Information app is perhaps the most important app in the country but has worked poorly in recent years. Istf that the developer solves bugs and sends out improved versions, you are asked to reinstall the app at regular intervals.
+
+Go Sweden! 😂",2,2020-06-16,2.5
+,GreatGuyAndy,"Deleting the app now because I only get notice after notice about small fires at the other end of the country. I have chosen western Götaland as the area, but not a single notice has touched any event here.",1,2020-06-17,2.5
+,Hsöbduvbsögb,"Good with a notice for Crisis Information in the immediate area, however, you get notices for the whole of Sweden even if you have selected your area and given the app access to location information.",3,2020-06-16,2.5
+,Freddy_teddy,I have extremely get notifications on my phone. I only want a maximum of one notice a month from you. The other day you ripped off like six pushes in one day. That can't be reasonable.,2,2020-06-14,2.5
+,Lupmet,"In the settings for which counties one should receive notifications for, it is not possible to deselect counties, which means that I receive for the entire country. ""Deselect all"" causes all the ticks to flash and if I press a single one, it disappears for half a second and is then marked again. Something is not working as it should. Fast and wrong?",1,2020-06-15,2.5
+,hwilarn,"Today the whole of Sweden was asked to reinstall the app because ""an error"" meant that there ""may be problems with changing the settings for notifications"". Amateur and embarrassing.",2,2020-05-27,2.5
+,John Caboose,"Can't filter out VMA based on county, even though there are settings for it (which don't work).",2,2020-05-27,2.5
+,Irriterad2,"Uninstall this app when you get notifications from all over Sweden, even if you select a county you get everything else with.
+Too bad it doesn't work because the idea is good.
+Important messages can still be received via other media without a lot of false alarms from here.",1,2020-05-27,2.5
+,Freddddan!,"It is not possible to unmark counties for notifications, it marks all again",2,2020-05-27,2.5
+,Boggen,"When you click on unmark all counties, all are unmarked and then marked again.",1,2020-05-27,2.5
+,Rich#1,"The app has a serious bug which effectively renders the entire app unusable.
+
+All counties are marked for notifications, and it is not possible to unmark them. This means that the app sends irrelevant notifications all day long.
+
+After ""crying wolf"" for a whole week, you are forced to turn off the app's notifications completely, which in practice detracts from its entire value.
+
+Now it turns out that even that cannot be implemented(!). The app gives an error message that the notification settings cannot be updated. The only thing left is therefore to completely uninstall the entire app(!!!).
+
+The app has not been updated for about six months and gives an extremely weak impression. Basically feels like an abandoned, half-finished amateur project.",1,2020-05-27,2.5
+,Quercus1984,"Good basic idea, but I get notifications about fires in Dalarna even though I chose to only receive notifications about Skåne. It gets quite annoying.",2,2020-05-22,2.5
+,Slangeen,"Gets no notifications.
+Can't select county, all counties get marked no matter what you do. Still get no notification.",1,2020-05-27,2.5
+,Znoz,Good app but in dire need of updating! Bugs mean that it is not possible to set the variables you want.,3,2020-05-27,2.5
+,pbjorkhe,Can't choose which counties I want. Total rubbish! (Iphone x),1,2020-05-26,2.5
+,bjornkosundell,"It is not possible to turn off notifications and it is not possible to choose which counties you want monitored, so regardless of where you live, you get information from all over Sweden. So annoying that I deleted the app.
+
+In addition, the support function in the appstore does not work, so it is not possible to contact the developer. Hope they read here then.",1,2020-05-22,2.5
+,shubhesh,There should be an option in English as well for non-Swedish speaker.,2,2020-04-16,2.5
+,Linkan1903,I think it's time to fix this bug now so you don't get push notifications that warn of events that are 200 miles away.,1,2020-05-14,2.5
+,🍀Elding🍀,It is a great app and I love the map feature! It helps me so much!,5,2020-05-09,2.5
+,kolmastala,"Might as well look at the news because this app doesn't work as it should, I get information that doesn't concern me at all, a bit like when you download the newspaper's app",1,2020-05-09,2.5
+,Dontin616,In the info it says it is avaliable in English but it is not I think you should really made it in English you do know there is a lot of people not speaking swedish,1,2020-05-05,2.5
+,Bladerhunner,...and as usual it is so watered down that in practice rather becomes disinformation. Shut down the joke authority MSB which is behind this waste of resources. Embarrassingly bad!,1,2020-05-04,2.5
+,Less Nesman,"The settings keep disappearing. If you can't select the county, try deleting the app and reinstalling. MSB: there doesn't need to be this kind of bugs.",2,2019-10-14,2.4
+,Aсен,That app is really not good,1,2020-04-15,2.5
+,vågar ej uppdatera framöver,"When I open the app there is no info, have to swipe 1-5 times to refresh the app for the info to come. Before, everything came as soon as the app was opened",4,2019-11-29,2.4
+,Harusilveryume,"If you receive notifications for the whole of Sweden even though you only selected a few areas, it is because you only chose to turn them off in 1 of 2 places! You must switch off both under ""Current"" on the first page, and in ""Settings"". A little weird design but I understand the idea behind it.",4,2019-11-15,2.4
+,.emanuel,"Contains some useful information on how to prepare for different crises. Unfortunately, the app sometimes crashes and the notifications are a bit arbitrary, coming later when the danger is over, etc. Hope they put more work into it. Unfortunately doesn't even manage to create a false sense of security, as I don't trust the app to work when the crisis comes.",2,2018-11-04,2.2.1
+,julia finucane,"Very good, smooth and informative app but at the moment you can't choose which areas you get notifications about which makes it more annoying than helpful unfortunately :/",3,2019-09-15,2.3
+,Mattiasz,What does this authority do? Protect our tax dollars!,1,2020-04-12,2.5
+,Knaggen 6,"Great app if it works!
+A big mistake is if you go to ""Prepare yourself"" and then ""In case of cardiac arrest"" read underneath
+IF SOMEONE HAS HAD A CARDIAC ARREST:
+
+Call 112 and tell them where you are
+When they answer, the first thing to say is:
+CARDIAC ARREST!!!!! You may not have a clue where you are, then the person is lying and dying if you have to find out.
+When you say CARDIAC ARREST! So the operator knows exactly and immediately what needs to be done.
+That's how we got to learn CPR.",1,2019-03-12,2.2.1
+,Odinsdaughter,"I get a vma message but when I access the app, I manage to see the text a few seconds before the app crashes! If you start it again, you are met with ""here it was empty"".
+Very good and sensible information about how to handle different situations, but unfortunately that's also the only good thing about the app. The app can't be trusted at all.
+
+Strange that you don't put more energy into making it work, since many Swedes probably threw the folder ""if the crisis comes"" the same week it arrived in the mailbox! The app could really be useful in all kinds of situations and reach the public faster than via television and radio. Because that's how it came about???
+
+Availability, trust and security should be in the back of your mind.",1,2019-01-19,2.2.1
+,Mackan70,The app would have been much better if push notifications had worked.,2,2018-08-02,2.1.1
+,Daghain,Gives notifications about all sorts of different areas that you have not chosen to receive notifications for and are not in the vicinity of.,1,2018-10-11,2.2.1
+,iMan Sweden,Version 2.2 .1 is definitely not optimized for iPhone X. Doesn't look wise. Are you not testing before release????,1,2018-09-26,2.2
+,Perssonannasofia,"Now that the notifications seem to be working again, the app deserves a high rating! However, the share button is missing, it would have been convenient to be able to share a link instead of sending a print screen when a message is relevant to someone in the circle of acquaintances.",4,2018-08-23,2.1.1
+,A B N 01,"Receives no notifications. The purpose of the app is completely lost as push notifications don't work. Have iphone X and have downloaded the latest version of the app, however the notifications are not working.",1,2018-08-11,2.1.1
+,Språkintresseradiphonare,"The notifications are not working! Isn't that the very purpose of it all?
+Totally unreliable.",1,2018-08-05,2.1.1
+,Frötgrötaren4892,"The app is good because it sends notifications when a VMA is issued, but navigating the app itself is tough because it freezes all the time and sometimes even crashes. Fix this (I'm using iPhone 6S).",2,2018-05-06,2.0.3
+,Greenliiight,Notifications have stopped working. Error after the new version. Same problem on iPhone 7 Plus and iPhone x with latest iOS 11.4.1,1,2018-07-29,2.1.1
+,Åsajossan,"Get no notifications despite setting for it...Lose the point of this app and make it almost worse to have it as you can think that ""everything is calm"" when you miss important info...",1,2018-07-21,2.1.1
+,Jerry Krusell,"The notifications don't work, then the app is completely out of order and doesn't fulfill its purpose.",1,2018-07-19,2.1.1
+,jagtyp..,"Has an iPhone 8, now it has started to hang immediately when you start it, hopelessly annoying! Worked great until I switched from an iPhone 6..,",1,2018-05-13,2.0.3
+,Sir OldVic,"The second time you start the app, it locks up completely. Have uninstalled and reinstalled. Then it works the first time but not again after that. Works fine on the iPhone (with iOS 11.3.1) but not on the iPad. Updating the app after the platform update iOS 11.3.1 thanks.",1,2018-05-07,2.0.3
+,Cathippie,"Getting notifications but when I go into the app to look it won't open.
+Has happened several times now. Doesn't feel safe at all as you don't have time to read the notification that whizzes by.",1,2018-05-06,2.0.3
+,Fredrik_M,"The app only shows a white screen with a frozen charger spin, the same on both my iPhone 6 and iPad Air, so since nothing can be read it becomes completely worthless.",1,2018-05-04,2.0.3
+,Smubbi,"On all three of the last three occasions I've received a notification from this app that something serious has happened, the app's ""current"" view has opened and a ""charging"" symbol has been displayed for half an eternity. At no time have I received any information about anything substantial. The exception is possibly today's notice which, after a considerable waiting time, took me to a text that advised me on how to prepare for winter road conditions. Information which, at least in theory, can be essential. However, perhaps not at a level that warrants a notice of a serious incident. And definitely not in May.
+
+Priority one for the development (and evaluation) of such an app must reasonably be operational security and rapid dissemination of information.
+
+Redo, do right.",1,2018-05-04,2.0.3
+,greggy_82,"If the app is opened with a push notification, it hangs immediately. Rebooting helps.",1,2018-05-04,2.0.3
+,Supppaflaaax,Please update your app so that it fits iPhone X. It's 2018 not 2000!!!,1,2018-05-04,2.0.3
+,dront242,"As long as nothing happens it works fine, but when there are notifications, the whole system seems to pack up. Really bad for such an important app.",1,2018-04-23,2.0.3
+,"Baloo, the bear",The app doesn't work. Opens as usual but does not update the feed. Completely empty. It also freezes so it is not possible to go to settings.,1,2018-04-23,2.0.3
+,Elmaco gringo,"The app should be checked for functionality if MSB wants to get information out.
+
+Now it doesn't work at all.",1,2018-04-23,2.0.3
+,TompaEken,Can only agree with the other reviewers. Sending push notifications about parts of the country I didn't choose to monitor feels like the right way to go if you want the user to turn off the app's notifications and thus make it unnecessary.,2,2017-08-23,2.0.2
+,Bobbiz,"The app locks, gets a push notification when it arrives, but when I go in on the app for more info and the app locks in startup mode. Maybe time for an update to the new IOS???",1,2018-04-23,2.0.3
+,UUPelle,"Redesigned ""to make it more reliable""? Jeez, how was it before... Now it freezes/crashes right after opening. More than embarrassing - dangerous! People can probably trust this app!",1,2018-04-22,2.0.3
+,PetterSonic,"Has trouble starting up and doesn't take screen size into account.
+Otherwise, a good and important app!",3,2018-04-13,2.0.3
+,69 :-p,"The welcome screens do not take into account the size of the screen and its resolution, which means that it is not possible to read the text on the iPhone 6. It would have been less bad if the text and background were NOT the same color!",1,2018-01-10,2.0.3
+,cjfarn,Also allowed notices about events in other parts of the country than the ones I selected.,2,2017-07-16,2.0.2
+,Den Late,"They claim to have a filtering function where it should be possible to filter on areas of the country. However, neither the list in the app nor the notifications are filtered, you always get ""alarms"" from the whole country - no matter how you try to filter...",2,2017-05-06,2.0.2
+,Yobaman,Please solve the problem that it notifies about events in all counties even though I selected only one.,3,2017-07-14,2.0.2
+,Oroande,"It is direct Ridiculous that an authority like MSB cannot quickly solve a problem like this. The entire authority gives a strange impression in the TV features you have seen. A CRISIS app that doesn't work, government-Sweden in a nutshell.",1,2017-04-13,2.0.1
+,Davka003,"The app itself works fine, but why do I get notifications about a fire in Örebro when I set to receive notifications for Norrbotten and National events. Removal necessary otherwise you get tired of lots of ""the wolf is coming..."" and the app is removed.",4,2017-05-06,2.0.2
+,LindeJens,"Wondering why I get notifications about other parts of Sweden than the ones I selected. For example, a fire in Falkenberg is not a national event, so it would depend on that?",4,2017-04-23,2.0.2
+,Camilla_80,"As soon as the app is opened, it locks when it loads. Too bad it doesn't work because it's a good idea otherwise.
+Hoping for an update soon otherwise I might as well delete it.",1,2017-04-13,2.0.1
+,Appmaster10,"4.5 hours after the attack in Stockholm a notification came. However, the app locked up and was blank. Too slow and buggy.",1,2017-04-12,2.0.1
+,BilloBob63,Unacceptable that an authority has an app with this useless quality. That the authority is also responsible for the country's crisis and preparedness... absolutely damn incomprehensible.,1,2017-04-10,2.0.1
+, Martin,"You have to look for a worse app. It is completely useless in a crisis situation - laughable how an authority can be allowed to do something so bad. It crashes, it has a bad UI, it's completely blank where information should be displayed. Redo do right.",1,2017-04-10,2.0.1
+,SeSvensson756,"Very unreliable in general and got worse with ios10.3. After 10.3.1 it doesn't work at all
+
+Redo and do right",1,2017-04-09,2.0.1
+,C G Schultz,It is completely unacceptable that the app goes into lock mode during a crisis situation when the public really needs fact-based information and guidance. It would probably be better if the app is removed until it actually works.,1,2017-04-09,2.0.1
+,Bumpersticker,"Doesn't work in an actual crisis. For God's sake, DO NOT think that you can stay updated on crisis events with this app. The honest thing to do by MSB would be to remove the app and not lull people into false security.",1,2017-04-08,2.0.1
+,Jniden,You really need to check that it can handle the pressure of all the millions of people wanting to know what's going on.,1,2017-04-08,2.0.1
+,sebastianhallenstam,"When it comes down to it, it doesn't work.",1,2017-04-08,2.0.1
+,Mcoo5,"Hangs you right away !
+Considering what happened in Stockholm, it should be a priority to make sure this app works error free!",1,2017-04-08,2.0.1
+,Pav3l10n,Surely some tax million in contributions to develop this app. Works as well as Sweden's government,1,2017-04-08,2.0.1
+,/Jerry,Locks on the first splash screen at startup. Completely unusable on an ipad air 2.,1,2017-04-08,2.0.1
+,Söker info,Definitely a good app if you could open it. For obvious reasons don't want to fill in any ⭐️ but have to in order to send 😠,1,2017-04-07,2.0.1
+,Ale Lund,Same problem here: locks right at the start screen (iPhone 5). Rebooting does not help. Really bad for an app that should provide emergency information...,1,2017-04-07,2.0.1
+,Ingapengaringetspel,"Disaster, blank on the start screen doesn't work as it should in a crisis situation like now...",1,2017-04-07,2.0.1
+,Thomas 197,"The app locks on both iPhone and iPad
+
+You must do some update for this crash !!!!",1,2017-04-07,2.0.1
+,Andreas Nordangård,Hangs right at startup and also locks the phone for about half a minute. Iphone 6s ios 10.3,1,2017-04-07,2.0.1
+,Jossanog,"When a crisis hits, the app goes blank, seemed great until now. Better info from the media.",1,2017-04-07,2.0.1
+,Peranders.Perra,Appropriate day of terror in Stockholm then the app doesn't work,1,2017-04-07,2.0.1
+,Poperor,Awful that it doesn't work during the attack in Stockholm,1,2017-04-07,2.0.1
+,TrulyScandinavian,App stops working when started.,1,2017-04-07,2.0.1
+,The swede 63,Sad that the app locks at the start info screen on iPhone 6s with iOS 10.3.1. Quitting the app doesn't help.,1,2017-04-07,2.0.1
+,AndreasJ,"What good is a security app that won't even start?
+Had to uninstall right away...",1,2017-03-07,2.0
+,Slöjan,App won't open,1,2017-03-06,2.0
+,JessicaGbg,"When I downloaded the app it was working fine but after update it's like many others, it crashes without even starting, and the link to app support is dead...",1,2017-03-06,2.0
+,zleepy2,Before update the app was working perfectly clean. Now it goes away from the IPhone 6s as it doesn't work at all.,1,2017-03-03,2.0
+,JustAnotherBeerGuy,Good idea but unfortunately it crashes on my iPhone 5C constantly...,1,2017-02-25,2.0
+,MonoNoAware,Very good that you have collected several important sources in one place!,5,2017-03-01,2.0
+,Kuji-Kiri,"Crashes immediately on startup in my iPhone :-(
+and no one seems to be trying to do anything about it :-((",1,2017-02-24,2.0
+,Dun now,"Why do you guys use the location information given in the phone? Good if you're traveling across county borders.
+No support for Apple Watch notifications.",2,2015-11-14,1.3
+,nilsohman,"Crisis app. Also, there is no support page when you click the link in the Appstore.",1,2017-02-20,2.0
+,Croupieren,Crashes on startup and won't open,1,2017-02-19,2.0
+,JayTee_,"Crashes directly on my iPad Air, doesn't work at all.",1,2017-02-19,2.0
+,Glad betongare,Very good update! But what function does wallet support have?,5,2017-02-14,2.0
+,Vemharstulitmittnickname?,"Desirable app but feels created just for the sake of it. If MSB has spent money on external development of this app, they should demand reimbursement. Notifications still (read months) out of order..",2,2015-06-22,1.2
+,Rotitch,Update the app so the notifications work!,2,2013-03-23,1.0.1
+,Carl MBE,For better ratings: Optimize for iPhone 6.,1,2015-01-31,1.2
+,Kiwiman99,"Has been good, but is completely unusable with iOS 8. Can't even choose which counties you're interested in, so the feed is always empty.
+
+Really bad that they haven't come up with an iOS 8 update yet.",1,2014-11-16,1.1
+,mudroom,Can't open,1,2014-11-13,1.1
+,Maad003,Crashes all the time. Time for an update?,1,2014-10-16,1.1
+,Festiz,"For those of you who have problems with the app crashing: remove it from the home screen and download it from the app store again, it should probably solve the problem. It worked for me on both iPhone 4S and iPad Retina 3G.
+The iPad version is very well designed with a good overview of the world situation. The iPhone version is very compact and focuses on urgent events in the immediate area.",4,2014-01-23,1.1
+,jagpalle,"Does not work with new IOS, never starts but turns off immediately. Too bad :-(",1,2013-12-07,1.1
+,KSkoog,"After the update, it's not possible to keep the app open - closes immediately.",1,2013-07-26,1.1
+,penorm,Nice and well-functioning app that serves a good purpose.,5,2013-06-17,1.1
+,Redtag71,Notifications don't work!!!! Nasty!!,1,2012-12-09,1.0.1
+,Garbo001,On their website it says that only get alerted by VMA alarm. So stay calm. Notifications work.,5,2013-03-23,1.0.1
+,Lyrisk,Notifications don't work. People are lulled into false security. A big disappointment.,1,2012-09-23,1.0.1
+,Sfinx99,Wants notifications via SMS,4,2012-05-21,1.0.1
+,Bamsegrill,Good info and good link collection,5,2012-05-15,1.0.1
+,Dvalin1,Good app but notifications don't work,3,2012-04-13,1.0
+,Johanna 144, Great app! Just what is needed!,5,2012-04-15,1.0
+,Redmountain 08,Nice with the map function. Great to also get a consolidated list of links to operating info for all electricity-telecom-airline companies etc.,5,2012-04-13,1.0
+,Linasmammaeva,"I am so happy for this app! Here are some ideas:
+
+Maybe you could set up email notifications as well? And continents? Lovely with the link library (which can certainly increase in scope over time). Maybe we could also get a suggestion button in the app?
+
+And, last but not least: one (or more) crisis reporting button(s)! We out here are potential tip resources.",5,2012-04-13,1.0
+,Goza10,This seems nice. But you should be able to select all counties in an easier way and notifications turn off by themselves it seems!?,3,2012-04-12,1.0
+,StefanNilsson,...,1,2017-04-07,2.0.1
+,Lisen_1,I like that you can select several counties,5,2012-04-04,1.0
